@@ -1,0 +1,1522 @@
+{
+  "header": {
+    "links": {
+      "home": "Startseite",
+      "about": "Über uns",
+      "services": "Leistungen",
+      "howItWorks": "Neurora Betriebssystem",
+      "contact": "Kontakt"
+    },
+    "cta": "Angebot anfordern",
+    "menu": "Menü umschalten",
+    "language": "Sprache"
+  },
+  "hero": {
+    "badge": "Immobilienverwaltung · Zypern",
+    "titleLead": "Hören Sie auf, Ihrer Immobilie hinterherzulaufen.",
+    "titleAccent": "Übernehmen Sie die Kontrolle.",
+    "subtitle": "Strukturierte Immobilienverwaltung für Gebäude und Wohnanlagen in ganz Zypern, mit voller Transparenz, direkter Kommunikation und ohne operative Lücken.",
+    "bullets": [
+      "Keine Zwischenstellen. Direkte Kommunikation ab dem ersten Tag.",
+      "Das Geld Ihrer Immobilie bleibt auf dem eigenen Bankkonto.",
+      "Jede Ausgabe wird nachverfolgt. Jede Aufgabe wird betreut."
+    ],
+    "ctaPrimary": "Angebot anfordern",
+    "ctaSecondary": "Neurora Betriebssystem",
+    "imageAlt": "Modernes Luxus-Wohngebäude in Zypern unter Verwaltung von Neurora"
+  },
+  "hero3d": {
+    "titleLine1": "Immobilien",
+    "titleLine2": "Verwaltung",
+    "titleLine3": "neu gedacht",
+    "subtitle": "Immobilienverwaltung, Verwaltung von Gemeinschaftsbereichen, Reinigung nach Bauarbeiten",
+    "primaryCta": "Bewertung anfordern",
+    "secondaryCta": "Leistungen ansehen",
+    "scroll": "Scrollen",
+    "tags": {
+      "financial": "Finanzielle Kontrolle",
+      "legal": "Rechtlicher Schutz",
+      "cleaning": "Reinigung nach Bauarbeiten"
+    }
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Konform mit Cap. 224",
+        "desc": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb."
+      },
+      {
+        "title": "100 % geschützte Gelder",
+        "desc": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb."
+      },
+      {
+        "title": "Rechnungen am 1. des Monats",
+        "desc": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb."
+      },
+      {
+        "title": "Direkte Kommunikation",
+        "desc": "Keine Zwischenstellen. Keine Tickets. Echte Antworten."
+      }
+    ],
+    "modalDetails": [
+      "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+      "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+      "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+      "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern."
+    ]
+  },
+  "about": {
+    "eyebrow": "Immobilien, die wir verwalten",
+    "title": "Für Immobilien, die Struktur statt Chaos brauchen.",
+    "subtitle": "Ob Ihr Gebäude oder Ihre Wohnanlage reibungslos läuft oder im operativen Durcheinander steckt: Wir übernehmen, schaffen Struktur und bringen volle Kontrolle.",
+    "items": [
+      {
+        "title": "Bestehende Immobilien mit Strukturbedarf",
+        "desc": "Gebäude mit mehreren Eigentümern und Wohnanlagen, die Unordnung durch ein echtes System ersetzen möchten.",
+        "detail": "Diese Immobilien sind bereits in Betrieb, oft mit langjährigen Eigentümern, aber ohne ein klares Verwaltungsmodell. Wir prüfen die bestehenden Abläufe, definieren eine klare operative Struktur, formalisieren das Verwaltungskomitee und bringen Finanzen, Kommunikation und Instandhaltung in ein transparentes System."
+      },
+      {
+        "title": "Neue Entwicklungen",
+        "desc": "Bauträger, die fertiggestellte Immobilien vom ersten Tag an richtig organisiert übergeben möchten.",
+        "detail": "Wir arbeiten vor der Übergabe mit Bauträgern zusammen, damit die Immobilie direkt mit einem vollständigen Betriebsrahmen startet: eigenes Bankkonto, Abrechnungsplan, Auftragnehmerkontakte, Kommunikationskanäle und vollständige Einhaltung von Cap. 224 ab dem ersten Monat."
+      },
+      {
+        "title": "Immobilien mit operativen Problemen",
+        "desc": "Komplexe Situationen und gestörte Kommunikation. Wir übernehmen und bringen Ordnung hinein.",
+        "detail": "Wenn eine Immobilie unter ungeordneten Abläufen, nicht reagierender Verwaltung oder unklaren Prozessen leidet, stabilisieren wir die Situation. Wir strukturieren das Betriebsmodell neu, dokumentieren alles, klären Verantwortlichkeiten und stellen Ordnung wieder her, ohne die Bewohner unnötig zu belasten."
+      }
+    ]
+  },
+  "homeCoverage": {
+    "eyebrow": "Zypernweite Abdeckung",
+    "text": "Neurora Property Management unterstützt gemeinsame Immobilien in ganz Zypern, einschließlich Paphos, Limassol, Larnaca, Nikosia, Ayia Napa und Protaras.",
+    "locations": {
+      "paphos": {
+        "label": "Paphos",
+        "aria": "Immobilienverwaltungsleistungen in Paphos ansehen"
+      },
+      "limassol": {
+        "label": "Limassol",
+        "aria": "Immobilienverwaltungsleistungen in Limassol ansehen"
+      },
+      "larnaca": {
+        "label": "Larnaca",
+        "aria": "Immobilienverwaltungsleistungen in Larnaca ansehen"
+      },
+      "nicosia": {
+        "label": "Nikosia",
+        "aria": "Immobilienverwaltungsleistungen in Nikosia ansehen"
+      },
+      "ayiaNapa": {
+        "label": "Ayia Napa",
+        "aria": "Immobilienverwaltungsleistungen in Ayia Napa ansehen"
+      },
+      "protaras": {
+        "label": "Protaras",
+        "aria": "Immobilienverwaltungsleistungen in Protaras ansehen"
+      }
+    },
+    "country": {
+      "label": "Zypernweit",
+      "aria": "Informationen zur Immobilienverwaltung ansehen"
+    }
+  },
+  "aboutPage": {
+    "metaTitle": "Über Neurora Property Management | Immobilienverwaltung in Zypern",
+    "metaDescription": "Erfahren Sie, wie Neurora Property Management Struktur, Transparenz, Kommunikation und Kontrolle in Apartmentgebäude und Wohnanlagen in ganz Zypern bringt.",
+    "hero": {
+      "eyebrow": "Über Neurora Property Management",
+      "titleLead": "Immobilienverwaltung mit Fokus auf",
+      "titleAccent": "Struktur, Transparenz und Kontrolle.",
+      "subtitle": "Neurora Property Management wurde für Gebäude und Wohnanlagen geschaffen, die mehr als einfache Verwaltung benötigen. Wir bringen ein klares Betriebssystem in gemeinsame Immobilien und verbinden Kommunikation, finanzielle Sichtbarkeit, Instandhaltungskoordination und dokumentierte Verfahren.",
+      "ctaPrimary": "Angebot anfordern",
+      "ctaSecondary": "Leistungen ansehen"
+    },
+    "intro": {
+      "eyebrow": "Wer wir sind",
+      "title": "Ein Verwaltungspartner für Immobilien, die Klarheit brauchen.",
+      "body": "Wir arbeiten mit Verwaltungskomitees, Eigentümern, Bewohnern und Bauträgern zusammen, um informelle Absprachen durch ein strukturiertes Verwaltungssystem zu ersetzen. Jede Immobilie wird mit klarer Kommunikation, dokumentierten Entscheidungen, geordneten Unterlagen und vollständiger Sichtbarkeit über den Betrieb verwaltet."
+    },
+    "method": {
+      "title": "Die Neurora-Methode",
+      "body": "Unsere Arbeit basiert auf einem einfachen Prinzip: Die Immobilie soll die Kontrolle über ihr Geld, ihre Unterlagen und ihre Entscheidungen behalten. Neurora liefert die operative Struktur, Koordination, Nachverfolgung und tägliche Verwaltung, damit alles korrekt läuft.",
+      "points": {
+        "structure": "Struktur",
+        "transparency": "Transparenz",
+        "control": "Kontrolle"
+      }
+    },
+    "properties": {
+      "eyebrow": "Immobilien, die wir verwalten",
+      "title": "Unterschiedliche Immobilien. Ein strukturierter Standard.",
+      "subtitle": "Von bestehenden Apartmentgebäuden bis zu neuen Entwicklungen und Immobilien mit operativen Problemen bleibt das Ziel gleich: Verwirrung durch ein klares System ersetzen."
+    },
+    "standard": {
+      "eyebrow": "Unser Standard",
+      "title": "Darauf ausgelegt, Vertrauen zwischen Eigentümern, Bewohnern und Verwaltungskomitee zu schützen.",
+      "subtitle": "Der Neurora-Standard konzentriert sich auf klare Unterlagen, geschützte Gelder, planbare Abrechnung und direkte Kommunikation ab dem ersten Tag."
+    },
+    "cta": {
+      "title": "Bereit, Struktur in Ihre Immobilie zu bringen?",
+      "body": "Erzählen Sie uns von Ihrem Apartmentgebäude oder Ihrer Wohnanlage und wir erstellen ein klares Angebot auf Grundlage der tatsächlichen Bedürfnisse.",
+      "button": "Angebot anfordern"
+    }
+  },
+  "howItWorksPage": {
+    "metaTitle": "Neurora Operating System | Neurora Property Management",
+    "metaDescription": "Entdecken Sie das Neurora Operating System mit vollständigem Verwaltungsprozess, Finanzkontrolle, automatisierter Abrechnung, Kommunikationsstruktur und rechtlichem Schutz.",
+    "hero": {
+      "eyebrow": "Neurora Operating System",
+      "titleLead": "Ein Betriebssystem für",
+      "titleAccent": "volle Immobilienkontrolle.",
+      "subtitle": "Das Neurora Operating System verbindet den vollständigen Übernahmeprozess mit Finanzkontrolle, automatisierter Verwaltung, rechtlicher Struktur, Dokumentation, Kommunikation und täglicher operativer Verwaltung.",
+      "ctaPrimary": "Angebot anfordern",
+      "ctaSecondary": "Leistungen ansehen"
+    },
+    "intro": {
+      "eyebrow": "Das Betriebssystem",
+      "title": "Von der Zustimmung der Eigentümer bis zur täglichen Kontrolle folgt alles einer Struktur.",
+      "body": "Bevor Neurora übernimmt, durchläuft die Immobilie einen klaren Zustimmungs- und Dokumentationsprozess. Nach der Übernahme verbindet das Betriebssystem Kommunikation, Abrechnung, Lieferanten, Unterlagen, Bankkontosichtbarkeit, Automatisierung und rechtliche Struktur.",
+      "panelTitle": "Prozess + System",
+      "panelBody": "Diese Seite verbindet den Übernahmeprozess mit den Details des Neurora Operating System, damit Eigentümer sowohl die Genehmigungsschritte als auch die Verwaltungsstruktur nach der Übernahme verstehen.",
+      "points": {
+        "review": "Prüfen",
+        "document": "Dokumentieren",
+        "takeover": "Übernehmen"
+      }
+    },
+    "afterTakeover": {
+      "eyebrow": "Nach der Übernahme",
+      "title": "Was passiert, sobald Neurora die Immobilie verwaltet.",
+      "subtitle": "Sobald die Immobilie in aktive Verwaltung übergeht, wird die operative Struktur aktiviert und die tägliche Verwaltungsarbeit beginnt.",
+      "items": [
+        {
+          "title": "Kommunikation geht live",
+          "desc": "Eigene Viber- und WhatsApp-Gruppen werden für direkte Koordination erstellt.",
+          "detail": "Für das Verwaltungskomitee und die Bewohner werden eigene Kommunikationsgruppen eingerichtet, damit Ankündigungen, Updates, geplante Arbeiten, Entscheidungen und Nachverfolgung über klare Kanäle laufen."
+        },
+        {
+          "title": "Monatliche Gemeinschaftskosten starten",
+          "desc": "Gemeinschaftskosten werden über einen strukturierten Monatsprozess ausgestellt und verfolgt.",
+          "detail": "Monatliche Gemeinschaftskosten werden klar und einheitlich ausgestellt. Zahlungen werden verfolgt, offene Salden überwacht und das Verwaltungskomitee behält Sicht auf den Einzug."
+        },
+        {
+          "title": "Lieferanten werden koordiniert",
+          "desc": "Reinigung, Instandhaltung, Versorger, Reparaturen, Einrichtungen und Außenpflege werden organisiert.",
+          "detail": "Lieferanten und Auftragnehmer der Immobilie werden über eine Verwaltungsstruktur koordiniert, damit Reinigung, Instandhaltung, Versorger, Reparaturen, Einrichtungen und Außenpflege organisiert bleiben."
+        },
+        {
+          "title": "Unterlagen werden gepflegt",
+          "desc": "Zahlungen, Ausgaben, Entscheidungen, Protokolle und operative Updates werden dokumentiert.",
+          "detail": "Wichtige Immobilienunterlagen werden geordnet gepflegt, einschließlich Zahlungen, Ausgaben, Entscheidungen, Protokolle, Lieferantenthemen, operative Updates und sonstige immobilienbezogene Dokumentation."
+        }
+      ]
+    },
+    "financial": {
+      "eyebrow": "Finanzielle Kontrolle",
+      "title": "Die Immobilie behält Kontrolle über ihr Geld.",
+      "body": "Jedes Apartmentgebäude oder jede Wohnanlage hat ein eigenes Bank-of-Cyprus-Konto im Namen des Verwaltungskomitees. Gelder bleiben beim Kunden, nicht bei Neurora. So erhält das Komitee Sichtbarkeit, Kontrolle und Nachvollziehbarkeit über die Finanzen der Immobilie.",
+      "items": [
+        {
+          "title": "Eigenes Bankkonto",
+          "desc": "Jede Immobilie hat ein eigenes Bankkonto im Namen des Verwaltungskomitees.",
+          "detail": "Die Immobilie arbeitet über ihr eigenes Bank-of-Cyprus-Konto im Namen des Verwaltungskomitees, damit das Geld mit der Immobilie verbunden bleibt."
+        },
+        {
+          "title": "Keine Sammelgelder",
+          "desc": "Immobiliengelder werden nicht mit Firmengeldern oder anderen Immobilien vermischt.",
+          "detail": "Die Gelder der Immobilie werden nicht mit anderen Gebäuden oder Betriebsgeldern der Firma zusammengelegt, was klare Verantwortlichkeit und finanzielle Trennung unterstützt."
+        },
+        {
+          "title": "Volle Sichtbarkeit",
+          "desc": "Einnahmen, Ausgaben, Zahlungen und Salden sind leichter zu verfolgen.",
+          "detail": "Das Verwaltungskomitee behält Sicht auf Einnahmen, Ausgaben, Zahlungen und Salden, damit Entscheidungen mit besserer finanzieller Klarheit getroffen werden."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Bereit zu verstehen, was Ihre Immobilie braucht?",
+      "body": "Erzählen Sie uns von Ihrem Apartmentgebäude oder Ihrer Wohnanlage und wir erstellen ein klares Angebot auf Grundlage der tatsächlichen operativen Bedürfnisse.",
+      "button": "Angebot anfordern"
+    }
+  },
+  "problem": {
+    "eyebrow": "Die Realität",
+    "titleLead": "Die meisten Gebäude haben keine Verwaltung.",
+    "titleAccent": "Sie haben Probleme.",
+    "items": [
+      {
+        "title": "Zahlungen sind verspätet oder unklar",
+        "detail": "Ohne strukturierte Abrechnung erhalten Eigentümer uneinheitliche Rechnungen, verpassen Zahlungsfristen oder wissen nicht genau, wofür sie zahlen. Der Cashflow wird unvorhersehbar und die Immobilie kann nicht im Voraus planen."
+      },
+      {
+        "title": "Keine Transparenz über die Finanzen",
+        "detail": "Ohne eigenes Bankkonto und klare Berichte sehen Eigentümer nicht, wohin das Geld fließt. Gelder werden vermischt, mit anderen Immobilien zusammengelegt oder vollständig von einer einzelnen Person kontrolliert."
+      },
+      {
+        "title": "Instandhaltung wird zu spät erledigt",
+        "detail": "Reaktive Instandhaltung führt zu größeren Problemen und unnötigen Kosten. Ohne geplante Kontrollen und koordinierte Auftragnehmer werden kleine Mängel schnell zu teuren Notfällen."
+      },
+      {
+        "title": "Kommunikation ist langsam oder wird ignoriert",
+        "detail": "Wenn Bewohner Antworten hinterherlaufen oder sich auf informelle Kanäle verlassen müssen, geht Vertrauen verloren. Wichtige Updates werden verpasst, Anfragen gehen unter und Eigentümer fühlen sich von ihrer Immobilie abgeschnitten."
+      },
+      {
+        "title": "Entscheidungen werden nicht dokumentiert",
+        "detail": "Mündliche Absprachen und informelle Genehmigungen führen zu Streit, Unklarheiten und rechtlichem Risiko. Ohne Protokolle und Beschlüsse ist später schwer nachzuweisen, was entschieden wurde und wer zugestimmt hat."
+      },
+      {
+        "title": "Niemand übernimmt klare Verantwortung",
+        "detail": "Wenn Aufgaben zwischen Eigentümern, Bewohnern, Lieferanten und Komitee verteilt sind, aber niemand nachfasst, bleiben Probleme liegen. Die Immobilie braucht einen klaren operativen Punkt, der alles koordiniert."
+      }
+    ],
+    "footerLead": "Das ist keine Verwaltung.",
+    "footerAccent": "Das ist Chaos."
+  },
+  "postConstruction": {
+    "eyebrow": "Reinigung nach Bauarbeiten",
+    "title": "Von der Bauübergabe zu einer präsentationsbereiten Immobilie.",
+    "subtitle": "Nach Abschluss der Bauarbeiten bleiben oft Staub, Schutt, Rückstände und Spuren in Wohnungen, Eingängen, Gemeinschaftsbereichen und gemeinsamen Einrichtungen zurück. Neurora bereitet die gesamte Immobilie so vor, dass sie sauber, organisiert und bereit für Präsentation, Übergabe oder Erstbezug ist.",
+    "visual": {
+      "beforeTitle": "Nach dem Bau",
+      "beforeText": "Staub, Schutt, Rückstände und ein unfertiger Eindruck in der gesamten Immobilie.",
+      "afterTitle": "Bereit für die Übergabe",
+      "afterText": "Wohnungen, Eingänge, Gemeinschaftsbereiche und gemeinsame Zonen sind für einen besseren ersten Eindruck vorbereitet."
+    },
+    "cards": [
+      {
+        "key": "debris",
+        "title": "Entfernung von Staub und Rückständen",
+        "desc": "Baustaub, Verpackungsreste und verbliebene Rückstände werden aus Wohnungen und Gemeinschaftsbereichen entfernt.",
+        "detail": "Die Reinigung nach Bauarbeiten konzentriert sich auf sichtbare und praktische Verschmutzungen nach Abschluss der Arbeiten. Dazu gehören Baustaub, Verpackungsreste, kleine Abfälle, Rückstände, Spuren und Schmutz in Wohnungen, Eingängen, Fluren, Treppenhäusern, Aufzügen, Gemeinschaftsflächen und gemeinsamen Einrichtungen, damit die Immobilie nicht mehr wie eine Baustelle wirkt."
+      },
+      {
+        "key": "common",
+        "title": "Komplette Vorbereitung der Immobilie",
+        "desc": "Wohnungen, Eingänge, Flure, Aufzüge, Treppen und Gemeinschaftsbereiche werden für die erste Nutzung vorbereitet.",
+        "detail": "Der Service umfasst die Bereiche, die Eigentümer, Bewohner und Besucher sehen und nutzen: Wohnungen, Eingänge, Flure, Treppenhäuser, Aufzüge, Lobbys, Gemeinschaftsbereiche und gemeinsame Einrichtungen. Ziel ist eine saubere, präsentable und übergabebereite Immobilie."
+      },
+      {
+        "key": "handover",
+        "title": "Bereit für Übergabe oder Bezug",
+        "desc": "Die Immobilie wird für Übergaben, Besichtigungen, Erstbezug oder die tägliche Nutzung vorbereitet.",
+        "detail": "Nach der Reinigung ist die Immobilie besser für Bauträgerübergaben, Eigentümerbesichtigungen, Mietereinzug oder die erste Nutzung durch Bewohner vorbereitet. Der Fokus liegt auf einer sauberen, organisierten und professionellen Präsentation der Immobilie."
+      }
+    ]
+  },
+  "solution": {
+    "eyebrow": "Die Lösung",
+    "title": "Neurora ersetzt Chaos durch Struktur.",
+    "body": "Wir implementieren ein vollständiges Betriebssystem, das Finanzen, Kommunikation, Instandhaltung und rechtliche Struktur abdeckt.",
+    "footer": "Nichts bleibt unbeaufsichtigt. Nichts bleibt unklar.",
+    "beforeLabel": "Vorher",
+    "bridgeLabel": "Neurora-Struktur",
+    "afterLabel": "Nachher",
+    "chaos": [
+      "Verspätete oder unklare Zahlungen",
+      "Keine Finanztransparenz",
+      "Reaktive Instandhaltung",
+      "Langsame oder ignorierte Kommunikation",
+      "Nicht dokumentierte Entscheidungen"
+    ],
+    "control": [
+      "Organisierte Zahlungen",
+      "Geschützte Gelder",
+      "Geplante Instandhaltung",
+      "Zentrale Kommunikation",
+      "Dokumentierte Entscheidungen"
+    ]
+  },
+  "services": {
+    "eyebrow": "Was wir übernehmen",
+    "title": "Alles, was Ihre Immobilie braucht. Vollständig verwaltet.",
+    "subtitle": "Ein Partner. Volle operative Kontrolle.",
+    "cta": "Unsere Leistungen ansehen",
+    "ctaNote": "Die vollständige Leistungsübersicht ansehen",
+    "items": [
+      {
+        "key": "common",
+        "title": "Gemeinschaftskosten",
+        "desc": "Feste monatliche Beträge, damit Bewohner mehrere Monate im Voraus zahlen oder Daueraufträge einrichten können.",
+        "detail": "Gemeinschaftskosten werden als feste monatliche Beträge anhand des Anteils jeder Einheit berechnet. Bewohner können im Voraus zahlen oder Daueraufträge einrichten, wodurch Reibung reduziert und der Cashflow der Immobilie planbar wird. Keine überraschenden Abgleiche und keine Anpassungen am Jahresende."
+      },
+      {
+        "key": "cleaning",
+        "title": "Reinigung und Instandhaltung",
+        "desc": "Konstante Pflege aller Gemeinschaftsbereiche nach einem dokumentierten Standard.",
+        "detail": "Alle Gemeinschaftsbereiche, einschließlich Eingänge, Flure, Treppenhäuser, Parkplätze und gemeinsame Einrichtungen, werden nach einem klar definierten Sauberkeitsstandard betreut. Pläne sind festgelegt, die Kontrolle erfolgt regelmäßig und Instandhaltungsmaßnahmen werden von unserem Operationsteam koordiniert."
+      },
+      {
+        "key": "utilities",
+        "title": "Versorgungsleistungen",
+        "desc": "Versorgungskonten werden verwaltet, pünktlich bezahlt und vor Unterbrechungen geschützt.",
+        "detail": "Strom, Wasser und gemeinsame Versorgungskonten werden über strukturierte Daueraufträge verwaltet. Zahlungen werden geplant, Salden überwacht und Verlängerungen rechtzeitig erledigt, damit die Immobilie keine verpassten Zahlungen, Mahngebühren oder Unterbrechungen erlebt."
+      },
+      {
+        "key": "landscaping",
+        "title": "Garten- und Außenpflege",
+        "desc": "Professionelle Pflege von Außenbereichen und Grünflächen nach einem festen Plan.",
+        "detail": "Gärten, Außenbereiche und Grünflächen werden nach einem definierten Zeitplan durch qualifizierte Auftragnehmer gepflegt. Schnitt, Bewässerungsüberwachung, saisonale Pflege und Ersatzpflanzungen werden koordiniert, damit der Außenbereich das ganze Jahr über gepflegt wirkt."
+      },
+      {
+        "key": "amenities",
+        "title": "Gemeinsame Einrichtungen",
+        "desc": "Pools, Aufzüge und gemeinsame Anlagen werden professionell verwaltet und korrekt gewartet.",
+        "detail": "Pools, Aufzüge, Fitnessräume und gemeinsame Einrichtungen werden strukturiert überwacht. Serviceverträge, Inspektionen, Zertifizierungen und regelmäßige Wartung werden zentral koordiniert, damit Einrichtungen sicher, konform und verfügbar bleiben."
+      },
+      {
+        "key": "repairs",
+        "title": "Reparaturen",
+        "desc": "Reparaturthemen werden proaktiv mit koordinierter Auftragnehmeraufsicht erledigt.",
+        "detail": "Reparaturanfragen werden aufgenommen, priorisiert und an geprüfte Auftragnehmer weitergeleitet. Angebote werden geprüft, Arbeiten überwacht und Ergebnisse dokumentiert. Eigentümer und Verwaltungskomitee erhalten einen klaren Nachweis jeder Maßnahme."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Neurora Operating System",
+    "title": "Ein System. Volle Kontrolle.",
+    "subtitle": "Ein klares Betriebssystem vom Angebot bis zur Übernahme, Finanzkontrolle, Abrechnung, Kommunikation und rechtlicher Struktur.",
+    "stepLabel": "SCHRITT",
+    "fromHere": "AB HIER",
+    "fromHereTitle": "Strukturiert ab Tag eins.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Maßgeschneidertes Angebot",
+        "desc": "Ein klares, detailliertes Angebot für Ihre konkrete Immobilie.",
+        "detail": "Wir prüfen Größe, Einheiten, Einrichtungen und operative Bedürfnisse Ihrer Immobilie, um ein vollständig aufgeschlüsseltes Angebot zu erstellen. Jede Kostenposition ist transparent, jeder Leistungsumfang definiert und nichts bleibt Interpretationssache."
+      },
+      {
+        "n": "02",
+        "title": "Präsentation in der Generalversammlung",
+        "desc": "Wir stellen das System allen Eigentümern direkt und ohne Skript vor.",
+        "detail": "Unser Team nimmt persönlich an der Generalversammlung teil und erklärt den Eigentümern das Angebot, das Betriebsmodell und den rechtlichen Rahmen. Fragen werden direkt und protokolliert beantwortet."
+      },
+      {
+        "n": "03",
+        "title": "Eigentümerabstimmung (50%+)",
+        "desc": "Eine Mehrheitsentscheidung, transparent dokumentiert.",
+        "detail": "Die formelle Abstimmung erfolgt gemäß Cap. 224. Eine einfache Mehrheit von 50%+ ist erforderlich, um Neurora zu bestellen. Das Ergebnis wird im offiziellen Protokoll festgehalten und allen Eigentümern zugänglich gemacht."
+      },
+      {
+        "n": "04",
+        "title": "Verwaltungskomitee gewählt",
+        "desc": "Die Eigentümer wählen ihr Verwaltungskomitee.",
+        "detail": "Die Eigentümer wählen ein Verwaltungskomitee, das die Immobilie rechtlich vertritt. Das Komitee überwacht Entscheidungen, Genehmigungen und finanzielle Kontrolle, während Neurora operativ unterstützt."
+      },
+      {
+        "n": "05",
+        "title": "Rechtliche Dokumentation",
+        "desc": "Protokolle und Beschlüsse werden gemäß Cap. 224 abgelegt.",
+        "detail": "Entscheidungen, Protokolle, Beschlüsse und Bestellungen werden formell dokumentiert und gemäß Cap. 224 abgelegt. Die Immobilie erhält eine saubere rechtliche Grundlage."
+      },
+      {
+        "n": "06",
+        "title": "Bankkonto eröffnet",
+        "desc": "Bank-of-Cyprus-Konto im Namen des Verwaltungskomitees.",
+        "detail": "Ein eigenes Bankkonto wird bei der Bank of Cyprus im Namen des Verwaltungskomitees eröffnet. Gelder gehören der Immobilie, niemals dem Verwalter. Jede Transaktion ist nachvollziehbar und prüfbar."
+      },
+      {
+        "n": "07",
+        "title": "Operative Übernahme",
+        "desc": "Der Betrieb startet vollständig. Kommunikationsgruppen gehen live.",
+        "detail": "Neurora übernimmt die operative Steuerung: Abrechnung, Versorger, Instandhaltung, Auftragnehmer und Berichte. WhatsApp- und Viber-Gruppen gehen ab dem ersten Tag live."
+      }
+    ],
+    "homeCta": "Neurora Operating System"
+  },
+  "communication": {
+    "eyebrow": "Kommunikation",
+    "title": "Keine Tickets. Keine Verzögerungen. Keine Zwischenstellen.",
+    "subtitle": "Sie schreiben. Wir handeln. Direkte WhatsApp- und Viber-Gruppen ab dem ersten Tag, mit echten Antworten von echten Menschen.",
+    "cta": "Kommunikation",
+    "directGroups": "Direkte Gruppen",
+    "tile1Title": "WhatsApp & Viber",
+    "tile1Sub": "Ab Tag eins",
+    "tile2Title": "Echtzeit",
+    "tile2Sub": "Menschliche Antworten",
+    "channels": [
+      {
+        "title": "Gruppe des Verwaltungskomitees",
+        "desc": "Privater Kanal für finanzielle Entscheidungen, Genehmigungen und vertrauliche Themen.",
+        "tag": "Privat"
+      },
+      {
+        "title": "Bewohnergruppe",
+        "desc": "Ankündigungen, Updates und geplante Arbeiten. Volle Transparenz für jeden Bewohner.",
+        "tag": "Offen"
+      }
+    ]
+  },
+  "operatingSystem": {
+    "eyebrow": "Neurora Betriebssystem",
+    "titleLine1": "Ein System.",
+    "titleLine2": "Volle Kontrolle.",
+    "subtitle": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern."
+  },
+  "financial": {
+    "eyebrow": "Finanzielle Kontrolle",
+    "title": "Ihr Geld bleibt Ihr Geld. Immer.",
+    "subtitle": "Jede Immobilie hat ihr eigenes Bank-of-Cyprus-Konto im Namen des Verwaltungskomitees. Keine Sammelkonten. Volle Sichtbarkeit über 1Bank. Jede Transaktion wird verfolgt.",
+    "accountHolder": "Kontoinhaber",
+    "accountHolderName": "Verwaltungskomitee",
+    "accountBody": "Das Bankkonto wird bei der Bank of Cyprus im Namen des Verwaltungskomitees eröffnet, mit Live-Einsicht über 1Bank. Die Eigentümer behalten die Kontrolle.",
+    "tag1": "Bank of Cyprus",
+    "tag2": "1Bank-Zugang",
+    "pillars": [
+      {
+        "title": "Eigenes Bankkonto",
+        "desc": "Jede Immobilie hat ihr eigenes Konto bei der Bank of Cyprus."
+      },
+      {
+        "title": "Eigentum des Verwaltungskomitees",
+        "desc": "Das Konto läuft auf den Namen des Verwaltungskomitees, nicht auf Neurora."
+      },
+      {
+        "title": "Live-Transparenz",
+        "desc": "Voller Zugang über 1Bank. Das Verwaltungskomitee sieht alles in Echtzeit."
+      },
+      {
+        "title": "Jede Transaktion verfolgt",
+        "desc": "Dokumentiert, kategorisiert und jederzeit prüfbar."
+      }
+    ]
+  },
+  "legal": {
+    "eyebrow": "Rechtlicher Schutz",
+    "title": "Vollständig konform. Vollständig geschützt.",
+    "subtitle": "Jede Maßnahme hat eine rechtliche Grundlage. Cap. 224-konform. Governance über das Verwaltungskomitee. Vollständig dokumentierte Entscheidungen.",
+    "items": [
+      {
+        "title": "Einhaltung von Cap. 224",
+        "desc": "Jeder Vorgang ist auf das zyprische Immobilienrecht abgestimmt.",
+        "detail": "Alle Vorgänge folgen dem Rahmen des Immovable Property Law, Cap. 224. Von der Komiteebildung und Versammlungsführung bis zu Finanzverwaltung und Beschlüssen arbeitet die Immobilie auf einer rechtlich soliden Grundlage."
+      },
+      {
+        "title": "Entscheidungen über das Verwaltungskomitee",
+        "desc": "Alle Entscheidungen werden vom Verwaltungskomitee getroffen, niemals von uns allein.",
+        "detail": "Strategische, finanzielle und operative Entscheidungen werden vom gewählten Verwaltungskomitee getroffen. Neurora liefert strukturierte Empfehlungen und Ausführung. Die Eigentümer behalten jederzeit Kontrolle über ihre Immobilie."
+      },
+      {
+        "title": "Dokumentierte Sitzungen",
+        "desc": "Protokolle, Abstimmungen und Beschlüsse werden korrekt vorbereitet und abgelegt.",
+        "detail": "Jede Generalversammlung und Komiteesitzung wird formell dokumentiert. Tagesordnungen, Protokolle, Stimmen und Beschlüsse werden Cap. 224-konform vorbereitet und organisiert archiviert."
+      }
+    ]
+  },
+  "automation": {
+    "eyebrow": "Automatisierung & Abrechnung",
+    "title": "Nichts wird vergessen. Nichts wird verzögert.",
+    "subtitle": "Zuverlässig. Planbar. Systematisiert.",
+    "items": [
+      {
+        "title": "Daueraufträge für Versorger",
+        "desc": "Strom, Wasser und Aufzüge werden automatisch bezahlt. Keine verspäteten Zahlungen.",
+        "detail": "Daueraufträge werden direkt mit Versorgern und dem Bankkonto der Immobilie eingerichtet. Rechnungen werden bei Fälligkeit automatisch beglichen, wodurch Mahngebühren, Unterbrechungen oder vergessene Zahlungen vermieden werden."
+      },
+      {
+        "title": "Rechnungen am 1. des Monats",
+        "desc": "Monatliche Rechnungen gehen automatisch am ersten Tag des Monats an jeden Eigentümer.",
+        "detail": "Jeder Eigentümer erhält am ersten Tag jedes Monats eine klare, aufgeschlüsselte Rechnung. Zahlungen können per Dauerauftrag, Banküberweisung oder Vorauszahlung erfolgen."
+      },
+      {
+        "title": "Vollständig aufgeschlüsselte Abrechnung",
+        "desc": "Jede Position wird erklärt. Eigentümer wissen genau, wofür sie zahlen.",
+        "detail": "Jede Rechnung zeigt die einzelnen Kosten: Gemeinschaftskosten, Versorger, Instandhaltung, Reparaturen und Sonderfonds. Keine vagen Summen und keine versteckten Positionen."
+      },
+      {
+        "title": "Prüfbare Historie",
+        "desc": "Vollständige Aufzeichnung von Gebühren, Zahlungen und Arbeiten, jederzeit zugänglich.",
+        "detail": "Jede Transaktion, Rechnung, Zahlung und Maßnahme wird in einem strukturierten Archiv erfasst. Das Verwaltungskomitee kann die operative und finanzielle Historie jederzeit prüfen."
+      }
+    ]
+  },
+  "finalCta": {
+    "titleLead": "Bereit, Struktur in Ihre Immobilie zu bringen?",
+    "titleAccent": "richtig zu betreiben.",
+    "cta": "Angebot anfordern"
+  },
+  "contact": {
+    "eyebrow": "Angebot anfordern",
+    "title": "Bringen Sie Struktur in Ihre Immobilie.",
+    "subtitle": "Bringen Sie Struktur in Ihre Immobilie.",
+    "emailLabel": "E-Mail",
+    "phoneLabel": "Telefon",
+    "coverageLabel": "Abdeckung",
+    "coverageValue": "Zypernweit",
+    "stepOf": "Schritt {{step}} von {{total}}",
+    "stepLabels": {
+      "1": "Immobilientyp",
+      "2": "Information",
+      "3": "Information",
+      "4": "Information",
+      "5": "Kontakt"
+    },
+    "step1": {
+      "location": "Standort",
+      "units": "Weitere Informationen",
+      "projectType": "Immobilientyp",
+      "locations": [
+        "Nikosia",
+        "Limassol",
+        "Larnaca",
+        "Paphos",
+        "Ayia Napa",
+        "Protaras"
+      ],
+      "unitRanges": [
+        "1–10",
+        "10–30",
+        "30–60",
+        "60+"
+      ],
+      "projectTypes": [
+        "Gebäude",
+        "Wohnanlage",
+        "Wohnung",
+        "Haus",
+        "Villa",
+        "Gewerbe"
+      ],
+      "optionalInfo": {
+        "eyebrow": "Neurora Property Management",
+        "title": "Bringen Sie Struktur in Ihre Immobilie.",
+        "subtitle": "Bringen Sie Struktur in Ihre Immobilie."
+      }
+    },
+    "step2": {
+      "projectName": "Immobilien Name",
+      "year": "Baujahr",
+      "selectYear": "Jahr auswählen",
+      "floors": "Anzahl der Stockwerke",
+      "units": "Anzahl der Einheiten",
+      "floorsPlaceholder": "1–100",
+      "unitsPlaceholder": "1–500",
+      "hasBank": "Weitere Informationen",
+      "bankName": "Bankname",
+      "hasInsurance": "Weitere Informationen",
+      "insuranceName": "Name der Versicherungsgesellschaft",
+      "hasElevator": "Weitere Informationen",
+      "elevatorCompany": "Name des Serviceunternehmens",
+      "electricity": "Stromkosten (geschätzt)",
+      "water": "Wasserkosten (geschätzt)",
+      "hasCommittee": "Weitere Informationen",
+      "hasTitleDeeds": "Eigentumsurkunden?",
+      "hasMinutes": "Weitere Informationen",
+      "extra": "Weitere Informationen",
+      "selectYesToEnable": "Weitere Informationen"
+    },
+    "step3": {
+      "title": "Bringen Sie Struktur in Ihre Immobilie.",
+      "subtitle": "Bringen Sie Struktur in Ihre Immobilie.",
+      "other": "Sonstiges",
+      "otherPlaceholder": "Bitte angeben",
+      "otherDisabled": "Weitere Informationen",
+      "services": [
+        "Gebäudeverwaltung",
+        "Reinigung nach Bauarbeiten",
+        "Gartenpflege",
+        "Poolpflege",
+        "Schädlingsbekämpfung",
+        "Dachwartung",
+        "Renovierungen",
+        "Verwaltung des Sonderfonds der Immobilie",
+        "Verwaltung und Wartung von Feuerlöschern und Brandschutz",
+        "Reinigung von Mülltonnen",
+        "Reinigung von Wassertanks",
+        "Rechnungsverwaltung",
+        "Reinigung und Wartung der Kanalisation",
+        "Verwaltung und Wartung gemeinsamer Heizung"
+      ],
+      "otherPrefix": "Sonstiges"
+    },
+    "step4": {
+      "issuesTitle": "Welche aktuellen Probleme hat Ihre Immobilie?",
+      "selectAll": "Alles auswählen, was zutrifft.",
+      "isCommittee": "Weitere Informationen",
+      "isDeveloper": "Sind Sie Entwickler?",
+      "issues": [
+        "Unregelmäßige Zahlungen",
+        "Keine Transparenz",
+        "Wartungsprobleme",
+        "Schlechte Kommunikation",
+        "Keine strukturierte Verwaltung"
+      ]
+    },
+    "step5": {
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "phone": "Telefonnummer",
+      "email": "E-Mail",
+      "address": "Immobilien Address",
+      "city": "Stadt",
+      "area": "Gebiet",
+      "streetName": "Straßenname",
+      "streetNumber": "Hausnummer",
+      "postCode": "Postleitzahl",
+      "mapPlaceholder": "Weitere Informationen",
+      "hearAbout": "Wie haben Sie von uns erfahren?",
+      "hearAboutOptions": [
+        "Google",
+        "Soziale Medien",
+        "Mundpropaganda",
+        "Empfohlen von einem Bekannten"
+      ],
+      "submit": "Anfrage senden",
+      "submitting": "Wird gesendet...",
+      "mapTitle": "Vorschau des Immobilienstandorts",
+      "recommendationName": "Name der Person oder des Unternehmens, die uns empfohlen haben (optional)"
+    },
+    "step6": {
+      "title": "Bringen Sie Struktur in Ihre Immobilie.",
+      "body": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+      "again": "Weitere Anfrage senden"
+    },
+    "yes": "Ja",
+    "no": "Nein",
+    "back": "Zurück",
+    "continue": "Weiter",
+    "errors": {
+      "completeAll": "Bitte prüfen Sie die Pflichtfelder.",
+      "answerBoth": "Bitte prüfen Sie die Pflichtfelder.",
+      "review": "Bitte prüfen Sie die Pflichtfelder.",
+      "firstName": "Bitte prüfen Sie die Pflichtfelder.",
+      "lastName": "Bitte prüfen Sie die Pflichtfelder.",
+      "email": "Bitte prüfen Sie die Pflichtfelder.",
+      "phone": "Bitte prüfen Sie die Pflichtfelder.",
+      "requiredFields": "Bitte füllen Sie alle Pflichtfelder aus.",
+      "submissionFailedTitle": "Übermittlung fehlgeschlagen",
+      "submissionFailedDescription": "Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt per E-Mail."
+    },
+    "aria": {
+      "email": "Neurora per E-Mail unter neuroraproperties@gmail.com kontaktieren",
+      "phone": "Neurora unter +357 99 203 600 anrufen",
+      "whatsapp": "Neurora über WhatsApp kontaktieren",
+      "viber": "Neurora über Viber kontaktieren",
+      "facebook": "Neurora auf Facebook öffnen",
+      "instagram": "Neurora auf Instagram öffnen",
+      "coverageMap": "Zypernweite Abdeckung von Neurora auf Google Maps anzeigen"
+    }
+  },
+  "servicesPage": {
+    "metaTitle": "Immobilienverwaltung | Neurora Property Management",
+    "metaDescription": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+    "hero": {
+      "titleLead": "Immobilienverwaltung",
+      "titleRest": "Weitere Informationen",
+      "subtitleBefore": "Weitere Informationen",
+      "brand": "Neurora Immobilienverwaltung",
+      "subtitleAfter": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+      "cta": "Leistungen ansehen"
+    },
+    "catalogue": {
+      "eyebrow": "Leistungskategorien",
+      "title": "Ein vollständiger Leistungsrahmen für einen reibungslosen Immobilienbetrieb.",
+      "categoryLabel": "Kategorie",
+      "brandLine": "Neurora Immobilienverwaltung",
+      "serviceIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+      "modalBrandLine": "Neurora Immobilienverwaltung"
+    },
+    "categories": {
+      "cleaning": "Reinigung",
+      "commonExpenses": "Gemeinschaftsausgaben",
+      "communication": "Kommunikation",
+      "maintenanceRepairs": "Wartung & Reparaturen",
+      "financial": "Finanzen",
+      "legal": "Rechtliches",
+      "managementAdministration": "Verwaltung & Administration",
+      "amenitiesSharedFacilities": "Ausstattung & Gemeinschaftseinrichtungen"
+    },
+    "serviceItems": {
+      "management-administration": [
+        {
+          "title": "Immobilien-Onboarding",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Koordination des Verwaltungskomitees",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Bewohner- und Eigentümerunterlagen",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Koordination von Versorgungsanbietern",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        }
+      ],
+      "common-expenses": [
+        {
+          "title": "Monatliche Ausstellung der Gemeinschaftsausgaben",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Zahlungsverfolgung",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Nachverfolgung offener Salden",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        }
+      ],
+      "cleaning": [
+        {
+          "title": "Reinigung von Gemeinschaftsbereichen",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Reinigung nach Bauarbeiten",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Übergabereinigung für Wohnungen und Häuser",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        }
+      ],
+      "maintenance-repairs": [
+        {
+          "title": "Regelmäßige Wartung von Gemeinschaftsbereichen",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Reparaturkoordination",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Angebote von Auftragnehmern",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        }
+      ],
+      "amenities-shared-facilities": [
+        {
+          "title": "Poolreinigung und Wartung",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Gartenpflege und Landschaftspflege von Gemeinschaftsbereichen",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Überwachung der Gemeinschaftsbereiche",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Reinigung und Wartung gemeinsamer Einrichtungen",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        }
+      ],
+      "communication": [
+        {
+          "title": "Viber/WhatsApp-Gruppe des Verwaltungskomitees",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Viber/WhatsApp-Gruppe für Bewohner",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Nachverfolgung per Telefon und E-Mail",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        }
+      ],
+      "financial": [
+        {
+          "title": "Unterstützung bei der Kontoeröffnung",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Einnahmen- und Ausgabenunterlagen",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Zahlungsverfolgung",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Budgetplanung",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Reservefonds",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        }
+      ],
+      "legal": [
+        {
+          "title": "Protokolle der Generalversammlung",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Bankbezogene Protokolle und Unterlagen",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Rechtliche Unterstützung für das Verwaltungskomitee",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        },
+        {
+          "title": "Einhaltung von Cap. 224",
+          "summary": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb.",
+          "detail": "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        }
+      ]
+    },
+    "coverage": {
+      "eyebrow": "Zypernweite Abdeckung",
+      "titleLead": "Immobilienverwaltung",
+      "titleRest": "across Zypern.",
+      "body": "Neurora Property Management unterstützt Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Paphos, Limassol, Larnaca, Nikosia, Ayia Napa und Protaras.",
+      "cityIntro": "Abdeckung nach Gebiet erkunden",
+      "panelTitle": "Zypernweite Immobilienverwaltung",
+      "panelBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+      "cta": "Bewertung anfordern"
+    }
+  },
+  "footer": {
+    "groups": {
+      "company": {
+        "title": "Unternehmen",
+        "items": {
+          "about": "Wer wir sind",
+          "handle": "Was wir übernehmen",
+          "process": "Betriebssystem",
+          "contact": "Kontakt",
+          "privacyPolicy": "Datenschutzerklärung"
+        }
+      },
+      "operations": {
+        "title": "Betrieb",
+        "items": {
+          "communication": "Kommunikation",
+          "financial": "Finanzielle Kontrolle",
+          "automation": "Automatisierung & Abrechnung",
+          "legal": "Rechtliche Unterstützung"
+        }
+      },
+      "coverage": {
+        "title": "Abdeckung",
+        "items": {
+          "cyprus": "Zypern",
+          "paphos": "Paphos",
+          "limassol": "Limassol",
+          "larnaca": "Larnaca",
+          "nicosia": "Nikosia",
+          "ayiaNapa": "Ayia Napa",
+          "protaras": "Protaras"
+        }
+      }
+    },
+    "hours": {
+      "monday": "Montag",
+      "tuesday": "Dienstag",
+      "wednesday": "Mittwoch",
+      "thursday": "Donnerstag",
+      "weekdaysHours": "8:00 - 13:00 | 14:00 - 17:00",
+      "friday": "Freitag",
+      "fridayHours": "8:00 - 13:00",
+      "saturday": "Samstag",
+      "sunday": "Sonntag",
+      "closed": "Geschlossen",
+      "title": "Öffnungszeiten"
+    },
+    "rights": "© {{year}} Neurora Property Management Ltd. Alle Rechte vorbehalten.",
+    "coverageMapAlt": "Karte der Abdeckung in ganz Zypern mit Nikosia, Limassol, Larnaka, Paphos, Ayia Napa und Protaras",
+    "coveragePinAria": "Immobilienverwaltung in {{location}}",
+    "aria": {
+      "whatsapp": "Neurora über WhatsApp kontaktieren",
+      "viber": "Neurora über Viber kontaktieren",
+      "facebook": "Neurora auf Facebook öffnen",
+      "instagram": "Neurora auf Instagram öffnen",
+      "email": "Neurora per E-Mail unter neuroraproperties@gmail.com kontaktieren",
+      "phone": "Neurora unter +357 99 203 600 anrufen"
+    }
+  },
+  "seo": {
+    "title": "Neurora Property Management Ltd | Strukturierte Immobilienverwaltung in Zypern",
+    "description": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+    "ldDescription": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern."
+  },
+  "privacyPolicy": {
+    "metaTitle": "Immobilienverwaltung | Neurora Property Management",
+    "metaDescription": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+    "hero": {
+      "eyebrow": "Neurora Property Management",
+      "title": "Datenschutzerklärung",
+      "subtitle": "Diese Erklärung erläutert, wie wir personenbezogene Daten erfassen, verwenden und schützen, wenn Sie unsere Website nutzen oder uns kontaktieren.",
+      "effectiveDate": "Gültigkeitsdatum: 25. Juni 2026"
+    },
+    "controller": {
+      "label": "Information",
+      "company": "Neurora Immobilienverwaltung Ltd",
+      "emailLabel": "Information"
+    },
+    "sections": [
+      {
+        "title": "Datenschutzinformationen",
+        "body": [
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten.",
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten."
+        ]
+      },
+      {
+        "title": "Datenschutzinformationen",
+        "body": [
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten.",
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten."
+        ]
+      },
+      {
+        "title": "Datenschutzinformationen",
+        "body": [
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten.",
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten."
+        ]
+      },
+      {
+        "title": "Datenschutzinformationen",
+        "body": [
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten."
+        ]
+      },
+      {
+        "title": "Datenschutzinformationen",
+        "body": [
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten.",
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten."
+        ]
+      },
+      {
+        "title": "Datenschutzinformationen",
+        "body": [
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten.",
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten.",
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten."
+        ]
+      },
+      {
+        "title": "Datenschutzinformationen",
+        "body": [
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten.",
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten."
+        ]
+      },
+      {
+        "title": "Datenschutzinformationen",
+        "body": [
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten.",
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten."
+        ]
+      },
+      {
+        "title": "Datenschutzinformationen",
+        "body": [
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten."
+        ]
+      },
+      {
+        "title": "Datenschutzinformationen",
+        "body": [
+          "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten."
+        ]
+      }
+    ],
+    "finalContact": {
+      "prefix": "Weitere Informationen",
+      "suffix": "."
+    },
+    "cookiePreferences": {
+      "title": "Datenschutzinformationen",
+      "body": "Wir verarbeiten personenbezogene Daten nur für Website-Betrieb, Kontaktanfragen, Kommunikation, Serviceanfragen, Sicherheitszwecke und optionale Analysen, wenn Sie diesen zustimmen. Wir verkaufen keine personenbezogenen Daten.",
+      "button": "Cookie-Einstellungen öffnen"
+    }
+  },
+  "locationPages": {
+    "shared": {
+      "heroEyebrow": "Zypernweite Abdeckung",
+      "primaryCta": "Bewertung anfordern",
+      "secondaryCta": "Leistungen ansehen",
+      "introEyebrow": "Immobilienverwaltung · {{location}}",
+      "localContextEyebrow": "Lokaler Verwaltungskontext",
+      "issuesCardTitle": "Was normalerweise schief läuft",
+      "servicesEyebrow": "Weitere Informationen",
+      "servicesTitle": "Ein Verwaltungspartner für die operative Arbeit hinter Ihrer Immobilie.",
+      "servicesBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+      "coverageEyebrow": "Abdeckungsgebiete",
+      "coverageTitle": "Immobilienverwaltungsleistungen in ganz Zypern.",
+      "coverageBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+      "questionsEyebrow": "Fragen",
+      "questionsTitle": "Fragen zur Immobilienverwaltung in {{location}}.",
+      "ctaTitle": "Brauchen Sie Immobilienverwaltung in {{location}}?",
+      "ctaBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern."
+    },
+    "locations": {
+      "cyprus": "Zypern",
+      "paphos": "Paphos",
+      "limassol": "Limassol",
+      "larnaca": "Larnaca",
+      "nicosia": "Nikosia",
+      "ayiaNapa": "Ayia Napa",
+      "protaras": "Protaras"
+    },
+    "services": [
+      {
+        "title": "Gemeinschaftsausgaben",
+        "desc": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb."
+      },
+      {
+        "title": "Finanzielle Kontrolle control",
+        "desc": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb."
+      },
+      {
+        "title": "Kommunikation",
+        "desc": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb."
+      },
+      {
+        "title": "Koordination der Instandhaltung",
+        "desc": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb."
+      },
+      {
+        "title": "Rechtlicher Schutz support",
+        "desc": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb."
+      },
+      {
+        "title": "Dokumentation",
+        "desc": "Strukturierte Unterstützung für einen klaren und zuverlässigen Immobilienbetrieb."
+      }
+    ],
+    "pages": {
+      "cyprus": {
+        "name": "Zypern",
+        "slug": "property-management-cyprus",
+        "metaTitle": "Immobilienverwaltung | Neurora Property Management",
+        "metaDescription": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "heroTitle": "Immobilienverwaltung in Zypern",
+        "subtitle": "Strukturierte Verwaltung für Immobilien in Zypern, die Klarheit, Kontrolle und zuverlässige Kommunikation benötigen.",
+        "introTitle": "Ein klares Verwaltungssystem für Immobilien in Zypern.",
+        "introBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "localTitle": "Für Immobilien, die nicht auf informelle Nachverfolgung angewiesen sein können.",
+        "localBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "focusPoints": [
+          "Verwaltungsunterstützung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien.",
+          "Direkte Kommunikation über WhatsApp und Viber für schnellere Koordination.",
+          "Gemeinschaftsausgaben, Wartung, Reinigung und Unterlagen werden über eine zentrale Verwaltungsstelle betreut."
+        ],
+        "issueTitle": "Häufige Probleme der Immobilienverwaltung in Zypern.",
+        "issueIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "issues": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "supportTitle": "Wie Neurora Immobilien in Zypern unterstützt.",
+        "supportIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "supportItems": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "faq": [
+          {
+            "question": "Bietet Neurora Immobilienverwaltung in Zypern an?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Zypern."
+          },
+          {
+            "question": "Welche Arten von Immobilien verwalten Sie?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Zypern."
+          }
+        ]
+      },
+      "paphos": {
+        "name": "Paphos",
+        "slug": "property-management-paphos",
+        "metaTitle": "Immobilienverwaltung | Neurora Property Management",
+        "metaDescription": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "heroTitle": "Immobilienverwaltung in Paphos",
+        "subtitle": "Strukturierte Verwaltung für Immobilien in Paphos, die Klarheit, Kontrolle und zuverlässige Kommunikation benötigen.",
+        "introTitle": "Ein klares Verwaltungssystem für Immobilien in Paphos.",
+        "introBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "localTitle": "Für Immobilien, die nicht auf informelle Nachverfolgung angewiesen sein können.",
+        "localBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "focusPoints": [
+          "Verwaltungsunterstützung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien.",
+          "Direkte Kommunikation über WhatsApp und Viber für schnellere Koordination.",
+          "Gemeinschaftsausgaben, Wartung, Reinigung und Unterlagen werden über eine zentrale Verwaltungsstelle betreut."
+        ],
+        "issueTitle": "Häufige Probleme der Immobilienverwaltung in Paphos.",
+        "issueIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "issues": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "supportTitle": "Wie Neurora Immobilien in Paphos unterstützt.",
+        "supportIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "supportItems": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "faq": [
+          {
+            "question": "Bietet Neurora Immobilienverwaltung in Paphos an?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Paphos."
+          },
+          {
+            "question": "Welche Arten von Immobilien verwalten Sie?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Paphos."
+          }
+        ]
+      },
+      "limassol": {
+        "name": "Limassol",
+        "slug": "property-management-limassol",
+        "metaTitle": "Immobilienverwaltung | Neurora Property Management",
+        "metaDescription": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "heroTitle": "Immobilienverwaltung in Limassol",
+        "subtitle": "Strukturierte Verwaltung für Immobilien in Limassol, die Klarheit, Kontrolle und zuverlässige Kommunikation benötigen.",
+        "introTitle": "Ein klares Verwaltungssystem für Immobilien in Limassol.",
+        "introBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "localTitle": "Für Immobilien, die nicht auf informelle Nachverfolgung angewiesen sein können.",
+        "localBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "focusPoints": [
+          "Verwaltungsunterstützung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien.",
+          "Direkte Kommunikation über WhatsApp und Viber für schnellere Koordination.",
+          "Gemeinschaftsausgaben, Wartung, Reinigung und Unterlagen werden über eine zentrale Verwaltungsstelle betreut."
+        ],
+        "issueTitle": "Häufige Probleme der Immobilienverwaltung in Limassol.",
+        "issueIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "issues": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "supportTitle": "Wie Neurora Immobilien in Limassol unterstützt.",
+        "supportIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "supportItems": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "faq": [
+          {
+            "question": "Bietet Neurora Immobilienverwaltung in Limassol an?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Limassol."
+          },
+          {
+            "question": "Welche Arten von Immobilien verwalten Sie?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Limassol."
+          }
+        ]
+      },
+      "larnaca": {
+        "name": "Larnaca",
+        "slug": "property-management-larnaca",
+        "metaTitle": "Immobilienverwaltung | Neurora Property Management",
+        "metaDescription": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "heroTitle": "Immobilienverwaltung in Larnaca",
+        "subtitle": "Strukturierte Verwaltung für Immobilien in Larnaca, die Klarheit, Kontrolle und zuverlässige Kommunikation benötigen.",
+        "introTitle": "Ein klares Verwaltungssystem für Immobilien in Larnaca.",
+        "introBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "localTitle": "Für Immobilien, die nicht auf informelle Nachverfolgung angewiesen sein können.",
+        "localBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "focusPoints": [
+          "Verwaltungsunterstützung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien.",
+          "Direkte Kommunikation über WhatsApp und Viber für schnellere Koordination.",
+          "Gemeinschaftsausgaben, Wartung, Reinigung und Unterlagen werden über eine zentrale Verwaltungsstelle betreut."
+        ],
+        "issueTitle": "Häufige Probleme der Immobilienverwaltung in Larnaca.",
+        "issueIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "issues": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "supportTitle": "Wie Neurora Immobilien in Larnaca unterstützt.",
+        "supportIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "supportItems": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "faq": [
+          {
+            "question": "Bietet Neurora Immobilienverwaltung in Larnaca an?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Larnaca."
+          },
+          {
+            "question": "Welche Arten von Immobilien verwalten Sie?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Larnaca."
+          }
+        ]
+      },
+      "nicosia": {
+        "name": "Nikosia",
+        "slug": "property-management-nicosia",
+        "metaTitle": "Immobilienverwaltung | Neurora Property Management",
+        "metaDescription": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "heroTitle": "Immobilienverwaltung in Nikosia",
+        "subtitle": "Strukturierte Verwaltung für Immobilien in Nikosia, die Klarheit, Kontrolle und zuverlässige Kommunikation benötigen.",
+        "introTitle": "Ein klares Verwaltungssystem für Immobilien in Nikosia.",
+        "introBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "localTitle": "Für Immobilien, die nicht auf informelle Nachverfolgung angewiesen sein können.",
+        "localBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "focusPoints": [
+          "Verwaltungsunterstützung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien.",
+          "Direkte Kommunikation über WhatsApp und Viber für schnellere Koordination.",
+          "Gemeinschaftsausgaben, Wartung, Reinigung und Unterlagen werden über eine zentrale Verwaltungsstelle betreut."
+        ],
+        "issueTitle": "Häufige Probleme der Immobilienverwaltung in Nikosia.",
+        "issueIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "issues": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "supportTitle": "Wie Neurora Immobilien in Nikosia unterstützt.",
+        "supportIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "supportItems": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "faq": [
+          {
+            "question": "Bietet Neurora Immobilienverwaltung in Nikosia an?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Nikosia."
+          },
+          {
+            "question": "Welche Arten von Immobilien verwalten Sie?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Nikosia."
+          }
+        ]
+      },
+      "ayiaNapa": {
+        "name": "Ayia Napa",
+        "slug": "property-management-ayia-napa",
+        "metaTitle": "Immobilienverwaltung | Neurora Property Management",
+        "metaDescription": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "heroTitle": "Immobilienverwaltung in Ayia Napa",
+        "subtitle": "Strukturierte Verwaltung für Immobilien in Ayia Napa, die Klarheit, Kontrolle und zuverlässige Kommunikation benötigen.",
+        "introTitle": "Ein klares Verwaltungssystem für Immobilien in Ayia Napa.",
+        "introBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "localTitle": "Für Immobilien, die nicht auf informelle Nachverfolgung angewiesen sein können.",
+        "localBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "focusPoints": [
+          "Verwaltungsunterstützung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien.",
+          "Direkte Kommunikation über WhatsApp und Viber für schnellere Koordination.",
+          "Gemeinschaftsausgaben, Wartung, Reinigung und Unterlagen werden über eine zentrale Verwaltungsstelle betreut."
+        ],
+        "issueTitle": "Häufige Probleme der Immobilienverwaltung in Ayia Napa.",
+        "issueIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "issues": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "supportTitle": "Wie Neurora Immobilien in Ayia Napa unterstützt.",
+        "supportIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "supportItems": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "faq": [
+          {
+            "question": "Bietet Neurora Immobilienverwaltung in Ayia Napa an?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Ayia Napa."
+          },
+          {
+            "question": "Welche Arten von Immobilien verwalten Sie?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Ayia Napa."
+          }
+        ]
+      },
+      "protaras": {
+        "name": "Protaras",
+        "slug": "property-management-protaras",
+        "metaTitle": "Immobilienverwaltung | Neurora Property Management",
+        "metaDescription": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "heroTitle": "Immobilienverwaltung in Protaras",
+        "subtitle": "Strukturierte Verwaltung für Immobilien in Protaras, die Klarheit, Kontrolle und zuverlässige Kommunikation benötigen.",
+        "introTitle": "Ein klares Verwaltungssystem für Immobilien in Protaras.",
+        "introBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "localTitle": "Für Immobilien, die nicht auf informelle Nachverfolgung angewiesen sein können.",
+        "localBody": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "focusPoints": [
+          "Verwaltungsunterstützung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien.",
+          "Direkte Kommunikation über WhatsApp und Viber für schnellere Koordination.",
+          "Gemeinschaftsausgaben, Wartung, Reinigung und Unterlagen werden über eine zentrale Verwaltungsstelle betreut."
+        ],
+        "issueTitle": "Häufige Probleme der Immobilienverwaltung in Protaras.",
+        "issueIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "issues": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "supportTitle": "Wie Neurora Immobilien in Protaras unterstützt.",
+        "supportIntro": "Neurora Property Management schafft eine klare Verwaltungsstruktur mit transparenter Kommunikation, nachvollziehbaren Abläufen, Finanzübersicht und zuverlässiger Koordination für gemeinsame Immobilien in Zypern.",
+        "supportItems": [
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee.",
+          "Dieser Service unterstützt den täglichen Betrieb der Immobilie durch klare Organisation, dokumentierte Nachverfolgung, bessere Kommunikation und strukturierte Verantwortung zwischen Eigentümern, Bewohnern und dem Verwaltungskomitee."
+        ],
+        "faq": [
+          {
+            "question": "Bietet Neurora Immobilienverwaltung in Protaras an?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Protaras."
+          },
+          {
+            "question": "Welche Arten von Immobilien verwalten Sie?",
+            "answer": "Ja. Neurora bietet strukturierte Immobilienverwaltung für Wohngebäude, Wohnanlagen und gemeinsame Immobilien in Protaras."
+          }
+        ]
+      }
+    }
+  },
+  "cookieConsent": {
+    "banner": {
+      "eyebrow": "Datenschutzeinstellungen",
+      "title": "Wir verwenden Cookies sorgfältig.",
+      "body": "Wir verwenden notwendige Cookies, damit die Website funktioniert, und optionale Analyse-Cookies, um zu verstehen, wie Besucher die Website nutzen.",
+      "privacyLink": "Datenschutzerklärung"
+    },
+    "buttons": {
+      "acceptAll": "Alle akzeptieren",
+      "rejectAll": "Alle ablehnen",
+      "manage": "Verwalten",
+      "save": "Einstellungen speichern",
+      "close": "Schließen"
+    },
+    "preferences": {
+      "title": "Cookie-Einstellungen",
+      "body": "Wir verwenden notwendige Cookies, damit die Website funktioniert, und optionale Analyse-Cookies, um zu verstehen, wie Besucher die Website nutzen.",
+      "necessary": {
+        "title": "Notwendige Cookies",
+        "body": "Wir verwenden notwendige Cookies, damit die Website funktioniert, und optionale Analyse-Cookies, um zu verstehen, wie Besucher die Website nutzen."
+      },
+      "analytics": {
+        "title": "Analyse-Cookies",
+        "body": "Wir verwenden notwendige Cookies, damit die Website funktioniert, und optionale Analyse-Cookies, um zu verstehen, wie Besucher die Website nutzen."
+      },
+      "marketing": {
+        "title": "Marketing-Cookies",
+        "body": "Wir verwenden notwendige Cookies, damit die Website funktioniert, und optionale Analyse-Cookies, um zu verstehen, wie Besucher die Website nutzen."
+      }
+    }
+  },
+  "logo": {
+    "alt": "Logo von Neurora Property Management"
+  },
+  "notFound": {
+    "title": "404",
+    "body": "Seite nicht gefunden",
+    "home": "Zur Startseite zurückkehren"
+  },
+  "floatingContact": {
+    "aria": {
+      "open": "Schnellkontakt-Menü öffnen",
+      "close": "Schnellkontakt-Menü schließen",
+      "instagram": "Neurora auf Instagram öffnen",
+      "facebook": "Neurora auf Facebook öffnen",
+      "viber": "Neurora über Viber kontaktieren",
+      "whatsapp": "Neurora über WhatsApp kontaktieren",
+      "email": "Neurora per E-Mail kontaktieren",
+      "call": "Neurora anrufen"
+    }
+  },
+  "whyNeurora": {
+    "eyebrow": "Warum Neurora",
+    "title": "Ein Betreuungsstandard für Immobilien, die zählen.",
+    "subtitle": "Eigentümer vertrauen Neurora, weil jedes Detail diskret, präzise und verantwortungsvoll betreut wird.",
+    "items": [
+      {
+        "title": "Sorgenfreies Eigentum",
+        "desc": "Wir nehmen Ihnen alles ab."
+      },
+      {
+        "title": "Zuverlässig & reaktionsschnell",
+        "desc": "Schnelles Handeln, wenn es darauf ankommt."
+      },
+      {
+        "title": "Transparente Ausgaben",
+        "desc": "Klare Unterlagen, keine Überraschungen."
+      },
+      {
+        "title": "Vertrauenswürdiges Netzwerk",
+        "desc": "Nur geprüfte Fachkräfte."
+      },
+      {
+        "title": "Liebe zum Detail",
+        "desc": "Sorgfalt zeigt sich in jeder Interaktion."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Referenzen",
+    "title": "Vertraut von Eigentümern, die mehr erwarten.",
+    "items": [
+      {
+        "quote": "Neurora hat die Verwaltung meiner Immobilie aus dem Ausland völlig verändert. Alles wird erledigt, und ich muss mir keine Sorgen machen. Sie kümmern sich wirklich.",
+        "name": "Daniel R.",
+        "role": "Eigentümer im Ausland"
+      },
+      {
+        "quote": "Professionell, reaktionsschnell und sorgfältig. Rechnungen, Reparaturen und Auftragnehmer werden reibungslos koordiniert. Diese Sicherheit ist wirklich unbezahlbar.",
+        "name": "Elena M.",
+        "role": "Private Investorin"
+      },
+      {
+        "quote": "Zuverlässigkeit, die man spürt. Die Berichte sind klar, das Team ist vertrauenswürdig, und meine Immobilie ist immer in einwandfreiem Zustand.",
+        "name": "James T.",
+        "role": "Wohnimmobilien-Eigentümer"
+      }
+    ]
+  },
+  "common": {
+    "close": "Schließen"
+  }
+}

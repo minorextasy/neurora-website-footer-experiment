@@ -1,0 +1,1522 @@
+{
+  "header": {
+    "links": {
+      "home": "Inicio",
+      "about": "Sobre nosotros",
+      "services": "Servicios",
+      "howItWorks": "Sistema operativo de Neurora",
+      "contact": "Contacto"
+    },
+    "cta": "Solicitar una propuesta",
+    "menu": "Abrir menú",
+    "language": "Idioma"
+  },
+  "hero": {
+    "badge": "Administración de propiedades · Chipre",
+    "titleLead": "Deje de perseguir los problemas de su propiedad.",
+    "titleAccent": "Tome el control.",
+    "subtitle": "Administración estructurada de propiedades para edificios y complejos residenciales en todo Chipre, con plena transparencia, comunicación directa y sin vacíos operativos.",
+    "bullets": [
+      "Sin intermediarios. Comunicación directa desde el primer día.",
+      "El dinero de su propiedad permanece en su propia cuenta bancaria.",
+      "Cada gasto se registra. Cada tarea se gestiona."
+    ],
+    "ctaPrimary": "Solicitar una propuesta",
+    "ctaSecondary": "Sistema operativo de Neurora",
+    "imageAlt": "Edificio residencial moderno de lujo en Chipre administrado por Neurora"
+  },
+  "hero3d": {
+    "titleLine1": "Gestión",
+    "titleLine2": "de propiedades",
+    "titleLine3": "reinventada",
+    "subtitle": "Administración de propiedades, gestión de áreas comunes, limpieza posterior a la construcción",
+    "primaryCta": "Solicitar evaluación",
+    "secondaryCta": "Ver servicios",
+    "scroll": "Desplazar",
+    "tags": {
+      "financial": "Control financiero",
+      "legal": "Protección legal",
+      "cleaning": "Limpieza posterior a la construcción"
+    }
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Cumplimiento del Cap. 224",
+        "desc": "Apoyo estructurado para una gestión de propiedades clara y fiable."
+      },
+      {
+        "title": "Fondos 100 % protegidos",
+        "desc": "Apoyo estructurado para una gestión de propiedades clara y fiable."
+      },
+      {
+        "title": "Facturas el día 1",
+        "desc": "Apoyo estructurado para una gestión de propiedades clara y fiable."
+      },
+      {
+        "title": "Comunicación directa",
+        "desc": "Sin intermediarios. Sin tickets. Respuestas reales."
+      }
+    ],
+    "modalDetails": [
+      "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+      "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+      "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+      "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre."
+    ]
+  },
+  "about": {
+    "eyebrow": "Propiedades que administramos",
+    "title": "Creado para propiedades que necesitan estructura, no caos.",
+    "subtitle": "Tanto si su edificio o complejo residencial funciona bien como si está en desorden operativo, intervenimos, implantamos estructura y tomamos el control completo.",
+    "items": [
+      {
+        "title": "Propiedades existentes que necesitan estructura",
+        "desc": "Edificios con varios propietarios y complejos residenciales preparados para sustituir la desorganización por un sistema real.",
+        "detail": "Son propiedades ya en funcionamiento, a menudo con propietarios de larga trayectoria, pero sin un marco de administración coherente. Evaluamos la situación actual, definimos una estructura operativa clara, formalizamos el Comité de Administración y unificamos finanzas, comunicación y mantenimiento dentro de un sistema transparente."
+      },
+      {
+        "title": "Nuevos desarrollos",
+        "desc": "Promotores que entregan propiedades terminadas, organizadas correctamente desde el primer día.",
+        "detail": "Colaboramos con promotores antes de la entrega para que la propiedad comience con un marco operativo completo: cuenta bancaria dedicada, calendario de facturación, relaciones con proveedores, canales de comunicación y cumplimiento completo de Cap. 224 desde el primer mes."
+      },
+      {
+        "title": "Propiedades con problemas operativos",
+        "desc": "Situaciones complejas y comunicación rota. Tomamos el control y lo corregimos.",
+        "detail": "Cuando una propiedad sufre operaciones desorganizadas, administración poco receptiva o procesos poco claros, intervenimos para estabilizarla. Reestructuramos el modelo operativo, documentamos todo, restablecemos responsabilidades claras y recuperamos el orden sin interrumpir a los residentes."
+      }
+    ]
+  },
+  "homeCoverage": {
+    "eyebrow": "Cobertura en todo Chipre",
+    "text": "Neurora Property Management apoya propiedades compartidas en todo Chipre, incluidos Pafos, Limassol, Lárnaca, Nicosia, Ayia Napa y Protaras.",
+    "locations": {
+      "paphos": {
+        "label": "Pafos",
+        "aria": "Ver servicios de administración de propiedades en Pafos"
+      },
+      "limassol": {
+        "label": "Limassol",
+        "aria": "Ver servicios de administración de propiedades en Limassol"
+      },
+      "larnaca": {
+        "label": "Lárnaca",
+        "aria": "Ver servicios de administración de propiedades en Lárnaca"
+      },
+      "nicosia": {
+        "label": "Nicosia",
+        "aria": "Ver servicios de administración de propiedades en Nicosia"
+      },
+      "ayiaNapa": {
+        "label": "Ayia Napa",
+        "aria": "Ver servicios de administración de propiedades en Ayia Napa"
+      },
+      "protaras": {
+        "label": "Protaras",
+        "aria": "Ver servicios de administración de propiedades en Protaras"
+      }
+    },
+    "country": {
+      "label": "Todo Chipre",
+      "aria": "Ver información de administración de propiedades"
+    }
+  },
+  "aboutPage": {
+    "metaTitle": "Sobre Neurora Property Management | Gestión de propiedades en Chipre",
+    "metaDescription": "Conozca cómo Neurora Property Management aporta estructura, transparencia, comunicación y control a edificios de apartamentos y complejos residenciales en Chipre.",
+    "hero": {
+      "eyebrow": "Sobre Neurora Property Management",
+      "titleLead": "Gestión de propiedades basada en",
+      "titleAccent": "estructura, transparencia y control.",
+      "subtitle": "Neurora Property Management fue creada para edificios y complejos residenciales que necesitan más que una administración básica. Aportamos un sistema operativo claro a propiedades compartidas, combinando comunicación, visibilidad financiera, coordinación de mantenimiento y procedimientos documentados.",
+      "ctaPrimary": "Solicitar propuesta",
+      "ctaSecondary": "Explorar servicios"
+    },
+    "intro": {
+      "eyebrow": "Quiénes somos",
+      "title": "Un socio de administración para propiedades que necesitan claridad.",
+      "body": "Trabajamos con Comités de Administración, propietarios, residentes y promotores para sustituir acuerdos informales por un sistema de administración estructurado. Cada propiedad se gestiona con comunicación clara, decisiones documentadas, registros organizados y visibilidad completa sobre su funcionamiento."
+    },
+    "method": {
+      "title": "El método Neurora",
+      "body": "Nuestro trabajo se basa en un principio simple: la propiedad debe mantener el control de su dinero, sus registros y sus decisiones. Neurora aporta la estructura operativa, coordinación, seguimiento y gestión diaria necesaria para que todo funcione correctamente.",
+      "points": {
+        "structure": "Estructura",
+        "transparency": "Transparencia",
+        "control": "Control"
+      }
+    },
+    "properties": {
+      "eyebrow": "Propiedades que administramos",
+      "title": "Propiedades diferentes. Un estándar estructurado.",
+      "subtitle": "Desde edificios de apartamentos existentes hasta nuevos desarrollos y propiedades con problemas operativos, el objetivo es el mismo: sustituir la confusión por un sistema claro."
+    },
+    "standard": {
+      "eyebrow": "Nuestro estándar",
+      "title": "Diseñado para proteger la confianza entre propietarios, residentes y el Comité de Administración.",
+      "subtitle": "El estándar Neurora se centra en registros claros, fondos protegidos, facturación predecible y comunicación directa desde el primer día."
+    },
+    "cta": {
+      "title": "¿Listo para aportar estructura a su propiedad?",
+      "body": "Cuéntenos sobre su edificio de apartamentos o complejo residencial y prepararemos una propuesta clara basada en sus necesidades reales.",
+      "button": "Solicitar propuesta"
+    }
+  },
+  "howItWorksPage": {
+    "metaTitle": "Neurora Operating System | Neurora Property Management",
+    "metaDescription": "Explore Neurora Operating System, que combina proceso completo de administración, control financiero, facturación automatizada, estructura de comunicación y protección legal.",
+    "hero": {
+      "eyebrow": "Neurora Operating System",
+      "titleLead": "Un sistema operativo para",
+      "titleAccent": "el control completo de la propiedad.",
+      "subtitle": "Neurora Operating System combina el proceso completo de toma de control con control financiero, administración automatizada, estructura legal, documentación, comunicación y gestión operativa diaria.",
+      "ctaPrimary": "Solicitar propuesta",
+      "ctaSecondary": "Explorar servicios"
+    },
+    "intro": {
+      "eyebrow": "El sistema operativo",
+      "title": "Desde la aprobación de propietarios hasta el control diario, todo sigue una estructura.",
+      "body": "Antes de que Neurora tome el control, la propiedad sigue un proceso claro de aprobación y documentación. Después, el sistema operativo conecta comunicación, facturación, proveedores, registros, visibilidad bancaria, automatización y estructura legal.",
+      "panelTitle": "Proceso + sistema",
+      "panelBody": "Esta página combina el proceso de toma de control con los detalles de Neurora Operating System, para que los propietarios vean tanto los pasos de aprobación como la estructura de gestión que funciona después.",
+      "points": {
+        "review": "Revisión",
+        "document": "Documentación",
+        "takeover": "Toma de control"
+      }
+    },
+    "afterTakeover": {
+      "eyebrow": "Después de la toma de control",
+      "title": "Qué ocurre cuando Neurora empieza a administrar la propiedad.",
+      "subtitle": "Cuando la propiedad pasa a gestión activa, la estructura operativa se pone en marcha y comienza el trabajo diario de administración.",
+      "items": [
+        {
+          "title": "La comunicación se activa",
+          "desc": "Se crean grupos dedicados de Viber y WhatsApp para coordinación directa.",
+          "detail": "Se crean grupos de comunicación para el Comité de Administración y residentes, dando a la propiedad canales claros para anuncios, actualizaciones, trabajos programados, decisiones y seguimiento."
+        },
+        {
+          "title": "Comienzan los gastos comunes mensuales",
+          "desc": "Los gastos comunes se emiten y controlan mediante un proceso mensual estructurado.",
+          "detail": "Los gastos comunes mensuales se emiten con claridad y consistencia. Los pagos se registran, los saldos pendientes se supervisan y el comité mantiene visibilidad del proceso de cobro."
+        },
+        {
+          "title": "Los proveedores se coordinan",
+          "desc": "Limpieza, mantenimiento, servicios, reparaciones, instalaciones y jardinería se organizan.",
+          "detail": "Los proveedores y contratistas vinculados a la propiedad se coordinan mediante una sola estructura de administración, ayudando a mantener organizados limpieza, mantenimiento, servicios, reparaciones, instalaciones y exteriores."
+        },
+        {
+          "title": "Los registros se mantienen",
+          "desc": "Pagos, gastos, decisiones, actas y actualizaciones operativas se documentan.",
+          "detail": "Los registros importantes de la propiedad se mantienen organizados, incluyendo pagos, gastos, decisiones, actas, proveedores, actualizaciones operativas y otra documentación relacionada con la propiedad."
+        }
+      ]
+    },
+    "financial": {
+      "eyebrow": "Control financiero",
+      "title": "La propiedad mantiene el control de su dinero.",
+      "body": "Cada edificio de apartamentos o complejo residencial tiene su propia cuenta en Bank of Cyprus a nombre del Comité de Administración. Los fondos permanecen con el cliente, no con Neurora. Esto da al comité visibilidad, control y trazabilidad sobre las finanzas de la propiedad.",
+      "items": [
+        {
+          "title": "Cuenta bancaria propia",
+          "desc": "Cada propiedad tiene su propia cuenta bancaria a nombre del Comité de Administración.",
+          "detail": "La propiedad opera mediante su propia cuenta en Bank of Cyprus a nombre del Comité de Administración, ayudando a asegurar que el dinero permanezca vinculado a la propiedad."
+        },
+        {
+          "title": "Sin fondos agrupados",
+          "desc": "Los fondos de la propiedad no se mezclan con dinero de la empresa ni de otras propiedades.",
+          "detail": "Los fondos no se agrupan con otros edificios ni con fondos operativos de la empresa, apoyando una responsabilidad clara y separación financiera."
+        },
+        {
+          "title": "Visibilidad completa",
+          "desc": "Ingresos, gastos, pagos y saldos son más fáciles de controlar.",
+          "detail": "El Comité de Administración puede mantener visibilidad sobre ingresos, gastos, pagos y saldos, ayudando a tomar decisiones con mejor claridad financiera."
+        }
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para entender qué necesita su propiedad?",
+      "body": "Cuéntenos sobre su edificio o complejo residencial y prepararemos una propuesta clara basada en sus necesidades operativas reales.",
+      "button": "Solicitar propuesta"
+    }
+  },
+  "problem": {
+    "eyebrow": "La realidad",
+    "titleLead": "La mayoría de los edificios no tienen administración.",
+    "titleAccent": "Tienen problemas.",
+    "items": [
+      {
+        "title": "Los pagos se retrasan o no están claros",
+        "detail": "Sin una facturación estructurada, los propietarios reciben facturas inconsistentes, pierden plazos de pago o no saben exactamente qué se les cobra. El flujo de caja se vuelve impredecible y la propiedad no puede planificar."
+      },
+      {
+        "title": "No hay visibilidad financiera",
+        "detail": "Sin una cuenta bancaria dedicada y reportes adecuados, los propietarios no pueden ver adónde va el dinero. Los fondos se mezclan con otras propiedades o quedan controlados por una sola persona."
+      },
+      {
+        "title": "El mantenimiento se atiende demasiado tarde",
+        "detail": "El mantenimiento reactivo genera problemas mayores y costos innecesarios. Sin supervisión programada y contratistas coordinados, los problemas pequeños se convierten en urgencias caras."
+      },
+      {
+        "title": "La comunicación es lenta o se ignora",
+        "detail": "Cuando los residentes tienen que perseguir respuestas o depender de canales informales, se pierde la confianza. Las actualizaciones importantes se pasan por alto y las solicitudes se pierden."
+      },
+      {
+        "title": "Las decisiones no se documentan",
+        "detail": "Los acuerdos verbales y aprobaciones informales crean disputas, ambigüedad y riesgo legal. Sin actas y resoluciones, es difícil demostrar qué se decidió."
+      },
+      {
+        "title": "Nadie asume una responsabilidad clara",
+        "detail": "Cuando las tareas quedan repartidas entre propietarios, residentes, proveedores y comité sin seguimiento central, los problemas siguen abiertos. La propiedad necesita un punto operativo claro."
+      }
+    ],
+    "footerLead": "Esto no es administración.",
+    "footerAccent": "Esto es caos."
+  },
+  "postConstruction": {
+    "eyebrow": "Limpieza posterior a la construcción",
+    "title": "De la entrega de obra a una propiedad lista para presentar.",
+    "subtitle": "Después de terminar la construcción, suelen quedar polvo, escombros, residuos y marcas en apartamentos, entradas, zonas comunes e instalaciones compartidas. Neurora prepara toda la propiedad para que esté limpia, organizada y lista para presentación, entrega u ocupación.",
+    "visual": {
+      "beforeTitle": "Después de la obra",
+      "beforeText": "Polvo, escombros, residuos y una presentación inacabada en toda la propiedad.",
+      "afterTitle": "Lista para la entrega",
+      "afterText": "Apartamentos, entradas, zonas comunes y áreas compartidas preparados para una mejor primera impresión."
+    },
+    "cards": [
+      {
+        "key": "debris",
+        "title": "Retirada de escombros y polvo",
+        "desc": "El polvo de obra, restos de embalaje y residuos se limpian de apartamentos y zonas comunes.",
+        "detail": "La limpieza posterior a la construcción se centra en retirar la suciedad visible y práctica que queda después de finalizar los trabajos. Incluye polvo de obra, restos de embalaje, pequeños residuos, marcas y suciedad en apartamentos, entradas, pasillos, escaleras, ascensores, espacios comunes e instalaciones compartidas."
+      },
+      {
+        "key": "common",
+        "title": "Preparación completa de la propiedad",
+        "desc": "Apartamentos, entradas, pasillos, ascensores, escaleras y zonas comunes se preparan para el primer uso.",
+        "detail": "El servicio cubre las zonas que propietarios, residentes y visitantes ven y utilizan: apartamentos, entradas, pasillos, escaleras, ascensores, vestíbulos, zonas comunes e instalaciones compartidas. El objetivo es que toda la propiedad esté limpia, presentable y lista para la entrega."
+      },
+      {
+        "key": "handover",
+        "title": "Lista para entrega u ocupación",
+        "desc": "La propiedad se prepara para entregas, visitas, primera ocupación o uso diario.",
+        "detail": "Después de la limpieza, la propiedad queda mejor preparada para la entrega del promotor, visitas de propietarios, entrada de inquilinos o primer uso por residentes. El enfoque es una presentación limpia, organizada y profesional."
+      }
+    ]
+  },
+  "solution": {
+    "eyebrow": "La solución",
+    "title": "Neurora sustituye el caos por estructura.",
+    "body": "Implementamos un sistema operativo completo que cubre finanzas, comunicación, mantenimiento y estructura legal.",
+    "footer": "Nada queda sin gestionar. Nada queda sin aclarar.",
+    "beforeLabel": "Antes",
+    "bridgeLabel": "Estructura Neurora",
+    "afterLabel": "Después",
+    "chaos": [
+      "Pagos retrasados o poco claros",
+      "Sin visibilidad financiera",
+      "Mantenimiento reactivo",
+      "Comunicación lenta o ignorada",
+      "Decisiones no documentadas"
+    ],
+    "control": [
+      "Pagos organizados",
+      "Fondos protegidos",
+      "Mantenimiento programado",
+      "Comunicación centralizada",
+      "Decisiones documentadas"
+    ]
+  },
+  "services": {
+    "eyebrow": "Qué gestionamos",
+    "title": "Todo lo que su propiedad necesita. Totalmente gestionado.",
+    "subtitle": "Un solo socio. Control operativo completo.",
+    "cta": "Explorar nuestros servicios",
+    "ctaNote": "Ver el desglose completo de servicios",
+    "items": [
+      {
+        "key": "common",
+        "title": "Gastos comunes",
+        "desc": "Importes mensuales fijos, permitiendo a los residentes pagar varios meses por adelantado o establecer órdenes permanentes.",
+        "detail": "Los gastos comunes se calculan como importes mensuales fijos según la cuota de cada unidad. Los residentes pueden pagar meses por adelantado o establecer órdenes permanentes, reduciendo fricción y asegurando un flujo de caja predecible para la propiedad."
+      },
+      {
+        "key": "cleaning",
+        "title": "Limpieza y mantenimiento",
+        "desc": "Mantenimiento constante de todas las zonas comunes según un estándar documentado.",
+        "detail": "Todas las zonas comunes, incluidas entradas, pasillos, escaleras, aparcamientos e instalaciones compartidas, se mantienen conforme a un estándar claro. Los horarios son fijos, la supervisión es regular y las intervenciones de mantenimiento son coordinadas por nuestro equipo operativo."
+      },
+      {
+        "key": "utilities",
+        "title": "Servicios públicos",
+        "desc": "Cuentas de servicios gestionadas, pagadas a tiempo y protegidas contra interrupciones.",
+        "detail": "Las cuentas de electricidad, agua y servicios compartidos se gestionan mediante órdenes permanentes estructuradas. Los pagos se programan, los saldos se supervisan y las renovaciones se gestionan con antelación."
+      },
+      {
+        "key": "landscaping",
+        "title": "Jardinería",
+        "desc": "Cuidado profesional de exteriores y zonas verdes, mantenido de forma constante.",
+        "detail": "Jardines, zonas exteriores y áreas verdes se mantienen según un calendario definido por contratistas cualificados. Poda, supervisión de riego, cuidado estacional y reposiciones se coordinan para que el exterior se mantenga presentable todo el año."
+      },
+      {
+        "key": "amenities",
+        "title": "Instalaciones compartidas",
+        "desc": "Piscinas, ascensores e instalaciones comunes administradas profesionalmente y mantenidas correctamente.",
+        "detail": "Piscinas, ascensores, gimnasios e instalaciones compartidas quedan bajo supervisión estructurada. Contratos, inspecciones, certificaciones y mantenimiento rutinario se coordinan centralmente."
+      },
+      {
+        "key": "repairs",
+        "title": "Reparaciones",
+        "desc": "Incidencias de reparación gestionadas proactivamente con supervisión de contratistas.",
+        "detail": "Las solicitudes de reparación se reciben, priorizan y asignan a contratistas verificados. Los presupuestos se revisan, los trabajos se supervisan y los resultados se documentan. Propietarios y comité reciben un registro claro de cada intervención."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Neurora Operating System",
+    "title": "Un sistema. Control total.",
+    "subtitle": "Un sistema operativo claro desde la propuesta hasta la toma de control, con control financiero, facturación, comunicación y estructura legal.",
+    "stepLabel": "PASO",
+    "fromHere": "DESDE AQUÍ",
+    "fromHereTitle": "Estructurado desde el primer día.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Propuesta personalizada",
+        "desc": "Una propuesta clara y detallada para su propiedad específica.",
+        "detail": "Evaluamos el tamaño, unidades, instalaciones y necesidades operativas para preparar una propuesta completamente desglosada. Cada coste es transparente y cada alcance de servicio está definido."
+      },
+      {
+        "n": "02",
+        "title": "Presentación en asamblea general",
+        "desc": "Presentamos el sistema a todos los propietarios, de forma directa.",
+        "detail": "Nuestro equipo asiste a la asamblea general y explica la propuesta, el modelo operativo y el marco legal. Las preguntas se responden directamente y quedan registradas."
+      },
+      {
+        "n": "03",
+        "title": "Voto de propietarios (50%+)",
+        "desc": "Una decisión mayoritaria registrada con transparencia.",
+        "detail": "Se realiza una votación formal según Cap. 224. Se requiere una mayoría simple de 50%+ para nombrar a Neurora. Los resultados se registran en el acta oficial."
+      },
+      {
+        "n": "04",
+        "title": "Comité de Administración elegido",
+        "desc": "Los propietarios eligen su Comité de Administración.",
+        "detail": "Los propietarios eligen un Comité de Administración que representa legalmente la propiedad. El comité supervisa decisiones, aprobaciones y control financiero con apoyo operativo de Neurora."
+      },
+      {
+        "n": "05",
+        "title": "Documentación legal",
+        "desc": "Actas y resoluciones archivadas conforme a Cap. 224.",
+        "detail": "Decisiones, actas, resoluciones y nombramientos se documentan formalmente y se archivan conforme a Cap. 224."
+      },
+      {
+        "n": "06",
+        "title": "Cuenta bancaria abierta",
+        "desc": "Cuenta en Bank of Cyprus a nombre del Comité de Administración.",
+        "detail": "Se abre una cuenta bancaria dedicada en Bank of Cyprus a nombre del Comité de Administración. Los fondos pertenecen a la propiedad, nunca al administrador."
+      },
+      {
+        "n": "07",
+        "title": "Toma de control operativa",
+        "desc": "Comienzan las operaciones completas. Los grupos de comunicación se activan.",
+        "detail": "Neurora asume el control operativo: facturación, servicios, mantenimiento, contratistas y reportes. Los grupos de WhatsApp y Viber se activan desde el primer día."
+      }
+    ],
+    "homeCta": "Neurora Operating System"
+  },
+  "communication": {
+    "eyebrow": "Comunicación",
+    "title": "Sin tickets. Sin retrasos. Sin intermediarios.",
+    "subtitle": "Usted escribe. Nosotros actuamos. Grupos directos de WhatsApp y Viber desde el primer día, con respuestas reales de personas reales.",
+    "cta": "Comunicación",
+    "directGroups": "Grupos directos",
+    "tile1Title": "WhatsApp & Viber",
+    "tile1Sub": "Desde el primer día",
+    "tile2Title": "Tiempo real",
+    "tile2Sub": "Respuestas humanas",
+    "channels": [
+      {
+        "title": "Grupo del Comité de Administración",
+        "desc": "Canal privado para decisiones financieras, aprobaciones y asuntos confidenciales.",
+        "tag": "Privado"
+      },
+      {
+        "title": "Grupo de residentes",
+        "desc": "Anuncios, actualizaciones y trabajos programados. Transparencia completa para cada residente.",
+        "tag": "Abierto"
+      }
+    ]
+  },
+  "operatingSystem": {
+    "eyebrow": "Sistema operativo de Neurora",
+    "titleLine1": "Un sistema.",
+    "titleLine2": "Control total.",
+    "subtitle": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre."
+  },
+  "financial": {
+    "eyebrow": "Control financiero",
+    "title": "Su dinero sigue siendo suyo. Siempre.",
+    "subtitle": "Cada propiedad tiene su propia cuenta en Bank of Cyprus a nombre del Comité de Administración. Sin fondos agrupados. Visibilidad completa mediante 1Bank. Cada transacción se registra.",
+    "accountHolder": "Titular de la cuenta",
+    "accountHolderName": "Comité de Administración",
+    "accountBody": "La cuenta bancaria se abre en Bank of Cyprus a nombre del Comité de Administración, con visibilidad en directo mediante 1Bank. Los propietarios mantienen el control.",
+    "tag1": "Bank of Cyprus",
+    "tag2": "Acceso 1Bank",
+    "pillars": [
+      {
+        "title": "Cuenta bancaria dedicada",
+        "desc": "Cada propiedad tiene su propia cuenta en Bank of Cyprus."
+      },
+      {
+        "title": "Titularidad del Comité",
+        "desc": "La cuenta está a nombre del Comité de Administración, no de Neurora."
+      },
+      {
+        "title": "Visibilidad en directo",
+        "desc": "Acceso completo mediante 1Bank. El comité ve todo en tiempo real."
+      },
+      {
+        "title": "Cada transacción registrada",
+        "desc": "Documentada, categorizada y auditable en cualquier momento."
+      }
+    ]
+  },
+  "legal": {
+    "eyebrow": "Protección legal",
+    "title": "Totalmente conforme. Totalmente protegido.",
+    "subtitle": "Cada acción tiene respaldo legal. Conforme a Cap. 224. Gobernanza basada en el Comité de Administración. Decisiones totalmente documentadas.",
+    "items": [
+      {
+        "title": "Cumplimiento de Cap. 224",
+        "desc": "Cada operación alineada con la ley inmobiliaria de Chipre.",
+        "detail": "Todas las operaciones siguen el marco de la Ley de Bienes Inmuebles, Cap. 224. Desde la formación del comité y los procedimientos de reunión hasta la gobernanza financiera y resoluciones, la propiedad funciona sobre una base legal sólida."
+      },
+      {
+        "title": "Decisiones del Comité de Administración",
+        "desc": "Todas las decisiones las toma el Comité de Administración, nunca nosotros solos.",
+        "detail": "Las decisiones estratégicas, financieras y operativas las toma el comité elegido, con recomendaciones estructuradas y ejecución por parte de Neurora. Los propietarios conservan siempre el control."
+      },
+      {
+        "title": "Reuniones documentadas",
+        "desc": "Actas, votos y resoluciones preparados y archivados correctamente.",
+        "detail": "Cada asamblea general y reunión del comité se documenta formalmente. Agendas, actas, votos y resoluciones se preparan conforme a Cap. 224 y se archivan de forma organizada."
+      }
+    ]
+  },
+  "automation": {
+    "eyebrow": "Automatización y facturación",
+    "title": "Nada se pierde. Nada se retrasa.",
+    "subtitle": "Fiable. Predecible. Sistematizado.",
+    "items": [
+      {
+        "title": "Órdenes permanentes para servicios",
+        "desc": "Electricidad, agua y ascensores pagados automáticamente. Sin pagos atrasados.",
+        "detail": "Las órdenes permanentes se configuran directamente con los proveedores y la cuenta bancaria de la propiedad. Las facturas se liquidan automáticamente al vencimiento."
+      },
+      {
+        "title": "Facturas el día 1",
+        "desc": "Facturas mensuales enviadas automáticamente a cada propietario el primer día del mes.",
+        "detail": "Cada propietario recibe una factura clara y detallada el primer día de cada mes, generada y entregada de forma constante."
+      },
+      {
+        "title": "Facturación totalmente detallada",
+        "desc": "Cada línea explicada. Los propietarios saben exactamente qué pagan.",
+        "detail": "Cada factura desglosa gastos comunes, servicios, mantenimiento, reparaciones y fondos especiales. Sin totales vagos ni partidas ocultas."
+      },
+      {
+        "title": "Historial auditable",
+        "desc": "Registro completo de cargos, pagos y trabajos, accesible en cualquier momento.",
+        "detail": "Cada transacción, factura, pago e intervención se registra en un archivo estructurado que el Comité puede revisar en cualquier momento."
+      }
+    ]
+  },
+  "finalCta": {
+    "titleLead": "¿Listo para aportar estructura a su propiedad?",
+    "titleAccent": "gestionarla correctamente.",
+    "cta": "Solicitar una propuesta"
+  },
+  "contact": {
+    "eyebrow": "Solicitar una propuesta",
+    "title": "Aporte estructura a su propiedad.",
+    "subtitle": "Aporte estructura a su propiedad.",
+    "emailLabel": "Correo electrónico",
+    "phoneLabel": "Teléfono",
+    "coverageLabel": "Cobertura",
+    "coverageValue": "Todo Chipre",
+    "stepOf": "Paso {{step}} de {{total}}",
+    "stepLabels": {
+      "1": "Tipo de propiedad",
+      "2": "Información",
+      "3": "Información",
+      "4": "Información",
+      "5": "Contacto"
+    },
+    "step1": {
+      "location": "Ubicación",
+      "units": "Más información",
+      "projectType": "Tipo de propiedad",
+      "locations": [
+        "Nicosia",
+        "Limassol",
+        "Lárnaca",
+        "Pafos",
+        "Ayia Napa",
+        "Protaras"
+      ],
+      "unitRanges": [
+        "1–10",
+        "10–30",
+        "30–60",
+        "60+"
+      ],
+      "projectTypes": [
+        "Edificio",
+        "Complejo residencial",
+        "Apartamento",
+        "Casa",
+        "Vivienda tipo villa",
+        "Comercial"
+      ],
+      "optionalInfo": {
+        "eyebrow": "Neurora Property Management",
+        "title": "Aporte estructura a su propiedad.",
+        "subtitle": "Aporte estructura a su propiedad."
+      }
+    },
+    "step2": {
+      "projectName": "Propiedades Name",
+      "year": "Año de construcción",
+      "selectYear": "Seleccionar año",
+      "floors": "Número de plantas",
+      "units": "Número de unidades",
+      "floorsPlaceholder": "1–100",
+      "unitsPlaceholder": "1–500",
+      "hasBank": "Más información",
+      "bankName": "Nombre del banco",
+      "hasInsurance": "Más información",
+      "insuranceName": "Nombre de la compañía de seguros",
+      "hasElevator": "Más información",
+      "elevatorCompany": "Nombre de la empresa de servicio",
+      "electricity": "Costes de electricidad (estimados)",
+      "water": "Costes de agua (estimados)",
+      "hasCommittee": "Más información",
+      "hasTitleDeeds": "¿Títulos de propiedad?",
+      "hasMinutes": "Más información",
+      "extra": "Más información",
+      "selectYesToEnable": "Más información"
+    },
+    "step3": {
+      "title": "Aporte estructura a su propiedad.",
+      "subtitle": "Aporte estructura a su propiedad.",
+      "other": "Otro",
+      "otherPlaceholder": "Especifique, por favor",
+      "otherDisabled": "Más información",
+      "services": [
+        "Servicios de administración de edificios",
+        "Servicios de limpieza posterior a la construcción",
+        "Mantenimiento de jardines",
+        "Mantenimiento de piscinas",
+        "Servicios de control de plagas",
+        "Mantenimiento de tejados",
+        "Reformas",
+        "Administración del fondo especial de la propiedad",
+        "Administración y mantenimiento de extintores y seguridad contra incendios",
+        "Servicios de limpieza de contenedores de basura",
+        "Servicios de limpieza de depósitos de agua",
+        "Administración de facturas",
+        "Servicios de limpieza y mantenimiento de alcantarillado",
+        "Administración y mantenimiento de calefacción común"
+      ],
+      "otherPrefix": "Otro"
+    },
+    "step4": {
+      "issuesTitle": "¿Qué problemas actuales tiene su propiedad?",
+      "selectAll": "Seleccione todo lo que corresponda.",
+      "isCommittee": "Más información",
+      "isDeveloper": "¿Es usted promotor?",
+      "issues": [
+        "Pagos irregulares",
+        "Falta de transparencia",
+        "Problemas de mantenimiento",
+        "Mala comunicación",
+        "Sin administración estructurada"
+      ]
+    },
+    "step5": {
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "phone": "Número de teléfono",
+      "email": "Correo electrónico",
+      "address": "Propiedades Address",
+      "city": "Ciudad",
+      "area": "Zona",
+      "streetName": "Nombre de la calle",
+      "streetNumber": "Número",
+      "postCode": "Código postal",
+      "mapPlaceholder": "Más información",
+      "hearAbout": "¿Cómo nos conoció?",
+      "hearAboutOptions": [
+        "Google",
+        "Redes sociales",
+        "Boca a boca",
+        "Recomendado por un conocido"
+      ],
+      "submit": "Enviar solicitud",
+      "submitting": "Enviando...",
+      "mapTitle": "Vista previa de la ubicación de la propiedad",
+      "recommendationName": "Nombre de la persona o empresa que nos recomendó (opcional)"
+    },
+    "step6": {
+      "title": "Aporte estructura a su propiedad.",
+      "body": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+      "again": "Enviar otra solicitud"
+    },
+    "yes": "Sí",
+    "no": "No",
+    "back": "Atrás",
+    "continue": "Continuar",
+    "errors": {
+      "completeAll": "Revise los campos obligatorios.",
+      "answerBoth": "Revise los campos obligatorios.",
+      "review": "Revise los campos obligatorios.",
+      "firstName": "Revise los campos obligatorios.",
+      "lastName": "Revise los campos obligatorios.",
+      "email": "Revise los campos obligatorios.",
+      "phone": "Revise los campos obligatorios.",
+      "requiredFields": "Complete todos los campos obligatorios.",
+      "submissionFailedTitle": "Error al enviar",
+      "submissionFailedDescription": "Inténtelo de nuevo o contáctenos directamente por correo electrónico."
+    },
+    "aria": {
+      "email": "Enviar un correo a Neurora a neuroraproperties@gmail.com",
+      "phone": "Llamar a Neurora al +357 99 203 600",
+      "whatsapp": "Contactar con Neurora por WhatsApp",
+      "viber": "Contactar con Neurora por Viber",
+      "facebook": "Abrir Facebook de Neurora",
+      "instagram": "Abrir Instagram de Neurora",
+      "coverageMap": "Ver la cobertura de Neurora en todo Chipre en Google Maps"
+    }
+  },
+  "servicesPage": {
+    "metaTitle": "Administración de propiedades | Neurora Property Management",
+    "metaDescription": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+    "hero": {
+      "titleLead": "Administración de propiedades",
+      "titleRest": "Más información",
+      "subtitleBefore": "Más información",
+      "brand": "Neurora Administración de propiedades",
+      "subtitleAfter": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+      "cta": "Ver servicios"
+    },
+    "catalogue": {
+      "eyebrow": "Categorías de servicios",
+      "title": "Un marco completo de servicios para un funcionamiento fluido de la propiedad.",
+      "categoryLabel": "Categoría",
+      "brandLine": "Neurora Administración de propiedades",
+      "serviceIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+      "modalBrandLine": "Neurora Administración de propiedades"
+    },
+    "categories": {
+      "cleaning": "Limpieza",
+      "commonExpenses": "Gastos comunes",
+      "communication": "Comunicación",
+      "maintenanceRepairs": "Mantenimiento y reparaciones",
+      "financial": "Financiero",
+      "legal": "Jurídico",
+      "managementAdministration": "Gestión y administración",
+      "amenitiesSharedFacilities": "Servicios e instalaciones compartidas"
+    },
+    "serviceItems": {
+      "management-administration": [
+        {
+          "title": "Puesta en marcha de la propiedad",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Coordinación del comité de administración",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Registros de residentes",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Coordinación de proveedores de servicios",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        }
+      ],
+      "common-expenses": [
+        {
+          "title": "Emisión mensual de gastos comunes",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Seguimiento de pagos",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Seguimiento de saldos pendientes",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        }
+      ],
+      "cleaning": [
+        {
+          "title": "Limpieza de áreas comunes",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Limpieza posterior a la construcción",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Limpieza de entrega de apartamentos y casas",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        }
+      ],
+      "maintenance-repairs": [
+        {
+          "title": "Mantenimiento rutinario de áreas comunes",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Coordinación de reparaciones",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Presupuestos de contratistas",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        }
+      ],
+      "amenities-shared-facilities": [
+        {
+          "title": "Limpieza y mantenimiento de piscinas",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Jardinería y paisajismo de áreas comunes",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Supervisión de áreas comunes",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Limpieza y mantenimiento de instalaciones compartidas",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        }
+      ],
+      "communication": [
+        {
+          "title": "Grupo Viber/WhatsApp del comité de administración",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Grupo Viber/WhatsApp de residentes",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Seguimientos por teléfono y correo electrónico",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        }
+      ],
+      "financial": [
+        {
+          "title": "Apoyo para apertura de cuenta bancaria",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Registros de ingresos y gastos",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Seguimiento de pagos",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Planificación presupuestaria",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Fondo de reserva",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        }
+      ],
+      "legal": [
+        {
+          "title": "Actas de asamblea general",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Actas y registros bancarios",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Apoyo legal al comité de administración",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        },
+        {
+          "title": "Cumplimiento del Cap. 224",
+          "summary": "Apoyo estructurado para una gestión de propiedades clara y fiable.",
+          "detail": "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        }
+      ]
+    },
+    "coverage": {
+      "eyebrow": "Cobertura en todo Chipre",
+      "titleLead": "Administración de propiedades",
+      "titleRest": "across Chipre.",
+      "body": "Neurora Property Management apoya edificios de apartamentos, complejos residenciales y propiedades compartidas en Pafos, Limassol, Lárnaca, Nicosia, Ayia Napa y Protaras.",
+      "cityIntro": "Explorar cobertura por zona",
+      "panelTitle": "Gestión de propiedades en todo Chipre",
+      "panelBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+      "cta": "Solicitar evaluación"
+    }
+  },
+  "footer": {
+    "groups": {
+      "company": {
+        "title": "Empresa",
+        "items": {
+          "about": "Quiénes somos",
+          "handle": "Lo que gestionamos",
+          "process": "Sistema operativo",
+          "contact": "Contacto",
+          "privacyPolicy": "Política de privacidad"
+        }
+      },
+      "operations": {
+        "title": "Operaciones",
+        "items": {
+          "communication": "Comunicación",
+          "financial": "Control financiero",
+          "automation": "Automatización y facturación",
+          "legal": "Soporte legal"
+        }
+      },
+      "coverage": {
+        "title": "Cobertura",
+        "items": {
+          "cyprus": "Chipre",
+          "paphos": "Pafos",
+          "limassol": "Limassol",
+          "larnaca": "Lárnaca",
+          "nicosia": "Nicosia",
+          "ayiaNapa": "Ayia Napa",
+          "protaras": "Protaras"
+        }
+      }
+    },
+    "hours": {
+      "monday": "Lunes",
+      "tuesday": "Martes",
+      "wednesday": "Miércoles",
+      "thursday": "Jueves",
+      "weekdaysHours": "8:00 - 13:00 | 14:00 - 17:00",
+      "friday": "Viernes",
+      "fridayHours": "8:00 - 13:00",
+      "saturday": "Sábado",
+      "sunday": "Domingo",
+      "closed": "Cerrado",
+      "title": "Horario de atención"
+    },
+    "rights": "© {{year}} Neurora Property Management Ltd. Todos los derechos reservados.",
+    "coverageMapAlt": "Mapa de cobertura en todo Chipre con Nicosia, Limassol, Larnaca, Pafos, Ayia Napa y Protaras",
+    "coveragePinAria": "Gestión inmobiliaria en {{location}}",
+    "aria": {
+      "whatsapp": "Contactar con Neurora por WhatsApp",
+      "viber": "Contactar con Neurora por Viber",
+      "facebook": "Abrir Facebook de Neurora",
+      "instagram": "Abrir Instagram de Neurora",
+      "email": "Enviar un correo a Neurora a neuroraproperties@gmail.com",
+      "phone": "Llamar a Neurora al +357 99 203 600"
+    }
+  },
+  "seo": {
+    "title": "Neurora Property Management Ltd | Gestión estructurada de propiedades en Chipre",
+    "description": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+    "ldDescription": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre."
+  },
+  "privacyPolicy": {
+    "metaTitle": "Administración de propiedades | Neurora Property Management",
+    "metaDescription": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+    "hero": {
+      "eyebrow": "Neurora Property Management",
+      "title": "Política de privacidad",
+      "subtitle": "Esta política explica cómo recopilamos, usamos y protegemos datos personales cuando utiliza nuestro sitio o nos contacta.",
+      "effectiveDate": "Fecha de entrada en vigor: 25 de junio de 2026"
+    },
+    "controller": {
+      "label": "Información",
+      "company": "Neurora Administración de propiedades Ltd",
+      "emailLabel": "Información"
+    },
+    "sections": [
+      {
+        "title": "Información de privacidad",
+        "body": [
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales.",
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales."
+        ]
+      },
+      {
+        "title": "Información de privacidad",
+        "body": [
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales.",
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales."
+        ]
+      },
+      {
+        "title": "Información de privacidad",
+        "body": [
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales.",
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales."
+        ]
+      },
+      {
+        "title": "Información de privacidad",
+        "body": [
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales."
+        ]
+      },
+      {
+        "title": "Información de privacidad",
+        "body": [
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales.",
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales."
+        ]
+      },
+      {
+        "title": "Información de privacidad",
+        "body": [
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales.",
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales.",
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales."
+        ]
+      },
+      {
+        "title": "Información de privacidad",
+        "body": [
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales.",
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales."
+        ]
+      },
+      {
+        "title": "Información de privacidad",
+        "body": [
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales.",
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales."
+        ]
+      },
+      {
+        "title": "Información de privacidad",
+        "body": [
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales."
+        ]
+      },
+      {
+        "title": "Información de privacidad",
+        "body": [
+          "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales."
+        ]
+      }
+    ],
+    "finalContact": {
+      "prefix": "Más información",
+      "suffix": "."
+    },
+    "cookiePreferences": {
+      "title": "Información de privacidad",
+      "body": "Procesamos datos personales solo para el funcionamiento del sitio, solicitudes de contacto, comunicación, solicitudes de servicio, seguridad y analítica opcional cuando usted la acepta. No vendemos datos personales.",
+      "button": "Abrir preferencias de cookies"
+    }
+  },
+  "locationPages": {
+    "shared": {
+      "heroEyebrow": "Cobertura en todo Chipre",
+      "primaryCta": "Solicitar evaluación",
+      "secondaryCta": "Ver servicios",
+      "introEyebrow": "Administración de propiedades · {{location}}",
+      "localContextEyebrow": "Contexto de administración local",
+      "issuesCardTitle": "Lo que normalmente falla",
+      "servicesEyebrow": "Más información",
+      "servicesTitle": "Un socio de administración para el trabajo operativo detrás de su propiedad.",
+      "servicesBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+      "coverageEyebrow": "Áreas de cobertura",
+      "coverageTitle": "Servicios de gestión de propiedades en todo Chipre.",
+      "coverageBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+      "questionsEyebrow": "Preguntas",
+      "questionsTitle": "Preguntas sobre gestión de propiedades en {{location}}.",
+      "ctaTitle": "¿Necesita gestión de propiedades en {{location}}?",
+      "ctaBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre."
+    },
+    "locations": {
+      "cyprus": "Chipre",
+      "paphos": "Pafos",
+      "limassol": "Limassol",
+      "larnaca": "Lárnaca",
+      "nicosia": "Nicosia",
+      "ayiaNapa": "Ayia Napa",
+      "protaras": "Protaras"
+    },
+    "services": [
+      {
+        "title": "Gastos comunes",
+        "desc": "Apoyo estructurado para una gestión de propiedades clara y fiable."
+      },
+      {
+        "title": "Control financiero control",
+        "desc": "Apoyo estructurado para una gestión de propiedades clara y fiable."
+      },
+      {
+        "title": "Comunicación",
+        "desc": "Apoyo estructurado para una gestión de propiedades clara y fiable."
+      },
+      {
+        "title": "Coordinación de mantenimiento",
+        "desc": "Apoyo estructurado para una gestión de propiedades clara y fiable."
+      },
+      {
+        "title": "Protección legal support",
+        "desc": "Apoyo estructurado para una gestión de propiedades clara y fiable."
+      },
+      {
+        "title": "Documentación",
+        "desc": "Apoyo estructurado para una gestión de propiedades clara y fiable."
+      }
+    ],
+    "pages": {
+      "cyprus": {
+        "name": "Chipre",
+        "slug": "property-management-cyprus",
+        "metaTitle": "Administración de propiedades | Neurora Property Management",
+        "metaDescription": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "heroTitle": "Administración de propiedades en Chipre",
+        "subtitle": "Administración estructurada para propiedades en Chipre que necesitan claridad, control y comunicación fiable.",
+        "introTitle": "Un sistema de administración claro para propiedades en Chipre.",
+        "introBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "localTitle": "Diseñado para propiedades que no pueden depender de seguimientos informales.",
+        "localBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "focusPoints": [
+          "Apoyo de administración para edificios de apartamentos, complejos residenciales y propiedades compartidas.",
+          "Comunicación directa por WhatsApp y Viber para una coordinación más rápida.",
+          "Gastos comunes, mantenimiento, limpieza y registros gestionados desde un único punto de administración."
+        ],
+        "issueTitle": "Problemas comunes de administración de propiedades en Chipre.",
+        "issueIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "issues": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "supportTitle": "Cómo Neurora apoya propiedades en Chipre.",
+        "supportIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "supportItems": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "faq": [
+          {
+            "question": "¿Ofrece Neurora administración de propiedades en Chipre?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Chipre."
+          },
+          {
+            "question": "¿Qué tipos de propiedades administran?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Chipre."
+          }
+        ]
+      },
+      "paphos": {
+        "name": "Pafos",
+        "slug": "property-management-paphos",
+        "metaTitle": "Administración de propiedades | Neurora Property Management",
+        "metaDescription": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "heroTitle": "Administración de propiedades en Pafos",
+        "subtitle": "Administración estructurada para propiedades en Pafos que necesitan claridad, control y comunicación fiable.",
+        "introTitle": "Un sistema de administración claro para propiedades en Pafos.",
+        "introBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "localTitle": "Diseñado para propiedades que no pueden depender de seguimientos informales.",
+        "localBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "focusPoints": [
+          "Apoyo de administración para edificios de apartamentos, complejos residenciales y propiedades compartidas.",
+          "Comunicación directa por WhatsApp y Viber para una coordinación más rápida.",
+          "Gastos comunes, mantenimiento, limpieza y registros gestionados desde un único punto de administración."
+        ],
+        "issueTitle": "Problemas comunes de administración de propiedades en Pafos.",
+        "issueIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "issues": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "supportTitle": "Cómo Neurora apoya propiedades en Pafos.",
+        "supportIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "supportItems": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "faq": [
+          {
+            "question": "¿Ofrece Neurora administración de propiedades en Pafos?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Pafos."
+          },
+          {
+            "question": "¿Qué tipos de propiedades administran?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Pafos."
+          }
+        ]
+      },
+      "limassol": {
+        "name": "Limassol",
+        "slug": "property-management-limassol",
+        "metaTitle": "Administración de propiedades | Neurora Property Management",
+        "metaDescription": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "heroTitle": "Administración de propiedades en Limassol",
+        "subtitle": "Administración estructurada para propiedades en Limassol que necesitan claridad, control y comunicación fiable.",
+        "introTitle": "Un sistema de administración claro para propiedades en Limassol.",
+        "introBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "localTitle": "Diseñado para propiedades que no pueden depender de seguimientos informales.",
+        "localBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "focusPoints": [
+          "Apoyo de administración para edificios de apartamentos, complejos residenciales y propiedades compartidas.",
+          "Comunicación directa por WhatsApp y Viber para una coordinación más rápida.",
+          "Gastos comunes, mantenimiento, limpieza y registros gestionados desde un único punto de administración."
+        ],
+        "issueTitle": "Problemas comunes de administración de propiedades en Limassol.",
+        "issueIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "issues": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "supportTitle": "Cómo Neurora apoya propiedades en Limassol.",
+        "supportIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "supportItems": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "faq": [
+          {
+            "question": "¿Ofrece Neurora administración de propiedades en Limassol?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Limassol."
+          },
+          {
+            "question": "¿Qué tipos de propiedades administran?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Limassol."
+          }
+        ]
+      },
+      "larnaca": {
+        "name": "Lárnaca",
+        "slug": "property-management-larnaca",
+        "metaTitle": "Administración de propiedades | Neurora Property Management",
+        "metaDescription": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "heroTitle": "Administración de propiedades en Lárnaca",
+        "subtitle": "Administración estructurada para propiedades en Lárnaca que necesitan claridad, control y comunicación fiable.",
+        "introTitle": "Un sistema de administración claro para propiedades en Lárnaca.",
+        "introBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "localTitle": "Diseñado para propiedades que no pueden depender de seguimientos informales.",
+        "localBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "focusPoints": [
+          "Apoyo de administración para edificios de apartamentos, complejos residenciales y propiedades compartidas.",
+          "Comunicación directa por WhatsApp y Viber para una coordinación más rápida.",
+          "Gastos comunes, mantenimiento, limpieza y registros gestionados desde un único punto de administración."
+        ],
+        "issueTitle": "Problemas comunes de administración de propiedades en Lárnaca.",
+        "issueIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "issues": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "supportTitle": "Cómo Neurora apoya propiedades en Lárnaca.",
+        "supportIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "supportItems": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "faq": [
+          {
+            "question": "¿Ofrece Neurora administración de propiedades en Lárnaca?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Lárnaca."
+          },
+          {
+            "question": "¿Qué tipos de propiedades administran?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Lárnaca."
+          }
+        ]
+      },
+      "nicosia": {
+        "name": "Nicosia",
+        "slug": "property-management-nicosia",
+        "metaTitle": "Administración de propiedades | Neurora Property Management",
+        "metaDescription": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "heroTitle": "Administración de propiedades en Nicosia",
+        "subtitle": "Administración estructurada para propiedades en Nicosia que necesitan claridad, control y comunicación fiable.",
+        "introTitle": "Un sistema de administración claro para propiedades en Nicosia.",
+        "introBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "localTitle": "Diseñado para propiedades que no pueden depender de seguimientos informales.",
+        "localBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "focusPoints": [
+          "Apoyo de administración para edificios de apartamentos, complejos residenciales y propiedades compartidas.",
+          "Comunicación directa por WhatsApp y Viber para una coordinación más rápida.",
+          "Gastos comunes, mantenimiento, limpieza y registros gestionados desde un único punto de administración."
+        ],
+        "issueTitle": "Problemas comunes de administración de propiedades en Nicosia.",
+        "issueIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "issues": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "supportTitle": "Cómo Neurora apoya propiedades en Nicosia.",
+        "supportIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "supportItems": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "faq": [
+          {
+            "question": "¿Ofrece Neurora administración de propiedades en Nicosia?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Nicosia."
+          },
+          {
+            "question": "¿Qué tipos de propiedades administran?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Nicosia."
+          }
+        ]
+      },
+      "ayiaNapa": {
+        "name": "Ayia Napa",
+        "slug": "property-management-ayia-napa",
+        "metaTitle": "Administración de propiedades | Neurora Property Management",
+        "metaDescription": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "heroTitle": "Administración de propiedades en Ayia Napa",
+        "subtitle": "Administración estructurada para propiedades en Ayia Napa que necesitan claridad, control y comunicación fiable.",
+        "introTitle": "Un sistema de administración claro para propiedades en Ayia Napa.",
+        "introBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "localTitle": "Diseñado para propiedades que no pueden depender de seguimientos informales.",
+        "localBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "focusPoints": [
+          "Apoyo de administración para edificios de apartamentos, complejos residenciales y propiedades compartidas.",
+          "Comunicación directa por WhatsApp y Viber para una coordinación más rápida.",
+          "Gastos comunes, mantenimiento, limpieza y registros gestionados desde un único punto de administración."
+        ],
+        "issueTitle": "Problemas comunes de administración de propiedades en Ayia Napa.",
+        "issueIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "issues": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "supportTitle": "Cómo Neurora apoya propiedades en Ayia Napa.",
+        "supportIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "supportItems": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "faq": [
+          {
+            "question": "¿Ofrece Neurora administración de propiedades en Ayia Napa?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Ayia Napa."
+          },
+          {
+            "question": "¿Qué tipos de propiedades administran?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Ayia Napa."
+          }
+        ]
+      },
+      "protaras": {
+        "name": "Protaras",
+        "slug": "property-management-protaras",
+        "metaTitle": "Administración de propiedades | Neurora Property Management",
+        "metaDescription": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "heroTitle": "Administración de propiedades en Protaras",
+        "subtitle": "Administración estructurada para propiedades en Protaras que necesitan claridad, control y comunicación fiable.",
+        "introTitle": "Un sistema de administración claro para propiedades en Protaras.",
+        "introBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "localTitle": "Diseñado para propiedades que no pueden depender de seguimientos informales.",
+        "localBody": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "focusPoints": [
+          "Apoyo de administración para edificios de apartamentos, complejos residenciales y propiedades compartidas.",
+          "Comunicación directa por WhatsApp y Viber para una coordinación más rápida.",
+          "Gastos comunes, mantenimiento, limpieza y registros gestionados desde un único punto de administración."
+        ],
+        "issueTitle": "Problemas comunes de administración de propiedades en Protaras.",
+        "issueIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "issues": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "supportTitle": "Cómo Neurora apoya propiedades en Protaras.",
+        "supportIntro": "Neurora Property Management crea una estructura de administración clara, con comunicación transparente, procesos documentados, visibilidad financiera y coordinación fiable para propiedades compartidas en Chipre.",
+        "supportItems": [
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración.",
+          "Este servicio apoya el funcionamiento diario de la propiedad mediante organización clara, seguimiento documentado, mejor comunicación y responsabilidades estructuradas entre propietarios, residentes y el comité de administración."
+        ],
+        "faq": [
+          {
+            "question": "¿Ofrece Neurora administración de propiedades en Protaras?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Protaras."
+          },
+          {
+            "question": "¿Qué tipos de propiedades administran?",
+            "answer": "Sí. Neurora ofrece administración estructurada para edificios, complejos residenciales y propiedades compartidas en Protaras."
+          }
+        ]
+      }
+    }
+  },
+  "cookieConsent": {
+    "banner": {
+      "eyebrow": "Preferencias de privacidad",
+      "title": "Usamos cookies con cuidado.",
+      "body": "Usamos cookies necesarias para que el sitio funcione y cookies analíticas opcionales para entender cómo los visitantes usan el sitio.",
+      "privacyLink": "Política de privacidad"
+    },
+    "buttons": {
+      "acceptAll": "Aceptar todo",
+      "rejectAll": "Rechazar todo",
+      "manage": "Gestionar",
+      "save": "Guardar preferencias",
+      "close": "Cerrar"
+    },
+    "preferences": {
+      "title": "Preferencias de cookies",
+      "body": "Usamos cookies necesarias para que el sitio funcione y cookies analíticas opcionales para entender cómo los visitantes usan el sitio.",
+      "necessary": {
+        "title": "Cookies necesarias",
+        "body": "Usamos cookies necesarias para que el sitio funcione y cookies analíticas opcionales para entender cómo los visitantes usan el sitio."
+      },
+      "analytics": {
+        "title": "Cookies analíticas",
+        "body": "Usamos cookies necesarias para que el sitio funcione y cookies analíticas opcionales para entender cómo los visitantes usan el sitio."
+      },
+      "marketing": {
+        "title": "Cookies de marketing",
+        "body": "Usamos cookies necesarias para que el sitio funcione y cookies analíticas opcionales para entender cómo los visitantes usan el sitio."
+      }
+    }
+  },
+  "logo": {
+    "alt": "Logotipo de Neurora Property Management"
+  },
+  "notFound": {
+    "title": "404",
+    "body": "¡Ups! Página no encontrada",
+    "home": "Volver al inicio"
+  },
+  "floatingContact": {
+    "aria": {
+      "open": "Abrir menú de contacto rápido",
+      "close": "Cerrar menú de contacto rápido",
+      "instagram": "Abrir Instagram de Neurora",
+      "facebook": "Abrir Facebook de Neurora",
+      "viber": "Contactar con Neurora por Viber",
+      "whatsapp": "Contactar con Neurora por WhatsApp",
+      "email": "Enviar un correo a Neurora",
+      "call": "Llamar a Neurora"
+    }
+  },
+  "whyNeurora": {
+    "eyebrow": "Por qué Neurora",
+    "title": "Un estándar de atención reservado para propiedades importantes.",
+    "subtitle": "Los propietarios confían en Neurora porque cada detalle se gestiona con discreción, precisión y verdadera responsabilidad.",
+    "items": [
+      {
+        "title": "Propiedad sin complicaciones",
+        "desc": "Nos encargamos de todo por usted."
+      },
+      {
+        "title": "Fiable y ágil",
+        "desc": "Actuamos rápido cuando importa."
+      },
+      {
+        "title": "Gastos transparentes",
+        "desc": "Registros claros, sin sorpresas."
+      },
+      {
+        "title": "Red de confianza",
+        "desc": "Solo profesionales verificados."
+      },
+      {
+        "title": "Atención al detalle",
+        "desc": "El cuidado está presente en cada interacción."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Testimonios",
+    "title": "Con la confianza de propietarios que esperan más.",
+    "items": [
+      {
+        "quote": "Neurora ha transformado por completo la forma en que gestiono mi propiedad desde el extranjero. Todo está atendido y ya no tengo que preocuparme. Realmente se implican.",
+        "name": "Daniel R.",
+        "role": "Propietario en el extranjero"
+      },
+      {
+        "quote": "Profesionales, receptivos y meticulosos. Facturas, reparaciones y contratistas se coordinan sin problemas. La tranquilidad que ofrecen es realmente invaluable.",
+        "name": "Elena M.",
+        "role": "Inversora privada"
+      },
+      {
+        "quote": "Una fiabilidad que se nota. Los informes son claros, el equipo es de confianza y mi propiedad siempre está impecable.",
+        "name": "James T.",
+        "role": "Propietario residencial"
+      }
+    ]
+  },
+  "common": {
+    "close": "Cerrar"
+  }
+}

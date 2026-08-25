@@ -1,0 +1,1522 @@
+{
+  "header": {
+    "links": {
+      "home": "Acasă",
+      "about": "Despre noi",
+      "services": "Servicii",
+      "howItWorks": "Sistemul operațional Neurora",
+      "contact": "Contact"
+    },
+    "cta": "Solicită o ofertă",
+    "menu": "Deschide meniul",
+    "language": "Limbă"
+  },
+  "hero": {
+    "badge": "Administrare proprietăți · Cipru",
+    "titleLead": "Nu mai alergați după problemele proprietății.",
+    "titleAccent": "Preluați controlul.",
+    "subtitle": "Administrare structurată a proprietăților pentru clădiri și ansambluri rezidențiale din tot Ciprul, cu transparență completă, comunicare directă și fără goluri operaționale.",
+    "bullets": [
+      "Fără intermediari. Comunicare directă din prima zi.",
+      "Banii proprietății rămân în propriul cont bancar.",
+      "Fiecare cheltuială este urmărită. Fiecare sarcină este gestionată."
+    ],
+    "ctaPrimary": "Solicită o ofertă",
+    "ctaSecondary": "Sistemul operațional Neurora",
+    "imageAlt": "Clădire rezidențială modernă de lux din Cipru administrată de Neurora"
+  },
+  "hero3d": {
+    "titleLine1": "Administrația",
+    "titleLine2": "Proprietăților",
+    "titleLine3": "Regândită",
+    "subtitle": "Administrarea proprietăților, administrarea spațiilor comune, curățenie după construcție",
+    "primaryCta": "Solicitați o evaluare",
+    "secondaryCta": "Vedeți serviciile",
+    "scroll": "Derulați",
+    "tags": {
+      "financial": "Control financiar",
+      "legal": "Protecție juridică",
+      "cleaning": "Curățenie după construcție"
+    }
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Conform Cap. 224",
+        "desc": "Respectă cadrul legal aplicabil proprietăților din Cipru."
+      },
+      {
+        "title": "Fonduri protejate 100%",
+        "desc": "Toți banii rămân în contul propriu al proprietății."
+      },
+      {
+        "title": "Facturi pe data de 1",
+        "desc": "Facturile lunare sunt emise automat în fiecare lună."
+      },
+      {
+        "title": "Comunicare directă",
+        "desc": "Fără intermediari. Fără tichete. Răspunsuri reale."
+      }
+    ],
+    "modalDetails": [
+      "Aceasta înseamnă că proprietatea este administrată într-o structură legală corectă, conform legislației din Cipru. Deciziile, evidențele, responsabilitățile și acțiunile de administrare sunt documentate, oferind Comitetului de Administrare și rezidenților un cadru mai clar și mai sigur.",
+      "Toate fondurile proprietății rămân legate de proprietatea respectivă și nu sunt amestecate cu banii altor clădiri sau cu fondurile operaționale ale companiei. Acest lucru protejează transparența, îmbunătățește responsabilitatea și ajută Comitetul de Administrare să vadă cum sunt colectați, păstrați și folosiți banii.",
+      "Facturile lunare sunt emise după un program fix, astfel încât rezidenții știu când trebuie efectuate plățile, iar proprietatea are un flux de numerar previzibil. Acest lucru susține ordinele permanente, plățile în avans și o planificare mai bună pentru întreținere, utilități și cheltuieli comune.",
+      "Rezidenții și Comitetul de Administrare comunică prin grupuri dedicate de WhatsApp sau Viber create pentru proprietate. Astfel, anunțurile, lucrările programate, plățile și actualizările operaționale sunt mai ușor de urmărit, mai transparente și mai rapid de gestionat."
+    ]
+  },
+  "about": {
+    "eyebrow": "Proprietăți pe care le administrăm",
+    "title": "Creat pentru proprietăți care au nevoie de structură, nu de haos.",
+    "subtitle": "Indiferent dacă blocul sau ansamblul rezidențial funcționează bine sau se află în dezordine operațională, intervenim, implementăm structură și preluăm controlul complet.",
+    "items": [
+      {
+        "title": "Proprietăți existente care au nevoie de structură",
+        "desc": "Clădiri cu mai mulți proprietari și ansambluri rezidențiale pregătite să înlocuiască dezorganizarea cu un sistem real.",
+        "detail": "Acestea sunt proprietăți deja în funcțiune, adesea cu proprietari de lungă durată, dar fără un cadru coerent de administrare. Evaluăm situația existentă, definim o structură operațională clară, formalizăm Comitetul de Administrare și aducem finanțele, comunicarea și întreținerea într-un sistem transparent."
+      },
+      {
+        "title": "Dezvoltări noi",
+        "desc": "Dezvoltatori care predau proprietăți finalizate, organizate corect din prima zi.",
+        "detail": "Colaborăm cu dezvoltatorii înainte de predare, astfel încât proprietatea să înceapă cu un cadru operațional complet: cont bancar dedicat, program de facturare, relații cu furnizorii, canale de comunicare și conformitate cu Cap. 224 încă din prima lună."
+      },
+      {
+        "title": "Proprietăți cu probleme operaționale",
+        "desc": "Situații complicate și comunicare defectuoasă. Preluăm și remediem.",
+        "detail": "Atunci când o proprietate se confruntă cu procese dezorganizate, administrare care nu răspunde sau proceduri neclare, intervenim pentru stabilizare. Reconstruim modelul operațional, documentăm totul, restabilim responsabilități clare și readucem ordinea fără a perturba rezidenții."
+      }
+    ]
+  },
+  "homeCoverage": {
+    "eyebrow": "Acoperire în tot Ciprul",
+    "text": "Neurora Property Management sprijină proprietăți comune în tot Ciprul, inclusiv în Paphos, Limassol, Larnaca, Nicosia, Ayia Napa și Protaras.",
+    "locations": {
+      "paphos": {
+        "label": "Paphos",
+        "aria": "Vezi serviciile de administrare a proprietăților în Paphos"
+      },
+      "limassol": {
+        "label": "Limassol",
+        "aria": "Vezi serviciile de administrare a proprietăților în Limassol"
+      },
+      "larnaca": {
+        "label": "Larnaca",
+        "aria": "Vezi serviciile de administrare a proprietăților în Larnaca"
+      },
+      "nicosia": {
+        "label": "Nicosia",
+        "aria": "Vezi serviciile de administrare a proprietăților în Nicosia"
+      },
+      "ayiaNapa": {
+        "label": "Ayia Napa",
+        "aria": "Vezi serviciile de administrare a proprietăților în Ayia Napa"
+      },
+      "protaras": {
+        "label": "Protaras",
+        "aria": "Vezi serviciile de administrare a proprietăților în Protaras"
+      }
+    },
+    "country": {
+      "label": "În tot Ciprul",
+      "aria": "Vezi informații despre administrarea proprietăților"
+    }
+  },
+  "aboutPage": {
+    "metaTitle": "Despre Neurora Property Management | Administrare proprietăți în Cipru",
+    "metaDescription": "Aflați cum Neurora Property Management aduce structură, transparență, comunicare și control în blocuri de apartamente și ansambluri rezidențiale din Cipru.",
+    "hero": {
+      "eyebrow": "Despre Neurora Property Management",
+      "titleLead": "Administrare de proprietăți construită în jurul",
+      "titleAccent": "structurii, transparenței și controlului.",
+      "subtitle": "Neurora Property Management a fost creată pentru clădiri și ansambluri rezidențiale care au nevoie de mai mult decât administrare de bază. Aducem un sistem operațional clar proprietăților comune, combinând comunicarea, vizibilitatea financiară, coordonarea întreținerii și procedurile documentate.",
+      "ctaPrimary": "Solicitați o ofertă",
+      "ctaSecondary": "Explorați serviciile"
+    },
+    "intro": {
+      "eyebrow": "Cine suntem",
+      "title": "Un partener de administrare pentru proprietăți care au nevoie de claritate.",
+      "body": "Lucrăm cu Comitete de Administrare, proprietari, rezidenți și dezvoltatori pentru a înlocui aranjamentele informale cu un sistem de administrare structurat. Fiecare proprietate este gestionată cu comunicare clară, decizii documentate, evidențe organizate și vizibilitate completă asupra funcționării proprietății."
+    },
+    "method": {
+      "title": "Metoda Neurora",
+      "body": "Munca noastră se bazează pe un principiu simplu: proprietatea trebuie să păstreze controlul asupra banilor, evidențelor și deciziilor sale. Neurora oferă structura operațională, coordonarea, urmărirea și administrarea zilnică necesare pentru ca totul să funcționeze corect.",
+      "points": {
+        "structure": "Structură",
+        "transparency": "Transparență",
+        "control": "Control"
+      }
+    },
+    "properties": {
+      "eyebrow": "Proprietăți pe care le administrăm",
+      "title": "Proprietăți diferite. Un singur standard structurat.",
+      "subtitle": "De la blocuri de apartamente existente până la dezvoltări noi și proprietăți cu probleme operaționale, scopul este același: înlocuirea confuziei cu un sistem clar."
+    },
+    "standard": {
+      "eyebrow": "Standardul nostru",
+      "title": "Creat pentru a proteja încrederea dintre proprietari, rezidenți și Comitetul de Administrare.",
+      "subtitle": "Standardul Neurora se concentrează pe evidențe clare, fonduri protejate, facturare previzibilă și comunicare directă din prima zi."
+    },
+    "cta": {
+      "title": "Sunteți gata să aduceți structură proprietății dumneavoastră?",
+      "body": "Spuneți-ne despre blocul sau ansamblul dumneavoastră rezidențial și vom pregăti o ofertă clară, bazată pe nevoile reale.",
+      "button": "Solicitați o ofertă"
+    }
+  },
+  "howItWorksPage": {
+    "metaTitle": "Sistemul operațional Neurora | Neurora Property Management",
+    "metaDescription": "Descoperiți Sistemul Operațional Neurora, care combină procesul complet de preluare cu control financiar, facturare automată, structură de comunicare și protecție legală.",
+    "hero": {
+      "eyebrow": "Sistemul operațional Neurora",
+      "titleLead": "Un singur sistem operațional pentru",
+      "titleAccent": "control complet al proprietății.",
+      "subtitle": "Sistemul Operațional Neurora combină procesul complet de preluare cu control financiar, administrare automată, structură legală, documentație, comunicare și management operațional zilnic.",
+      "ctaPrimary": "Solicitați o ofertă",
+      "ctaSecondary": "Explorați serviciile"
+    },
+    "intro": {
+      "eyebrow": "Sistemul operațional",
+      "title": "De la aprobarea proprietarilor la controlul zilnic, totul urmează o singură structură.",
+      "body": "Înainte ca Neurora să preia administrarea, proprietatea urmează un proces clar de aprobare și documentare. După preluare, sistemul operațional reunește comunicarea, facturarea, furnizorii, evidențele, vizibilitatea contului bancar, automatizarea și structura legală.",
+      "panelTitle": "Proces + sistem",
+      "panelBody": "Această pagină combină procesul de preluare cu detaliile Sistemului Operațional Neurora, astfel încât proprietarii să vadă atât pașii de aprobare, cât și structura de administrare care funcționează după preluare.",
+      "points": {
+        "review": "Analiză",
+        "document": "Documentare",
+        "takeover": "Preluare"
+      }
+    },
+    "afterTakeover": {
+      "eyebrow": "După preluare",
+      "title": "Ce se întâmplă după ce Neurora începe administrarea proprietății.",
+      "subtitle": "Odată ce proprietatea intră în administrare activă, structura operațională devine funcțională și începe administrarea zilnică.",
+      "items": [
+        {
+          "title": "Comunicarea devine activă",
+          "desc": "Sunt create grupuri dedicate Viber și WhatsApp pentru coordonare directă.",
+          "detail": "Sunt create grupuri de comunicare dedicate pentru Comitetul de Administrare și rezidenți, oferind proprietății canale clare pentru anunțuri, actualizări, lucrări programate, decizii și urmăriri."
+        },
+        {
+          "title": "Încep cheltuielile comune lunare",
+          "desc": "Cheltuielile comune sunt emise și urmărite printr-un proces lunar structurat.",
+          "detail": "Cheltuielile comune lunare sunt emise clar și consecvent. Plățile sunt urmărite, soldurile restante sunt monitorizate, iar Comitetul de Administrare păstrează vizibilitatea asupra procesului de colectare."
+        },
+        {
+          "title": "Furnizorii sunt coordonați",
+          "desc": "Curățenia, întreținerea, utilitățile, reparațiile, facilitățile și spațiile verzi sunt organizate.",
+          "detail": "Furnizorii și contractorii conectați la proprietate sunt coordonați printr-o singură structură de administrare, ajutând curățenia, întreținerea, utilitățile, reparațiile, facilitățile și amenajările exterioare să rămână organizate."
+        },
+        {
+          "title": "Evidențele sunt păstrate",
+          "desc": "Plățile, cheltuielile, deciziile, procesele-verbale și actualizările operaționale sunt documentate.",
+          "detail": "Evidențele importante ale proprietății sunt păstrate organizat, inclusiv plăți, cheltuieli, decizii, procese-verbale, aspecte legate de furnizori, actualizări operaționale și alte documente relevante."
+        }
+      ]
+    },
+    "financial": {
+      "eyebrow": "Control financiar",
+      "title": "Proprietatea păstrează controlul asupra banilor săi.",
+      "body": "Fiecare bloc de apartamente sau ansamblu rezidențial are propriul cont Bank of Cyprus pe numele Comitetului de Administrare. Fondurile rămân la client, nu la Neurora. Acest lucru oferă Comitetului vizibilitate, control și trasabilitate asupra finanțelor proprietății.",
+      "items": [
+        {
+          "title": "Cont bancar propriu",
+          "desc": "Fiecare proprietate are propriul cont bancar pe numele Comitetului de Administrare.",
+          "detail": "Proprietatea funcționează prin propriul cont dedicat Bank of Cyprus pe numele Comitetului de Administrare, asigurând că banii rămân legați de proprietate."
+        },
+        {
+          "title": "Fără fonduri amestecate",
+          "desc": "Fondurile proprietății nu sunt amestecate cu banii companiei sau ai altor proprietăți.",
+          "detail": "Fondurile proprietății nu sunt amestecate cu alte clădiri sau cu fondurile operaționale ale companiei, susținând responsabilitate mai clară și separare financiară mai puternică."
+        },
+        {
+          "title": "Vizibilitate completă",
+          "desc": "Veniturile, cheltuielile, plățile și soldurile sunt mai ușor de urmărit.",
+          "detail": "Comitetul de Administrare poate menține vizibilitate asupra veniturilor, cheltuielilor, plăților și soldurilor, ajutând luarea deciziilor cu mai multă claritate financiară."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Sunteți gata să înțelegeți ce are nevoie proprietatea dumneavoastră?",
+      "body": "Spuneți-ne despre blocul sau ansamblul dumneavoastră rezidențial și vom pregăti o ofertă clară pe baza nevoilor operaționale reale.",
+      "button": "Solicitați o ofertă"
+    }
+  },
+  "problem": {
+    "eyebrow": "Realitatea",
+    "titleLead": "Majoritatea clădirilor nu au administrare.",
+    "titleAccent": "Au probleme.",
+    "items": [
+      {
+        "title": "Plățile întârzie sau sunt neclare",
+        "detail": "Fără o facturare structurată, proprietarii primesc facturi inconsistente, ratează termene de plată sau nu știu exact pentru ce plătesc. Fluxul de numerar devine imprevizibil, iar proprietatea nu poate planifica din timp."
+      },
+      {
+        "title": "Nu există vizibilitate asupra finanțelor",
+        "detail": "Fără un cont bancar dedicat și rapoarte clare, proprietarii nu pot vedea unde se duc banii. Fondurile ajung să fie amestecate cu alte proprietăți sau controlate de o singură persoană."
+      },
+      {
+        "title": "Problemele de întreținere sunt gestionate prea târziu",
+        "detail": "Întreținerea reactivă duce la probleme mai mari și costuri inutile. Fără supraveghere programată și o rețea de contractori coordonată, problemele mici devin urgențe scumpe."
+      },
+      {
+        "title": "Comunicarea este lentă sau ignorată",
+        "detail": "Când rezidenții trebuie să urmărească răspunsuri sau să se bazeze pe canale informale, încrederea se pierde. Actualizările importante sunt ratate, solicitările se pierd, iar proprietarii se simt deconectați de propria proprietate."
+      },
+      {
+        "title": "Deciziile nu sunt documentate",
+        "detail": "Acordurile verbale și aprobările informale creează dispute, ambiguitate și risc legal. Fără procese-verbale și hotărâri corecte, proprietatea nu are evidență clară a deciziilor luate și a persoanelor responsabile."
+      },
+      {
+        "title": "Nu există responsabilitate clară",
+        "detail": "Când nimeni nu își asumă rezultatul operațional, problemele rămân nerezolvate. Un sistem structurat atribuie responsabilități clare, standarde măsurabile și răspundere la fiecare nivel."
+      }
+    ],
+    "footerLead": "Aceasta nu este administrare.",
+    "footerAccent": "Este haos."
+  },
+  "postConstruction": {
+    "eyebrow": "Curățenie după construcție",
+    "title": "De la predarea construcției la o proprietate pregătită pentru prezentare.",
+    "subtitle": "După finalizarea construcției, proprietățile rămân adesea cu praf, resturi, reziduuri și urme în apartamente, intrări, spații comune și facilități partajate. Neurora pregătește întreaga proprietate astfel încât să fie curată, organizată și gata pentru prezentare, predare sau ocupare.",
+    "visual": {
+      "beforeTitle": "După construcție",
+      "beforeText": "Praf, resturi, reziduuri și o prezentare neterminată în întreaga proprietate.",
+      "afterTitle": "Gata pentru predare",
+      "afterText": "Apartamentele, intrările, spațiile comune și zonele partajate sunt pregătite pentru o primă impresie mai bună."
+    },
+    "cards": [
+      {
+        "key": "debris",
+        "title": "Îndepărtarea resturilor și a prafului",
+        "desc": "Praful de construcție, reziduurile de ambalaje și resturile rămase sunt curățate din apartamente și spații comune.",
+        "detail": "Curățenia după construcție se concentrează pe îndepărtarea murdăriei vizibile și practice rămase după finalizarea lucrărilor. Aceasta include praful de construcție, resturi de ambalaje, mici deșeuri, reziduuri, urme și murdărie din apartamente, intrări, coridoare, scări, lifturi, spații comune și facilități partajate, astfel încât proprietatea să nu mai arate ca un șantier."
+      },
+      {
+        "key": "common",
+        "title": "Pregătirea completă a proprietății",
+        "desc": "Apartamentele, intrările, coridoarele, lifturile, scările și zonele comune sunt pregătite pentru prima utilizare.",
+        "detail": "Serviciul acoperă zonele pe care proprietarii, rezidenții și vizitatorii le văd și le folosesc: apartamente, intrări, coridoare, scări, lifturi, holuri, spații comune și facilități partajate. Scopul este ca întreaga proprietate să fie curată, prezentabilă și pregătită pentru predare, vizionări sau prima ocupare."
+      },
+      {
+        "key": "handover",
+        "title": "Pregătită pentru prezentare",
+        "desc": "O primă impresie mai bună pentru proprietari, rezidenți, cumpărători și vizitatori.",
+        "detail": "O proprietate nou finalizată nu ar trebui prezentată cu reziduuri de construcție încă vizibile. Neurora ajută la pregătirea întregii proprietăți pentru prima impresie, astfel încât apartamentele, spațiile comune și intrările clădirii să fie potrivite pentru proprietari, rezidenți, cumpărători și vizitatori din prima zi."
+      }
+    ]
+  },
+  "solution": {
+    "eyebrow": "Soluția",
+    "title": "Neurora înlocuiește haosul cu structură.",
+    "body": "Implementăm un sistem operațional complet care acoperă finanțele, comunicarea, întreținerea și structura legală.",
+    "footer": "Nimic nu rămâne neadministrat. Nimic nu rămâne neclar.",
+    "beforeLabel": "Înainte",
+    "bridgeLabel": "Structura Neurora",
+    "afterLabel": "După",
+    "chaos": [
+      "Plăți întârziate sau neclare",
+      "Lipsă de vizibilitate asupra finanțelor",
+      "Întreținere reactivă",
+      "Comunicare lentă sau ignorată",
+      "Decizii nedocumentate"
+    ],
+    "control": [
+      "Plăți organizate",
+      "Fonduri protejate",
+      "Întreținere programată",
+      "Comunicare centralizată",
+      "Decizii documentate"
+    ]
+  },
+  "services": {
+    "eyebrow": "Ce administrăm",
+    "title": "Tot ce are nevoie proprietatea dumneavoastră. Administrat complet.",
+    "subtitle": "Un singur partener. Control operațional complet.",
+    "cta": "Explorează serviciile noastre",
+    "ctaNote": "Vezi lista completă a serviciilor",
+    "items": [
+      {
+        "key": "common",
+        "title": "Cheltuieli comune",
+        "desc": "Sume lunare fixe, permițând rezidenților să plătească mai multe luni în avans sau să seteze ordine permanente.",
+        "detail": "Cheltuielile comune sunt calculate ca sume lunare fixe pe baza cotei fiecărei unități. Rezidenții pot plăti mai multe luni în avans sau pot seta ordine permanente, reducând fricțiunea și asigurând un flux de numerar previzibil pentru proprietate. Fără regularizări surpriză și fără ajustări la final de an."
+      },
+      {
+        "key": "cleaning",
+        "title": "Curățenie și întreținere",
+        "desc": "Îngrijire constantă a tuturor spațiilor comune, supravegheată după un standard documentat.",
+        "detail": "Toate spațiile comune, inclusiv intrările, coridoarele, scările, parcările și facilitățile comune, sunt menținute la un standard clar de curățenie. Programul este stabilit, supravegherea este regulată, iar intervențiile de întreținere sunt coordonate de echipa noastră operațională."
+      },
+      {
+        "key": "utilities",
+        "title": "Utilități",
+        "desc": "Conturile de utilități sunt administrate, plătite la timp și protejate împotriva întreruperilor.",
+        "detail": "Electricitatea, apa și conturile de utilități comune sunt gestionate prin proceduri structurate și ordine permanente. Plățile sunt programate, soldurile sunt monitorizate, iar reînnoirile sunt urmărite din timp, astfel încât proprietatea să evite întârzieri, penalități sau întreruperi de servicii."
+      },
+      {
+        "key": "landscaping",
+        "title": "Peisagistică",
+        "desc": "Îngrijire profesională a zonelor exterioare și a spațiilor verzi, menținute constant.",
+        "detail": "Grădinile, zonele exterioare și spațiile verzi sunt întreținute după un program definit de contractori calificați. Tunderea, supravegherea irigației, îngrijirea sezonieră și înlocuirile sunt coordonate pentru ca exteriorul proprietății să rămână prezentabil tot anul."
+      },
+      {
+        "key": "amenities",
+        "title": "Facilități comune",
+        "desc": "Piscinele, lifturile și facilitățile comune sunt administrate profesional și întreținute corespunzător.",
+        "detail": "Piscinele, lifturile, sălile de sport și facilitățile comune sunt supravegheate structurat. Contractele de service, inspecțiile, certificările și întreținerea de rutină sunt coordonate central, menținând facilitățile sigure, conforme și disponibile rezidenților."
+      },
+      {
+        "key": "repairs",
+        "title": "Reparații",
+        "desc": "Problemele de reparații sunt gestionate proactiv, cu supravegherea contractorilor.",
+        "detail": "Solicitările de reparații sunt primite, evaluate și trimise către contractori verificați. Ofertele sunt analizate, lucrările sunt supravegheate, iar rezultatele sunt documentate. Proprietarii și Comitetul de Administrare primesc o evidență clară a fiecărei intervenții."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Sistemul operațional Neurora",
+    "title": "Un singur sistem. Control complet.",
+    "subtitle": "Un sistem clar, de la ofertă și preluare până la control financiar, facturare, comunicare și structură legală.",
+    "stepLabel": "PAS",
+    "fromHere": "DE AICI",
+    "fromHereTitle": "Structurat din prima zi.",
+    "homeCta": "Sistemul operațional Neurora",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Ofertă personalizată",
+        "desc": "O ofertă clară, detaliată, construită pentru proprietatea dumneavoastră.",
+        "detail": "Evaluăm dimensiunea proprietății, numărul de unități, facilitățile și nevoile operaționale pentru a livra o ofertă complet detaliată. Fiecare linie de cost este transparentă, fiecare serviciu este definit, iar nimic nu rămâne la interpretare."
+      },
+      {
+        "n": "02",
+        "title": "Prezentare la adunarea generală",
+        "desc": "Prezentăm sistemul tuturor proprietarilor. Direct și clar.",
+        "detail": "Echipa noastră participă la adunarea generală și explică proprietarilor oferta, modelul operațional și cadrul legal. Întrebările primesc răspuns direct, astfel încât fiecare proprietar să poată lua o decizie informată."
+      },
+      {
+        "n": "03",
+        "title": "Votul proprietarilor (50%+)",
+        "desc": "O decizie majoritară înregistrată transparent.",
+        "detail": "Se organizează un vot formal conform Cap. 224. Pentru numirea Neurora este necesară o majoritate simplă de 50%+. Rezultatele sunt înregistrate în procesul-verbal oficial și puse la dispoziția proprietarilor."
+      },
+      {
+        "n": "04",
+        "title": "Alegerea Comitetului de Administrare",
+        "desc": "Proprietarii își aleg Comitetul de Administrare.",
+        "detail": "Proprietarii aleg un Comitet de Administrare care reprezintă legal proprietatea. Comitetul supraveghează deciziile, aprobările și controlul financiar, fiind sprijinit operațional de Neurora la fiecare pas."
+      },
+      {
+        "n": "05",
+        "title": "Documentație legală",
+        "desc": "Procesele-verbale și hotărârile sunt întocmite conform Cap. 224.",
+        "detail": "Toate deciziile, procesele-verbale, hotărârile și numirile sunt documentate formal și arhivate conform Cap. 224. Proprietatea obține o bază legală clară, care protejează proprietarii și permite operațiuni financiare corecte."
+      },
+      {
+        "n": "06",
+        "title": "Deschiderea contului bancar",
+        "desc": "Cont Bank of Cyprus pe numele Comitetului de Administrare.",
+        "detail": "Se deschide un cont bancar dedicat la Bank of Cyprus pe numele Comitetului de Administrare. Fondurile aparțin proprietății, nu administratorului. Fiecare tranzacție este trasabilă, verificabilă și deținută de proprietate."
+      },
+      {
+        "n": "07",
+        "title": "Preluare operațională",
+        "desc": "Operațiunile încep complet. Grupurile de comunicare devin active.",
+        "detail": "Neurora preia controlul operațional complet: facturare, utilități, întreținere, contractori și raportare. Grupurile WhatsApp și Viber devin active din prima zi, oferind rezidenților și Comitetului acces direct la echipă."
+      }
+    ]
+  },
+  "communication": {
+    "eyebrow": "Comunicare",
+    "title": "Fără tichete. Fără întârzieri. Fără intermediari.",
+    "subtitle": "Trimiteți mesaj. Noi acționăm. Grupuri directe WhatsApp și Viber din prima zi, cu răspunsuri reale de la oameni reali.",
+    "tile1Title": "WhatsApp și Viber",
+    "tile1Sub": "Din prima zi",
+    "tile2Title": "În timp real",
+    "tile2Sub": "Răspunsuri umane",
+    "cta": "Comunicare",
+    "directGroups": "Grupuri directe",
+    "channels": [
+      {
+        "title": "Grupul Comitetului de Administrare",
+        "desc": "Canal privat pentru decizii financiare, aprobări și subiecte confidențiale.",
+        "tag": "Privat"
+      },
+      {
+        "title": "Grupul rezidenților",
+        "desc": "Anunțuri, actualizări și lucrări programate. Transparență completă pentru fiecare rezident.",
+        "tag": "Deschis"
+      }
+    ]
+  },
+  "operatingSystem": {
+    "eyebrow": "Sistemul operațional Neurora",
+    "titleLine1": "Un singur sistem.",
+    "titleLine2": "Control complet.",
+    "subtitle": "Control financiar, administrare automatizată și structură legală reunite într-un sistem operațional administrat."
+  },
+  "financial": {
+    "eyebrow": "Control financiar",
+    "title": "Banii dumneavoastră rămân ai dumneavoastră. Întotdeauna.",
+    "subtitle": "Fiecare proprietate are propriul cont Bank of Cyprus pe numele Comitetului de Administrare. Fără fonduri amestecate. Vizibilitate completă prin 1Bank. Fiecare tranzacție este urmărită.",
+    "accountHolder": "Titular cont",
+    "accountHolderName": "Comitetul de Administrare",
+    "accountBody": "Contul bancar este deschis pe numele Comitetului de Administrare la Bank of Cyprus, cu vizibilitate live prin 1Bank. Proprietarii păstrează controlul.",
+    "tag1": "Bank of Cyprus",
+    "tag2": "Acces 1Bank",
+    "pillars": [
+      {
+        "title": "Cont bancar dedicat",
+        "desc": "Fiecare proprietate are propriul cont la Bank of Cyprus."
+      },
+      {
+        "title": "Deținut de Comitetul de Administrare",
+        "desc": "Contul este pe numele Comitetului de Administrare, nu pe numele Neurora."
+      },
+      {
+        "title": "Vizibilitate live",
+        "desc": "Acces complet prin 1Bank. Comitetul vede totul în timp real."
+      },
+      {
+        "title": "Fiecare tranzacție urmărită",
+        "desc": "Documentată, clasificată și verificabilă oricând."
+      }
+    ]
+  },
+  "legal": {
+    "eyebrow": "Protecție legală",
+    "title": "Conformitate deplină. Protecție deplină.",
+    "subtitle": "Fiecare acțiune are bază legală. Conform Cap. 224. Guvernanță prin Comitetul de Administrare. Decizii complet documentate.",
+    "items": [
+      {
+        "title": "Conformitate Cap. 224",
+        "desc": "Fiecare operațiune este aliniată cu legislația cipriotă privind proprietatea imobiliară.",
+        "detail": "Toate operațiunile urmează cadrul stabilit de Legea privind proprietatea imobiliară, Cap. 224. De la formarea comitetului și procedura de ședință până la guvernanța financiară și hotărâri, proprietatea funcționează pe o bază legală solidă care protejează proprietarii."
+      },
+      {
+        "title": "Decizii prin Comitetul de Administrare",
+        "desc": "Toate deciziile sunt luate de Comitetul de Administrare, niciodată de noi singuri.",
+        "detail": "Deciziile strategice, financiare și operaționale sunt luate de Comitetul de Administrare ales, cu Neurora oferind recomandări structurate și implementare. Proprietarii rămân în controlul proprietății, iar nicio decizie nu ocolește Comitetul."
+      },
+      {
+        "title": "Ședințe documentate",
+        "desc": "Procese-verbale, voturi și hotărâri pregătite și arhivate corect.",
+        "detail": "Fiecare adunare generală și ședință a Comitetului este documentată formal. Ordinea de zi, procesele-verbale, voturile și hotărârile sunt pregătite conform Cap. 224 și arhivate organizat, asigurând trasabilitatea fiecărei decizii."
+      }
+    ]
+  },
+  "automation": {
+    "eyebrow": "Automatizare și facturare",
+    "title": "Nimic nu este ratat. Nimic nu întârzie.",
+    "subtitle": "Fiabil. Previzibil. Sistematizat.",
+    "items": [
+      {
+        "title": "Ordine permanente pentru utilități",
+        "desc": "Electricitatea, apa și lifturile sunt plătite automat. Fără întârzieri. Niciodată.",
+        "detail": "Ordinele permanente sunt configurate direct cu furnizorii de utilități și contul bancar al proprietății. Facturile sunt achitate automat la scadență, eliminând riscul de penalități, întreruperi sau plăți uitate."
+      },
+      {
+        "title": "Facturi pe data de 1",
+        "desc": "Facturile lunare sunt trimise automat fiecărui proprietar în prima zi a lunii.",
+        "detail": "Fiecare proprietar primește o factură clară și detaliată în prima zi a fiecărei luni, generată și livrată constant. Plățile pot fi făcute prin ordin permanent, transfer bancar sau în avans, oferind flexibilitate rezidenților și menținând fluxul de numerar previzibil."
+      },
+      {
+        "title": "Facturare complet detaliată",
+        "desc": "Fiecare linie este explicată. Proprietarii știu exact pentru ce plătesc.",
+        "detail": "Fiecare factură detaliază costurile: cheltuieli comune, utilități, întreținere, reparații și fonduri speciale. Proprietarii văd unde merge fiecare euro, cu documente justificative disponibile la cerere."
+      },
+      {
+        "title": "Istoric verificabil",
+        "desc": "Evidență completă a costurilor, plăților și lucrărilor, accesibilă oricând.",
+        "detail": "Fiecare tranzacție, factură, plată și intervenție este înregistrată într-o arhivă structurată. Comitetul de Administrare poate verifica oricând istoricul operațional și financiar al proprietății."
+      }
+    ]
+  },
+  "finalCta": {
+    "titleLead": "Dacă proprietatea dumneavoastră contează,",
+    "titleAccent": "administrați-o corect.",
+    "cta": "Solicită o ofertă"
+  },
+  "contact": {
+    "eyebrow": "Solicită o ofertă",
+    "title": "Aduceți structură proprietății dumneavoastră.",
+    "subtitle": "Aduceți structură proprietății dumneavoastră.",
+    "emailLabel": "Email",
+    "phoneLabel": "Telefon",
+    "coverageLabel": "Acoperire",
+    "coverageValue": "În tot Ciprul",
+    "stepOf": "Pasul {{step}} din {{total}}",
+    "stepLabels": {
+      "1": "Tipul proprietății",
+      "2": "Informație",
+      "3": "Informație",
+      "4": "Informație",
+      "5": "Contact"
+    },
+    "step1": {
+      "location": "Locație",
+      "units": "Mai multe informații",
+      "projectType": "Tipul proprietății",
+      "locations": [
+        "Nicosia",
+        "Limassol",
+        "Larnaca",
+        "Paphos",
+        "Ayia Napa",
+        "Protaras"
+      ],
+      "unitRanges": [
+        "1–10",
+        "10–30",
+        "30–60",
+        "60+"
+      ],
+      "projectTypes": [
+        "Clădire",
+        "Ansamblu rezidențial",
+        "Apartament",
+        "Casă",
+        "Vilă",
+        "Comercial"
+      ],
+      "optionalInfo": {
+        "eyebrow": "Neurora Property Management",
+        "title": "Aduceți structură proprietății dumneavoastră.",
+        "subtitle": "Aduceți structură proprietății dumneavoastră."
+      }
+    },
+    "step2": {
+      "projectName": "Proprietăți Name",
+      "year": "Anul construcției",
+      "selectYear": "Selectează anul",
+      "floors": "Număr de etaje",
+      "units": "Număr de unități",
+      "floorsPlaceholder": "1–100",
+      "unitsPlaceholder": "1–500",
+      "hasBank": "Mai multe informații",
+      "bankName": "Numele băncii",
+      "hasInsurance": "Mai multe informații",
+      "insuranceName": "Numele companiei de asigurări",
+      "hasElevator": "Mai multe informații",
+      "elevatorCompany": "Numele companiei de service",
+      "electricity": "Costuri estimate pentru electricitate",
+      "water": "Costuri estimate pentru apă",
+      "hasCommittee": "Mai multe informații",
+      "hasTitleDeeds": "Există titluri de proprietate?",
+      "hasMinutes": "Mai multe informații",
+      "extra": "Mai multe informații",
+      "selectYesToEnable": "Mai multe informații"
+    },
+    "step3": {
+      "title": "Aduceți structură proprietății dumneavoastră.",
+      "subtitle": "Aduceți structură proprietății dumneavoastră.",
+      "other": "Alt serviciu",
+      "otherPlaceholder": "Vă rugăm să specificați",
+      "otherDisabled": "Mai multe informații",
+      "services": [
+        "Servicii de administrare a clădirii",
+        "Servicii de curățenie după construcție",
+        "Întreținerea grădinii",
+        "Întreținerea piscinei",
+        "Servicii de combatere a dăunătorilor",
+        "Întreținerea acoperișului",
+        "Renovări",
+        "Administrarea fondului special al proprietății",
+        "Administrarea și întreținerea stingătoarelor și a siguranței la incendiu",
+        "Servicii de curățare a pubelelor",
+        "Servicii de curățare a rezervoarelor de apă",
+        "Administrarea facturilor",
+        "Servicii de curățare și întreținere canalizare",
+        "Administrarea și întreținerea încălzirii comune"
+      ],
+      "otherPrefix": "Altul"
+    },
+    "step4": {
+      "issuesTitle": "Cu ce probleme se confruntă în prezent proprietatea dumneavoastră?",
+      "selectAll": "Selectați tot ce se aplică.",
+      "isCommittee": "Mai multe informații",
+      "isDeveloper": "Sunteți dezvoltator?",
+      "issues": [
+        "Plăți neconsecvente",
+        "Lipsă de transparență",
+        "Probleme de întreținere",
+        "Comunicare slabă",
+        "Fără administrare structurată"
+      ]
+    },
+    "step5": {
+      "firstName": "Prenume",
+      "lastName": "Nume",
+      "phone": "Număr de telefon",
+      "email": "Email",
+      "address": "Proprietăți Address",
+      "city": "Oraș",
+      "area": "Zonă",
+      "streetName": "Numele străzii",
+      "streetNumber": "Număr",
+      "postCode": "Cod poștal",
+      "mapPlaceholder": "Mai multe informații",
+      "hearAbout": "Cum ați auzit de noi?",
+      "hearAboutOptions": [
+        "Google",
+        "Social media",
+        "Din vorbă în vorbă",
+        "Recomandat de o cunoștință"
+      ],
+      "submit": "Trimite solicitarea",
+      "submitting": "Se trimite...",
+      "mapTitle": "Previzualizare locație proprietate",
+      "recommendationName": "Numele persoanei sau al companiei care ne-a recomandat (opțional)"
+    },
+    "step6": {
+      "title": "Mulțumim. Am primit solicitarea dumneavoastră.",
+      "body": "Echipa Neurora va analiza detaliile trimise și vă va contacta cu următorii pași. Dacă este ceva urgent, ne puteți suna sau ne puteți scrie direct prin email.",
+      "again": "Trimiteți o altă solicitare"
+    },
+    "yes": "Da",
+    "no": "Nu",
+    "back": "Înapoi",
+    "continue": "Continuă",
+    "errors": {
+      "completeAll": "Verificați câmpurile obligatorii.",
+      "answerBoth": "Verificați câmpurile obligatorii.",
+      "review": "Verificați câmpurile obligatorii.",
+      "firstName": "Verificați câmpurile obligatorii.",
+      "lastName": "Verificați câmpurile obligatorii.",
+      "email": "Verificați câmpurile obligatorii.",
+      "phone": "Verificați câmpurile obligatorii.",
+      "requiredFields": "Completați toate câmpurile obligatorii.",
+      "submissionFailedTitle": "Trimiterea a eșuat",
+      "submissionFailedDescription": "Vă rugăm să încercați din nou sau să ne contactați direct prin email."
+    },
+    "aria": {
+      "email": "Trimiteți email către Neurora la neuroraproperties@gmail.com",
+      "phone": "Sunați Neurora la +357 99 203 600",
+      "whatsapp": "Contactați Neurora pe WhatsApp",
+      "viber": "Contactați Neurora pe Viber",
+      "facebook": "Deschideți pagina Facebook Neurora",
+      "instagram": "Deschideți pagina Instagram Neurora",
+      "coverageMap": "Vedeți acoperirea Neurora în toată Cipru pe Google Maps"
+    }
+  },
+  "servicesPage": {
+    "metaTitle": "Servicii | Neurora Property Management Ltd",
+    "metaDescription": "Descoperiți serviciile oferite de Neurora Property Management pentru simplificarea administrării proprietăților rezidențiale și un control mai bun al clădirilor comune din Cipru.",
+    "hero": {
+      "titleLead": "Servicii de administrare a proprietăților",
+      "titleRest": "livrate cu structură, vizibilitate și control.",
+      "subtitleBefore": "Descoperiți serviciile pe care",
+      "brand": "Neurora Property Management",
+      "subtitleAfter": "le oferă pentru a simplifica administrarea proprietăților rezidențiale și pentru a aduce control mai bun în clădirile comune din Cipru.",
+      "cta": "Vedeți serviciile"
+    },
+    "catalogue": {
+      "eyebrow": "Categorii de servicii",
+      "title": "Un cadru complet de servicii pentru operațiuni fluide ale proprietății.",
+      "categoryLabel": "Categorie",
+      "brandLine": "Neurora Administrare proprietăți",
+      "serviceIntro": "Selectați un serviciu de mai jos pentru a vedea ce include și cum susține funcționarea zilnică a proprietății.",
+      "modalBrandLine": "Neurora Administrare proprietăți"
+    },
+    "categories": {
+      "cleaning": "Curățenie",
+      "commonExpenses": "Cheltuieli comune",
+      "communication": "Comunicare",
+      "maintenanceRepairs": "Întreținere și reparații",
+      "financial": "Financiar",
+      "legal": "Juridic",
+      "managementAdministration": "Administrare și management",
+      "amenitiesSharedFacilities": "Facilități și spații comune"
+    },
+    "serviceItems": {
+      "management-administration": [
+        {
+          "title": "Înrolarea proprietății",
+          "summary": "Configurare structurată pentru fiecare proprietate înainte de începerea administrării.",
+          "detail": "Organizăm cadrul inițial de administrare al proprietății, inclusiv evidențele, cerințele operaționale, canalele de comunicare și informațiile necesare pentru administrarea corectă a clădirii sau ansamblului rezidențial."
+        },
+        {
+          "title": "Coordonarea Comitetului de Administrare",
+          "summary": "Coordonare continuă cu Comitetul de Administrare pentru operațiuni mai fluide.",
+          "detail": "Sprijinim Comitetul de Administrare prin comunicare clară, urmărire organizată și coordonare practică, astfel încât deciziile să fie gestionate eficient și operațiunile zilnice să rămână structurate."
+        },
+        {
+          "title": "Evidența rezidenților",
+          "summary": "Evidențe organizate pentru proprietari, rezidenți, unități și date de contact.",
+          "detail": "Ajutăm la păstrarea evidențelor structurate ale proprietății, inclusiv date despre proprietari și rezidenți, informații despre unități, contacte și alte informații importante."
+        },
+        {
+          "title": "Coordonarea furnizorilor de utilități",
+          "summary": "Coordonare cu furnizorii de utilități și furnizorii principali ai proprietății.",
+          "detail": "Coordonăm comunicarea și urmărirea cu furnizorii de utilități și alți furnizori conectați la proprietate, pentru ca aspectele operaționale să rămână organizate."
+        }
+      ],
+      "common-expenses": [
+        {
+          "title": "Emiterea lunară a cheltuielilor comune",
+          "summary": "Emiterea clară a cheltuielilor comune lunare pentru proprietate.",
+          "detail": "Pregătim și emitem cheltuielile comune lunare într-un mod clar și structurat, ajutând rezidenții să își înțeleagă obligațiile și oferind Comitetului o vizibilitate mai bună."
+        },
+        {
+          "title": "Urmărirea plăților",
+          "summary": "Urmărirea plăților colectate și restante pentru cheltuielile comune.",
+          "detail": "Urmărim plățile cheltuielilor comune, astfel încât Comitetul să vadă ce s-a colectat, ce rămâne de plată și unde este necesară urmărire."
+        },
+        {
+          "title": "Urmărirea soldurilor neachitate",
+          "summary": "Urmărire profesionistă pentru solduri întârziate sau neachitate.",
+          "detail": "Urmărim soldurile neachitate într-un mod profesionist și organizat, contribuind la îmbunătățirea colectării și reducerea întârzierilor."
+        }
+      ],
+      "cleaning": [
+        {
+          "title": "Curățenia spațiilor comune",
+          "summary": "Curățenie programată pentru spațiile comune din blocuri și ansambluri rezidențiale.",
+          "detail": "Coordonăm curățenia spațiilor comune precum intrări, coridoare, scări, lifturi, holuri și alte zone partajate, ajutând proprietatea să rămână curată, prezentabilă și întreținută."
+        },
+        {
+          "title": "Curățenie după construcție",
+          "summary": "Prima curățenie după construcție, înainte ca proprietatea să fie prezentată.",
+          "detail": "Acest serviciu este prima curățenie după finalizarea construcției. Se concentrează pe îndepărtarea prafului, resturilor ușoare și reziduurilor de construcție, astfel încât proprietatea să fie pregătită pentru prima vizionare. Nu este un serviciu de curățenie profundă."
+        },
+        {
+          "title": "Curățenie pentru predarea apartamentelor și caselor",
+          "summary": "Curățenie pentru apartamente sau case goale înainte de predare sau prima ocupare.",
+          "detail": "Curățăm apartamente sau case goale la final de chirie sau înainte ca primii ocupanți să se mute într-o proprietate nouă. Serviciul se aplică doar unităților libere, fără bunuri personale în interior."
+        }
+      ],
+      "maintenance-repairs": [
+        {
+          "title": "Întreținerea de rutină a spațiilor comune",
+          "summary": "Sprijin regulat pentru menținerea spațiilor comune funcționale și prezentabile.",
+          "detail": "Coordonăm întreținerea de rutină a spațiilor comune pentru ca proprietatea să rămână sigură, funcțională și prezentabilă pentru rezidenți și vizitatori."
+        },
+        {
+          "title": "Coordonarea reparațiilor",
+          "summary": "Coordonarea reparațiilor necesare atunci când apar probleme.",
+          "detail": "Când sunt necesare reparații, coordonăm procesul cu contractorii relevanți, urmărim problema și ajutăm la rezolvarea ei într-un mod organizat."
+        },
+        {
+          "title": "Oferte de la contractori",
+          "summary": "Solicitarea ofertelor pentru lucrări de reparații sau întreținere.",
+          "detail": "Când este necesară o lucrare de reparație sau întreținere, putem solicita oferte de la contractori, astfel încât Comitetul să aibă opțiuni clare înainte de a lua o decizie."
+        }
+      ],
+      "amenities-shared-facilities": [
+        {
+          "title": "Curățenia și întreținerea piscinei",
+          "summary": "Coordonarea curățeniei și întreținerii piscinelor comune.",
+          "detail": "Coordonăm curățenia și întreținerea piscinelor comune pentru a menține aceste zone curate, sigure și corespunzător întreținute."
+        },
+        {
+          "title": "Grădinărit și peisagistică pentru zone comune",
+          "summary": "Coordonarea îngrijirii spațiilor verzi și exterioare comune.",
+          "detail": "Coordonăm grădinăritul și peisagistica pentru zonele exterioare comune, ajutând proprietatea să mențină un aspect curat, îngrijit și profesional."
+        },
+        {
+          "title": "Supravegherea spațiilor comune",
+          "summary": "Supravegherea spațiilor comune pentru monitorizarea standardelor și identificarea problemelor.",
+          "detail": "Supraveghem spațiile comune pentru a identifica probleme de întreținere, a monitoriza standardele de curățenie și utilizare și a susține funcționarea corectă a zonelor comune."
+        },
+        {
+          "title": "Curățenia și întreținerea facilităților comune",
+          "summary": "Sprijin pentru săli de sport, camere comune și alte facilități partajate.",
+          "detail": "Coordonăm curățenia și întreținerea sălilor de sport comune, camerelor comune și altor facilități partajate care fac parte din proprietate."
+        }
+      ],
+      "communication": [
+        {
+          "title": "Grup Viber/WhatsApp pentru Comitetul de Administrare",
+          "summary": "Un grup dedicat pentru coordonarea Comitetului de Administrare.",
+          "detail": "Creăm și folosim un grup dedicat Viber sau WhatsApp pentru Comitetul de Administrare, axat pe coordonare, actualizări, decizii și comunicare zilnică."
+        },
+        {
+          "title": "Grup Viber/WhatsApp pentru rezidenți",
+          "summary": "Un grup dedicat pentru comunicarea cu rezidenții și transparență.",
+          "detail": "Creăm și folosim un grup dedicat Viber sau WhatsApp pentru rezidenți, ajutând pe toată lumea să fie informată despre anunțuri, actualizări, lucrări programate și comunicări importante."
+        },
+        {
+          "title": "Urmăriri prin telefon și email",
+          "summary": "Urmăriri cu rezidenți, comitete, contractori și furnizori.",
+          "detail": "Facem urmăriri cu rezidenții, Comitetul de Administrare, contractorii și furnizorii de utilități prin telefon și email atunci când este necesar, păstrând comunicarea organizată și trasabilă."
+        }
+      ],
+      "financial": [
+        {
+          "title": "Sprijin pentru deschiderea contului bancar",
+          "summary": "Sprijin pentru deschiderea unui cont bancar al proprietății pe numele Comitetului de Administrare.",
+          "detail": "Sprijinim Comitetul de Administrare în procesul de deschidere a contului bancar. Prin metoda noastră, fiecare bloc sau ansamblu rezidențial are propriul cont pe numele Comitetului, astfel încât banii rămân la client, nu la noi."
+        },
+        {
+          "title": "Evidențe de venituri și cheltuieli",
+          "summary": "Evidențe organizate ale veniturilor și cheltuielilor proprietății.",
+          "detail": "Păstrăm evidențe organizate ale veniturilor și cheltuielilor legate de proprietate, ajutând Comitetul să mențină o imagine financiară clară."
+        },
+        {
+          "title": "Urmărirea plăților",
+          "summary": "Urmărire clară a plăților primite și a soldurilor restante.",
+          "detail": "Urmărim plățile și soldurile restante, astfel încât Comitetul de Administrare să aibă o vizibilitate financiară mai bună și să știe unde este necesară urmărire."
+        },
+        {
+          "title": "Planificare bugetară",
+          "summary": "Sprijin pentru planificarea costurilor recurente și a nevoilor viitoare.",
+          "detail": "Sprijinim planificarea bugetară pentru costuri recurente, lucrări estimate, nevoi de întreținere și cerințe viitoare ale proprietății."
+        },
+        {
+          "title": "Fond de rezervă",
+          "summary": "Fond de rezervă pentru reparații viitoare, înlocuiri și costuri neprevăzute.",
+          "detail": "Pentru fiecare bloc sau ansamblu rezidențial, ajutăm la crearea și menținerea unui fond de rezervă. Scopul este pregătirea pentru cheltuieli viitoare, astfel încât proprietatea să poată acționa când apare o problemă."
+        }
+      ],
+      "legal": [
+        {
+          "title": "Procese-verbale ale adunărilor generale",
+          "summary": "Înregistrarea și arhivarea proceselor-verbale ale adunărilor generale.",
+          "detail": "Înregistrăm și arhivăm procesele-verbale ale adunărilor generale, astfel încât deciziile, discuțiile și acțiunile convenite să rămână documentate corect."
+        },
+        {
+          "title": "Procese-verbale și evidențe bancare",
+          "summary": "Sprijin documentar pentru evidențe bancare ale proprietății.",
+          "detail": "Înregistrăm și arhivăm procese-verbale, hotărâri și documente necesare pentru deschiderea contului, actualizări, schimbări de semnatari sau alte aspecte bancare."
+        },
+        {
+          "title": "Sprijin juridic pentru Comitetul de Administrare",
+          "summary": "Sprijin pentru aspecte juridice de administrare atunci când este necesar.",
+          "detail": "Sprijinim Comitetul de Administrare în aspecte juridice legate de administrarea proprietății, inclusiv documentație și coordonare cu profesioniști juridici atunci când este nevoie."
+        },
+        {
+          "title": "Conformitate Cap. 224",
+          "summary": "Administrare aliniată cu cerințele de administrare a proprietăților din Cipru.",
+          "detail": "Practicile noastre de administrare sunt structurate pentru a respecta Legea privind proprietatea imobiliară, Cap. 224, susținând administrarea corectă și responsabilă a proprietăților comune."
+        }
+      ]
+    },
+    "coverage": {
+      "eyebrow": "Acoperire în tot Ciprul",
+      "titleLead": "Administrare de proprietăți",
+      "titleRest": "în toată Cipru.",
+      "body": "Neurora Property Management sprijină blocuri de apartamente, ansambluri rezidențiale și proprietăți comune în Paphos, Limassol, Larnaca, Nicosia, Ayia Napa și Protaras.",
+      "cityIntro": "Explorați acoperirea pe zone",
+      "panelTitle": "Acoperire pentru administrarea proprietăților în toată Cipru",
+      "panelBody": "Oferim administrare structurată pentru proprietăți comune din principalele zone ale Ciprului, cu comunicare directă, evidențe clare, coordonare a furnizorilor și vizibilitate financiară.",
+      "cta": "Solicitați o evaluare"
+    }
+  },
+  "footer": {
+    "groups": {
+      "company": {
+        "title": "Companie",
+        "items": {
+          "about": "Cine suntem",
+          "handle": "Ce administrăm",
+          "process": "Sistem operațional",
+          "contact": "Contact",
+          "privacyPolicy": "Politica de confidențialitate"
+        }
+      },
+      "operations": {
+        "title": "Operațiuni",
+        "items": {
+          "communication": "Comunicare",
+          "financial": "Control financiar",
+          "automation": "Automatizare și facturare",
+          "legal": "Suport juridic"
+        }
+      },
+      "coverage": {
+        "title": "Acoperire",
+        "items": {
+          "cyprus": "Cipru",
+          "paphos": "Paphos",
+          "limassol": "Limassol",
+          "larnaca": "Larnaca",
+          "nicosia": "Nicosia",
+          "ayiaNapa": "Ayia Napa",
+          "protaras": "Protaras"
+        }
+      }
+    },
+    "hours": {
+      "monday": "Luni",
+      "tuesday": "Marți",
+      "wednesday": "Miercuri",
+      "thursday": "Joi",
+      "weekdaysHours": "8:00 - 13:00 | 14:00 - 17:00",
+      "friday": "Vineri",
+      "fridayHours": "8:00 - 13:00",
+      "saturday": "Sâmbătă",
+      "sunday": "Duminică",
+      "closed": "Închis",
+      "title": "Program de lucru"
+    },
+    "rights": "© {{year}} Neurora Property Management Ltd. Toate drepturile rezervate.",
+    "coverageMapAlt": "Hartă de acoperire în toată Cipru, indicând Nicosia, Limassol, Larnaca, Paphos, Ayia Napa și Protaras",
+    "coveragePinAria": "Administrare proprietăți în {{location}}",
+    "aria": {
+      "whatsapp": "Contactați Neurora pe WhatsApp",
+      "viber": "Contactați Neurora pe Viber",
+      "facebook": "Deschideți pagina Facebook Neurora",
+      "instagram": "Deschideți pagina Instagram Neurora",
+      "email": "Trimiteți email către Neurora la neuroraproperties@gmail.com",
+      "phone": "Sunați Neurora la +357 99 203 600"
+    }
+  },
+  "seo": {
+    "title": "Neurora Property Management | Administrare proprietăți în Cipru",
+    "description": "Preluați controlul asupra clădirii sau ansamblului rezidențial. Administrare structurată a proprietăților în Cipru, cu transparență completă, cont bancar al comitetului și conformitate cu Cap. 224.",
+    "ldDescription": "Neurora Property Management Ltd oferă administrare structurată a proprietăților, control financiar, coordonare întreținere, comunicare directă și servicii pentru proprietăți comune în Cipru."
+  },
+  "privacyPolicy": {
+    "metaTitle": "Politica de confidențialitate | Neurora Property Management",
+    "metaDescription": "Aflați cum Neurora Property Management Ltd colectează, folosește și protejează datele personale transmise prin website.",
+    "hero": {
+      "eyebrow": "Confidențialitate",
+      "title": "Politica de confidențialitate",
+      "subtitle": "Această politică explică modul în care Neurora Property Management Ltd gestionează datele personale primite prin website, formulare de contact și comunicări directe.",
+      "effectiveDate": "Data intrării în vigoare: 25 iunie 2026"
+    },
+    "controller": {
+      "label": "Informație",
+      "company": "Neurora Administrare proprietăți Ltd",
+      "emailLabel": "Informație"
+    },
+    "sections": [
+      {
+        "title": "1. Cine suntem",
+        "body": [
+          "Neurora Property Management Ltd este o companie de administrare a proprietăților din Cipru.",
+          "Pentru întrebări privind această politică, ne puteți contacta la neuroraproperties@gmail.com."
+        ]
+      },
+      {
+        "title": "2. Ce informații colectăm",
+        "body": [
+          "Putem colecta informațiile pe care le transmiteți prin formularul de contact, inclusiv nume, email, telefon, detalii despre proprietate, adresă și mesaj.",
+          "De asemenea, putem colecta informații tehnice limitate despre folosirea website-ului, cum ar fi preferința de limbă, consimțământul pentru cookie-uri și date de analiză dacă acceptați cookie-urile opționale."
+        ]
+      },
+      {
+        "title": "3. Cum folosim informațiile",
+        "body": [
+          "Folosim informațiile pentru a răspunde solicitărilor, a pregăti oferte, a comunica cu dumneavoastră și a evalua nevoile proprietății.",
+          "Folosim datele tehnice pentru funcționarea website-ului, securitate, salvarea preferințelor și îmbunătățirea experienței."
+        ]
+      },
+      {
+        "title": "4. Baza legală",
+        "body": [
+          "Prelucrăm datele pe baza interesului legitim de a răspunde solicitărilor, pe baza pașilor precontractuali atunci când solicitați o ofertă și pe baza consimțământului pentru cookie-uri opționale de analiză."
+        ]
+      },
+      {
+        "title": "5. Furnizori terți",
+        "body": [
+          "Putem folosi furnizori care ajută la găzduirea website-ului, trimiterea emailurilor, securitate și analiză, inclusiv Cloudflare, Resend, Google Analytics și furnizori tehnici similari.",
+          "Acești furnizori pot procesa date în afara Ciprului sau a Spațiului Economic European, cu garanțiile aplicabile de protecție a datelor."
+        ]
+      },
+      {
+        "title": "6. Cookie-uri și analiză",
+        "body": [
+          "Website-ul folosește tehnologii necesare pentru funcționarea corectă, inclusiv securitate, selecția limbii, funcționarea formularului și salvarea preferințelor cookie.",
+          "Cookie-urile opționale de analiză sunt folosite doar dacă vă dați consimțământul. Dacă sunt acceptate, Google Analytics ne poate ajuta să înțelegem vizualizările paginilor, interacțiunile vizitatorilor, locația aproximativă, dispozitivul, browserul și sursa de trafic.",
+          "Puteți accepta, respinge sau gestiona cookie-urile opționale prin bannerul de cookie-uri și vă puteți actualiza preferințele din această pagină."
+        ]
+      },
+      {
+        "title": "7. Cât timp păstrăm informațiile",
+        "body": [
+          "Păstrăm solicitările și comunicările doar atât timp cât este rezonabil necesar pentru a răspunde, pregăti o ofertă, păstra evidențe comerciale, rezolva dispute sau respecta obligații legale.",
+          "Datele de analiză sunt păstrate conform setărilor și perioadelor de retenție configurate în Google Analytics."
+        ]
+      },
+      {
+        "title": "8. Drepturile dumneavoastră",
+        "body": [
+          "În condițiile legii aplicabile, puteți avea dreptul să solicitați acces la date, corectarea datelor inexacte, ștergerea datelor, restricționarea prelucrării, opoziția la prelucrare, portabilitatea datelor și retragerea consimțământului.",
+          "De asemenea, puteți avea dreptul să depuneți o plângere la Oficiul Comisarului pentru Protecția Datelor cu Caracter Personal din Cipru."
+        ]
+      },
+      {
+        "title": "9. Securitate",
+        "body": [
+          "Luăm măsuri tehnice și organizaționale rezonabile pentru a proteja datele personale transmise prin website. Totuși, niciun sistem online de transmitere sau stocare nu poate fi garantat ca fiind complet sigur."
+        ]
+      },
+      {
+        "title": "10. Actualizări ale politicii",
+        "body": [
+          "Putem actualiza această Politică de confidențialitate din când în când. Versiunea actualizată va fi publicată pe această pagină cu o dată efectivă revizuită."
+        ]
+      }
+    ],
+    "finalContact": {
+      "prefix": "Mai multe informații",
+      "suffix": "."
+    },
+    "cookiePreferences": {
+      "title": "Preferințe cookie",
+      "body": "Puteți actualiza oricând opțiunile pentru cookie-urile opționale din această pagină. Cookie-urile necesare rămân active deoarece sunt necesare pentru funcționarea website-ului.",
+      "button": "Deschideți preferințele cookie"
+    }
+  },
+  "locationPages": {
+    "shared": {
+      "heroEyebrow": "Acoperire în toată Cipru",
+      "primaryCta": "Solicitați evaluare",
+      "secondaryCta": "Vedeți serviciile",
+      "introEyebrow": "Administrare proprietăți · {{location}}",
+      "localContextEyebrow": "Context local de administrare",
+      "issuesCardTitle": "Ce se blochează de obicei",
+      "servicesEyebrow": "Ce administrăm",
+      "servicesTitle": "Un singur partener de administrare pentru activitatea operațională din spatele proprietății dumneavoastră.",
+      "servicesBody": "Neurora combină cheltuielile comune, comunicarea, controlul financiar, coordonarea întreținerii și evidențele într-un singur sistem structurat de administrare.",
+      "coverageEyebrow": "Zone acoperite",
+      "coverageTitle": "Servicii de administrare a proprietăților în toată Cipru.",
+      "coverageBody": "Oferim administrare structurată în principalele zone din Cipru. Fiecare pagină de zonă îi ajută pe proprietari să înțeleagă cum sprijină Neurora proprietățile din acea locație.",
+      "questionsEyebrow": "Întrebări",
+      "questionsTitle": "Întrebări despre administrarea proprietăților în {{location}}.",
+      "ctaTitle": "Aveți nevoie de administrare a proprietății în {{location}}?",
+      "ctaBody": "Spuneți-ne despre blocul dumneavoastră, ansamblul rezidențial sau proprietatea comună. Vom analiza situația și vom pregăti o propunere clară pe baza nevoilor operaționale reale ale proprietății."
+    },
+    "locations": {
+      "cyprus": "Cipru",
+      "paphos": "Paphos",
+      "limassol": "Limassol",
+      "larnaca": "Larnaca",
+      "nicosia": "Nicosia",
+      "ayiaNapa": "Ayia Napa",
+      "protaras": "Protaras"
+    },
+    "services": [
+      {
+        "title": "Cheltuieli comune",
+        "desc": "Sprijin structurat pentru administrarea clară și sigură a proprietății."
+      },
+      {
+        "title": "Control financiar control",
+        "desc": "Sprijin structurat pentru administrarea clară și sigură a proprietății."
+      },
+      {
+        "title": "Comunicare",
+        "desc": "Sprijin structurat pentru administrarea clară și sigură a proprietății."
+      },
+      {
+        "title": "Coordonarea întreținerii",
+        "desc": "Sprijin structurat pentru administrarea clară și sigură a proprietății."
+      },
+      {
+        "title": "Protecție juridică support",
+        "desc": "Sprijin structurat pentru administrarea clară și sigură a proprietății."
+      },
+      {
+        "title": "Documentație",
+        "desc": "Sprijin structurat pentru administrarea clară și sigură a proprietății."
+      }
+    ],
+    "pages": {
+      "cyprus": {
+        "name": "Cipru",
+        "slug": "property-management-cyprus",
+        "metaTitle": "Administrare proprietăți Cipru | Neurora Property Management",
+        "metaDescription": "Administrare structurată a proprietăților în Cipru pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune. Cheltuieli comune, comunicare, întreținere și control financiar.",
+        "heroTitle": "Administrare proprietăți în Cipru",
+        "subtitle": "Administrare structurată pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune din Cipru care au nevoie de claritate și control.",
+        "introTitle": "Un sistem clar de administrare pentru proprietăți comune din Cipru.",
+        "introBody": "Proprietățile comune din Cipru au nevoie de reguli clare, evidențe financiare transparente și comunicare constantă între proprietari, rezidenți și Comitetul de Administrare. Neurora îi ajută pe proprietari, rezidenți și Comitetele de Administrare să țină activitatea zilnică sub control.",
+        "localTitle": "Creat pentru proprietăți care au nevoie de control, nu de urmărire informală.",
+        "localBody": "Când plățile, întreținerea, comunicarea și evidențele nu sunt conectate într-un singur sistem, administrarea devine lentă și neclară. Creăm un cadru transparent în care fiecare acțiune are responsabilitate, urmărire și documentare.",
+        "focusPoints": [
+          "Sprijin de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune.",
+          "Comunicare directă prin WhatsApp și Viber pentru coordonare mai rapidă.",
+          "Cheltuieli comune, întreținere, curățenie și evidențe gestionate printr-un singur punct de administrare."
+        ],
+        "issueTitle": "Probleme comune de administrare a proprietăților în Cipru.",
+        "issueIntro": "Proprietățile comune încep să aibă probleme atunci când deciziile, plățile și întreținerea sunt gestionate informal. Fără o structură fixă, problemele mici se pot transforma în întârzieri, dispute sau costuri inutile.",
+        "issues": [
+          "Cheltuielile comune nu sunt colectate sau urmărite constant.",
+          "Proprietarii, rezidenții și comitetele depind de conversații împrăștiate în locul unui canal clar.",
+          "Întreținerea, reparațiile și furnizorii sunt gestionați doar după apariția problemelor.",
+          "Deciziile, plățile și evidențele proprietății nu sunt întotdeauna documentate într-un singur loc."
+        ],
+        "supportTitle": "Cum sprijină Neurora proprietățile din Cipru.",
+        "supportIntro": "Neurora aduce proprietatea într-un sistem operațional structurat, astfel încât comunicarea, fondurile, furnizorii și evidențele să fie administrate printr-un cadru clar.",
+        "supportItems": [
+          "Stabilim canale de comunicare pentru rezidenți, proprietari și Comitetul de Administrare.",
+          "Organizăm cheltuielile comune lunare, urmărirea plăților și vizibilitatea financiară.",
+          "Coordonăm furnizorii, întreținerea, curățenia, utilitățile și urmărirea operațională.",
+          "Păstrăm deciziile, cheltuielile, procesele-verbale și acțiunile de administrare documentate corect."
+        ],
+        "faq": [
+          {
+            "question": "Oferă Neurora administrare de proprietăți în Cipru?",
+            "answer": "Da. Neurora oferă servicii structurate de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune în Cipru."
+          },
+          {
+            "question": "Ce tipuri de proprietăți administrați?",
+            "answer": "Administrăm blocuri de apartamente, ansambluri rezidențiale, case în complexuri, unități comerciale și proprietăți comune care au nevoie de administrare structurată și control operațional."
+          }
+        ]
+      },
+      "paphos": {
+        "name": "Paphos",
+        "slug": "property-management-paphos",
+        "metaTitle": "Administrare proprietăți Paphos | Neurora Property Management",
+        "metaDescription": "Administrare structurată a proprietăților în Paphos pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune. Cheltuieli comune, comunicare, întreținere și control financiar.",
+        "heroTitle": "Administrare proprietăți în Paphos",
+        "subtitle": "Administrare structurată pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune din Paphos care au nevoie de claritate și control.",
+        "introTitle": "Administrare structurată pentru proprietăți comune din Paphos.",
+        "introBody": "Proprietățile din Paphos pot include proprietari locali, proprietari din străinătate, rezidenți permanenți și locuințe folosite sezonier, ceea ce face comunicarea și urmărirea operațională esențiale. Neurora îi ajută pe proprietari, rezidenți și Comitetele de Administrare să țină activitatea zilnică sub control.",
+        "localTitle": "Potrivit pentru proprietăți cu proprietari locali și din străinătate.",
+        "localBody": "Când plățile, întreținerea, comunicarea și evidențele nu sunt conectate într-un singur sistem, administrarea devine lentă și neclară. Creăm un cadru transparent în care fiecare acțiune are responsabilitate, urmărire și documentare.",
+        "focusPoints": [
+          "Sprijin de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune.",
+          "Comunicare directă prin WhatsApp și Viber pentru coordonare mai rapidă.",
+          "Cheltuieli comune, întreținere, curățenie și evidențe gestionate printr-un singur punct de administrare."
+        ],
+        "issueTitle": "Probleme comune de administrare a proprietăților în Paphos.",
+        "issueIntro": "Proprietățile comune încep să aibă probleme atunci când deciziile, plățile și întreținerea sunt gestionate informal. Fără o structură fixă, problemele mici se pot transforma în întârzieri, dispute sau costuri inutile.",
+        "issues": [
+          "Cheltuielile comune nu sunt colectate sau urmărite constant.",
+          "Proprietarii, rezidenții și comitetele depind de conversații împrăștiate în locul unui canal clar.",
+          "Întreținerea, reparațiile și furnizorii sunt gestionați doar după apariția problemelor.",
+          "Deciziile, plățile și evidențele proprietății nu sunt întotdeauna documentate într-un singur loc."
+        ],
+        "supportTitle": "Cum sprijină Neurora proprietățile din Paphos.",
+        "supportIntro": "Neurora aduce proprietatea într-un sistem operațional structurat, astfel încât comunicarea, fondurile, furnizorii și evidențele să fie administrate printr-un cadru clar.",
+        "supportItems": [
+          "Stabilim canale de comunicare pentru rezidenți, proprietari și Comitetul de Administrare.",
+          "Organizăm cheltuielile comune lunare, urmărirea plăților și vizibilitatea financiară.",
+          "Coordonăm furnizorii, întreținerea, curățenia, utilitățile și urmărirea operațională.",
+          "Păstrăm deciziile, cheltuielile, procesele-verbale și acțiunile de administrare documentate corect."
+        ],
+        "faq": [
+          {
+            "question": "Oferă Neurora administrare de proprietăți în Paphos?",
+            "answer": "Da. Neurora oferă servicii structurate de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune în Paphos."
+          },
+          {
+            "question": "Ce tipuri de proprietăți administrați?",
+            "answer": "Administrăm blocuri de apartamente, ansambluri rezidențiale, case în complexuri, unități comerciale și proprietăți comune care au nevoie de administrare structurată și control operațional."
+          }
+        ]
+      },
+      "limassol": {
+        "name": "Limassol",
+        "slug": "property-management-limassol",
+        "metaTitle": "Administrare proprietăți Limassol | Neurora Property Management",
+        "metaDescription": "Administrare structurată a proprietăților în Limassol pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune. Cheltuieli comune, comunicare, întreținere și control financiar.",
+        "heroTitle": "Administrare proprietăți în Limassol",
+        "subtitle": "Administrare structurată pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune din Limassol care au nevoie de claritate și control.",
+        "introTitle": "Administrare clară pentru clădiri și ansambluri rezidențiale din Limassol.",
+        "introBody": "În Limassol, multe clădiri și ansambluri rezidențiale funcționează într-un ritm intens și au nevoie de administrare clară, furnizori coordonați și vizibilitate financiară. Neurora îi ajută pe proprietari, rezidenți și Comitetele de Administrare să țină activitatea zilnică sub control.",
+        "localTitle": "Creat pentru proprietăți care au nevoie de ritm, control și responsabilitate.",
+        "localBody": "Când plățile, întreținerea, comunicarea și evidențele nu sunt conectate într-un singur sistem, administrarea devine lentă și neclară. Creăm un cadru transparent în care fiecare acțiune are responsabilitate, urmărire și documentare.",
+        "focusPoints": [
+          "Sprijin de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune.",
+          "Comunicare directă prin WhatsApp și Viber pentru coordonare mai rapidă.",
+          "Cheltuieli comune, întreținere, curățenie și evidențe gestionate printr-un singur punct de administrare."
+        ],
+        "issueTitle": "Probleme comune de administrare a proprietăților în Limassol.",
+        "issueIntro": "Proprietățile comune încep să aibă probleme atunci când deciziile, plățile și întreținerea sunt gestionate informal. Fără o structură fixă, problemele mici se pot transforma în întârzieri, dispute sau costuri inutile.",
+        "issues": [
+          "Cheltuielile comune nu sunt colectate sau urmărite constant.",
+          "Proprietarii, rezidenții și comitetele depind de conversații împrăștiate în locul unui canal clar.",
+          "Întreținerea, reparațiile și furnizorii sunt gestionați doar după apariția problemelor.",
+          "Deciziile, plățile și evidențele proprietății nu sunt întotdeauna documentate într-un singur loc."
+        ],
+        "supportTitle": "Cum sprijină Neurora proprietățile din Limassol.",
+        "supportIntro": "Neurora aduce proprietatea într-un sistem operațional structurat, astfel încât comunicarea, fondurile, furnizorii și evidențele să fie administrate printr-un cadru clar.",
+        "supportItems": [
+          "Stabilim canale de comunicare pentru rezidenți, proprietari și Comitetul de Administrare.",
+          "Organizăm cheltuielile comune lunare, urmărirea plăților și vizibilitatea financiară.",
+          "Coordonăm furnizorii, întreținerea, curățenia, utilitățile și urmărirea operațională.",
+          "Păstrăm deciziile, cheltuielile, procesele-verbale și acțiunile de administrare documentate corect."
+        ],
+        "faq": [
+          {
+            "question": "Oferă Neurora administrare de proprietăți în Limassol?",
+            "answer": "Da. Neurora oferă servicii structurate de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune în Limassol."
+          },
+          {
+            "question": "Ce tipuri de proprietăți administrați?",
+            "answer": "Administrăm blocuri de apartamente, ansambluri rezidențiale, case în complexuri, unități comerciale și proprietăți comune care au nevoie de administrare structurată și control operațional."
+          }
+        ]
+      },
+      "larnaca": {
+        "name": "Larnaca",
+        "slug": "property-management-larnaca",
+        "metaTitle": "Administrare proprietăți Larnaca | Neurora Property Management",
+        "metaDescription": "Administrare structurată a proprietăților în Larnaca pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune. Cheltuieli comune, comunicare, întreținere și control financiar.",
+        "heroTitle": "Administrare proprietăți în Larnaca",
+        "subtitle": "Administrare structurată pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune din Larnaca care au nevoie de claritate și control.",
+        "introTitle": "Un cadru de administrare stabil pentru proprietăți comune din Larnaca.",
+        "introBody": "Proprietățile din Larnaca au nevoie de o administrare stabilă care să țină împreună cheltuielile comune, comunicarea, întreținerea și documentarea deciziilor. Neurora îi ajută pe proprietari, rezidenți și Comitetele de Administrare să țină activitatea zilnică sub control.",
+        "localTitle": "Coordonare clară pentru proprietăți care nu pot depinde de soluții informale.",
+        "localBody": "Când plățile, întreținerea, comunicarea și evidențele nu sunt conectate într-un singur sistem, administrarea devine lentă și neclară. Creăm un cadru transparent în care fiecare acțiune are responsabilitate, urmărire și documentare.",
+        "focusPoints": [
+          "Sprijin de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune.",
+          "Comunicare directă prin WhatsApp și Viber pentru coordonare mai rapidă.",
+          "Cheltuieli comune, întreținere, curățenie și evidențe gestionate printr-un singur punct de administrare."
+        ],
+        "issueTitle": "Probleme comune de administrare a proprietăților în Larnaca.",
+        "issueIntro": "Proprietățile comune încep să aibă probleme atunci când deciziile, plățile și întreținerea sunt gestionate informal. Fără o structură fixă, problemele mici se pot transforma în întârzieri, dispute sau costuri inutile.",
+        "issues": [
+          "Cheltuielile comune nu sunt colectate sau urmărite constant.",
+          "Proprietarii, rezidenții și comitetele depind de conversații împrăștiate în locul unui canal clar.",
+          "Întreținerea, reparațiile și furnizorii sunt gestionați doar după apariția problemelor.",
+          "Deciziile, plățile și evidențele proprietății nu sunt întotdeauna documentate într-un singur loc."
+        ],
+        "supportTitle": "Cum sprijină Neurora proprietățile din Larnaca.",
+        "supportIntro": "Neurora aduce proprietatea într-un sistem operațional structurat, astfel încât comunicarea, fondurile, furnizorii și evidențele să fie administrate printr-un cadru clar.",
+        "supportItems": [
+          "Stabilim canale de comunicare pentru rezidenți, proprietari și Comitetul de Administrare.",
+          "Organizăm cheltuielile comune lunare, urmărirea plăților și vizibilitatea financiară.",
+          "Coordonăm furnizorii, întreținerea, curățenia, utilitățile și urmărirea operațională.",
+          "Păstrăm deciziile, cheltuielile, procesele-verbale și acțiunile de administrare documentate corect."
+        ],
+        "faq": [
+          {
+            "question": "Oferă Neurora administrare de proprietăți în Larnaca?",
+            "answer": "Da. Neurora oferă servicii structurate de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune în Larnaca."
+          },
+          {
+            "question": "Ce tipuri de proprietăți administrați?",
+            "answer": "Administrăm blocuri de apartamente, ansambluri rezidențiale, case în complexuri, unități comerciale și proprietăți comune care au nevoie de administrare structurată și control operațional."
+          }
+        ]
+      },
+      "nicosia": {
+        "name": "Nicosia",
+        "slug": "property-management-nicosia",
+        "metaTitle": "Administrare proprietăți Nicosia | Neurora Property Management",
+        "metaDescription": "Administrare structurată a proprietăților în Nicosia pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune. Cheltuieli comune, comunicare, întreținere și control financiar.",
+        "heroTitle": "Administrare proprietăți în Nicosia",
+        "subtitle": "Administrare structurată pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune din Nicosia care au nevoie de claritate și control.",
+        "introTitle": "Structură profesională pentru blocuri de apartamente din Nicosia.",
+        "introBody": "Proprietățile din Nicosia au nevoie de administrare puternică, evidențe clare ale comitetului, cheltuieli comune previzibile și comunicare sigură. Neurora îi ajută pe proprietari, rezidenți și Comitetele de Administrare să țină activitatea zilnică sub control.",
+        "localTitle": "Conceput pentru comitete care au nevoie de claritate și responsabilitate.",
+        "localBody": "Când plățile, întreținerea, comunicarea și evidențele nu sunt conectate într-un singur sistem, administrarea devine lentă și neclară. Creăm un cadru transparent în care fiecare acțiune are responsabilitate, urmărire și documentare.",
+        "focusPoints": [
+          "Sprijin de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune.",
+          "Comunicare directă prin WhatsApp și Viber pentru coordonare mai rapidă.",
+          "Cheltuieli comune, întreținere, curățenie și evidențe gestionate printr-un singur punct de administrare."
+        ],
+        "issueTitle": "Probleme comune de administrare a proprietăților în Nicosia.",
+        "issueIntro": "Proprietățile comune încep să aibă probleme atunci când deciziile, plățile și întreținerea sunt gestionate informal. Fără o structură fixă, problemele mici se pot transforma în întârzieri, dispute sau costuri inutile.",
+        "issues": [
+          "Cheltuielile comune nu sunt colectate sau urmărite constant.",
+          "Proprietarii, rezidenții și comitetele depind de conversații împrăștiate în locul unui canal clar.",
+          "Întreținerea, reparațiile și furnizorii sunt gestionați doar după apariția problemelor.",
+          "Deciziile, plățile și evidențele proprietății nu sunt întotdeauna documentate într-un singur loc."
+        ],
+        "supportTitle": "Cum sprijină Neurora proprietățile din Nicosia.",
+        "supportIntro": "Neurora aduce proprietatea într-un sistem operațional structurat, astfel încât comunicarea, fondurile, furnizorii și evidențele să fie administrate printr-un cadru clar.",
+        "supportItems": [
+          "Stabilim canale de comunicare pentru rezidenți, proprietari și Comitetul de Administrare.",
+          "Organizăm cheltuielile comune lunare, urmărirea plăților și vizibilitatea financiară.",
+          "Coordonăm furnizorii, întreținerea, curățenia, utilitățile și urmărirea operațională.",
+          "Păstrăm deciziile, cheltuielile, procesele-verbale și acțiunile de administrare documentate corect."
+        ],
+        "faq": [
+          {
+            "question": "Oferă Neurora administrare de proprietăți în Nicosia?",
+            "answer": "Da. Neurora oferă servicii structurate de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune în Nicosia."
+          },
+          {
+            "question": "Ce tipuri de proprietăți administrați?",
+            "answer": "Administrăm blocuri de apartamente, ansambluri rezidențiale, case în complexuri, unități comerciale și proprietăți comune care au nevoie de administrare structurată și control operațional."
+          }
+        ]
+      },
+      "ayiaNapa": {
+        "name": "Ayia Napa",
+        "slug": "property-management-ayia-napa",
+        "metaTitle": "Administrare proprietăți Ayia Napa | Neurora Property Management",
+        "metaDescription": "Administrare structurată a proprietăților în Ayia Napa pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune. Cheltuieli comune, comunicare, întreținere și control financiar.",
+        "heroTitle": "Administrare proprietăți în Ayia Napa",
+        "subtitle": "Administrare structurată pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune din Ayia Napa care au nevoie de claritate și control.",
+        "introTitle": "Un sistem de administrare pentru proprietăți sezoniere și rezidențiale din Ayia Napa.",
+        "introBody": "Proprietățile din Ayia Napa pot avea utilizare sezonieră, ocupare variabilă și presiune mai mare pe curățenie, întreținere și comunicare. Neurora îi ajută pe proprietari, rezidenți și Comitetele de Administrare să țină activitatea zilnică sub control.",
+        "localTitle": "Coordonare clară pentru proprietăți care nu se pot baza pe urmărire informală.",
+        "localBody": "Când plățile, întreținerea, comunicarea și evidențele nu sunt conectate într-un singur sistem, administrarea devine lentă și neclară. Creăm un cadru transparent în care fiecare acțiune are responsabilitate, urmărire și documentare.",
+        "focusPoints": [
+          "Sprijin de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune.",
+          "Comunicare directă prin WhatsApp și Viber pentru coordonare mai rapidă.",
+          "Cheltuieli comune, întreținere, curățenie și evidențe gestionate printr-un singur punct de administrare."
+        ],
+        "issueTitle": "Probleme comune de administrare a proprietăților în Ayia Napa.",
+        "issueIntro": "Proprietățile comune încep să aibă probleme atunci când deciziile, plățile și întreținerea sunt gestionate informal. Fără o structură fixă, problemele mici se pot transforma în întârzieri, dispute sau costuri inutile.",
+        "issues": [
+          "Cheltuielile comune nu sunt colectate sau urmărite constant.",
+          "Proprietarii, rezidenții și comitetele depind de conversații împrăștiate în locul unui canal clar.",
+          "Întreținerea, reparațiile și furnizorii sunt gestionați doar după apariția problemelor.",
+          "Deciziile, plățile și evidențele proprietății nu sunt întotdeauna documentate într-un singur loc."
+        ],
+        "supportTitle": "Cum sprijină Neurora proprietățile din Ayia Napa.",
+        "supportIntro": "Neurora aduce proprietatea într-un sistem operațional structurat, astfel încât comunicarea, fondurile, furnizorii și evidențele să fie administrate printr-un cadru clar.",
+        "supportItems": [
+          "Stabilim canale de comunicare pentru rezidenți, proprietari și Comitetul de Administrare.",
+          "Organizăm cheltuielile comune lunare, urmărirea plăților și vizibilitatea financiară.",
+          "Coordonăm furnizorii, întreținerea, curățenia, utilitățile și urmărirea operațională.",
+          "Păstrăm deciziile, cheltuielile, procesele-verbale și acțiunile de administrare documentate corect."
+        ],
+        "faq": [
+          {
+            "question": "Oferă Neurora administrare de proprietăți în Ayia Napa?",
+            "answer": "Da. Neurora oferă servicii structurate de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune în Ayia Napa."
+          },
+          {
+            "question": "Ce tipuri de proprietăți administrați?",
+            "answer": "Administrăm blocuri de apartamente, ansambluri rezidențiale, case în complexuri, unități comerciale și proprietăți comune care au nevoie de administrare structurată și control operațional."
+          }
+        ]
+      },
+      "protaras": {
+        "name": "Protaras",
+        "slug": "property-management-protaras",
+        "metaTitle": "Administrare proprietăți Protaras | Neurora Property Management",
+        "metaDescription": "Administrare structurată a proprietăților în Protaras pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune. Cheltuieli comune, comunicare, întreținere și control financiar.",
+        "heroTitle": "Administrare proprietăți în Protaras",
+        "subtitle": "Administrare structurată pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune din Protaras care au nevoie de claritate și control.",
+        "introTitle": "Administrare clară pentru proprietăți rezidențiale și comune din Protaras.",
+        "introBody": "Proprietățile din Protaras pot combina rezidenți permanenți, proprietari sezonieri, apartamente de vacanță și facilități comune care trebuie gestionate pe tot parcursul anului. Neurora îi ajută pe proprietari, rezidenți și Comitetele de Administrare să țină activitatea zilnică sub control.",
+        "localTitle": "Creat pentru proprietăți care au nevoie de vizibilitate pe tot parcursul anului.",
+        "localBody": "Când plățile, întreținerea, comunicarea și evidențele nu sunt conectate într-un singur sistem, administrarea devine lentă și neclară. Creăm un cadru transparent în care fiecare acțiune are responsabilitate, urmărire și documentare.",
+        "focusPoints": [
+          "Sprijin de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune.",
+          "Comunicare directă prin WhatsApp și Viber pentru coordonare mai rapidă.",
+          "Cheltuieli comune, întreținere, curățenie și evidențe gestionate printr-un singur punct de administrare."
+        ],
+        "issueTitle": "Probleme comune de administrare a proprietăților în Protaras.",
+        "issueIntro": "Proprietățile comune încep să aibă probleme atunci când deciziile, plățile și întreținerea sunt gestionate informal. Fără o structură fixă, problemele mici se pot transforma în întârzieri, dispute sau costuri inutile.",
+        "issues": [
+          "Cheltuielile comune nu sunt colectate sau urmărite constant.",
+          "Proprietarii, rezidenții și comitetele depind de conversații împrăștiate în locul unui canal clar.",
+          "Întreținerea, reparațiile și furnizorii sunt gestionați doar după apariția problemelor.",
+          "Deciziile, plățile și evidențele proprietății nu sunt întotdeauna documentate într-un singur loc."
+        ],
+        "supportTitle": "Cum sprijină Neurora proprietățile din Protaras.",
+        "supportIntro": "Neurora aduce proprietatea într-un sistem operațional structurat, astfel încât comunicarea, fondurile, furnizorii și evidențele să fie administrate printr-un cadru clar.",
+        "supportItems": [
+          "Stabilim canale de comunicare pentru rezidenți, proprietari și Comitetul de Administrare.",
+          "Organizăm cheltuielile comune lunare, urmărirea plăților și vizibilitatea financiară.",
+          "Coordonăm furnizorii, întreținerea, curățenia, utilitățile și urmărirea operațională.",
+          "Păstrăm deciziile, cheltuielile, procesele-verbale și acțiunile de administrare documentate corect."
+        ],
+        "faq": [
+          {
+            "question": "Oferă Neurora administrare de proprietăți în Protaras?",
+            "answer": "Da. Neurora oferă servicii structurate de administrare pentru blocuri de apartamente, ansambluri rezidențiale și proprietăți comune în Protaras."
+          },
+          {
+            "question": "Ce tipuri de proprietăți administrați?",
+            "answer": "Administrăm blocuri de apartamente, ansambluri rezidențiale, case în complexuri, unități comerciale și proprietăți comune care au nevoie de administrare structurată și control operațional."
+          }
+        ]
+      }
+    }
+  },
+  "cookieConsent": {
+    "banner": {
+      "eyebrow": "Preferințe de confidențialitate",
+      "title": "Folosim cookie-uri cu atenție.",
+      "body": "Folosim cookie-uri necesare pentru funcționarea website-ului și cookie-uri opționale de analiză pentru a înțelege modul în care vizitatorii folosesc website-ul.",
+      "privacyLink": "Politica de confidențialitate"
+    },
+    "buttons": {
+      "acceptAll": "Acceptă tot",
+      "rejectAll": "Respinge tot",
+      "manage": "Gestionează",
+      "save": "Salvează preferințele",
+      "close": "Închide"
+    },
+    "preferences": {
+      "title": "Preferințe cookie",
+      "body": "Folosim cookie-uri necesare pentru funcționarea website-ului și cookie-uri opționale de analiză pentru a înțelege modul în care vizitatorii folosesc website-ul.",
+      "necessary": {
+        "title": "Cookie-uri necesare",
+        "body": "Folosim cookie-uri necesare pentru funcționarea website-ului și cookie-uri opționale de analiză pentru a înțelege modul în care vizitatorii folosesc website-ul."
+      },
+      "analytics": {
+        "title": "Cookie-uri de analiză",
+        "body": "Folosim cookie-uri necesare pentru funcționarea website-ului și cookie-uri opționale de analiză pentru a înțelege modul în care vizitatorii folosesc website-ul."
+      },
+      "marketing": {
+        "title": "Cookie-uri de marketing",
+        "body": "Folosim cookie-uri necesare pentru funcționarea website-ului și cookie-uri opționale de analiză pentru a înțelege modul în care vizitatorii folosesc website-ul."
+      }
+    }
+  },
+  "floatingContact": {
+    "aria": {
+      "open": "Deschideți meniul rapid de contact",
+      "close": "Închideți meniul rapid de contact",
+      "instagram": "Deschideți Instagram Neurora",
+      "facebook": "Deschideți Facebook Neurora",
+      "viber": "Contactați Neurora pe Viber",
+      "whatsapp": "Contactați Neurora pe WhatsApp",
+      "email": "Trimiteți email către Neurora",
+      "call": "Sunați Neurora"
+    }
+  },
+  "logo": {
+    "alt": "Sigla Neurora Property Management"
+  },
+  "notFound": {
+    "title": "404",
+    "body": "Pagina nu a fost găsită",
+    "home": "Înapoi la pagina principală"
+  },
+  "testimonials": {
+    "eyebrow": "Testimoniale",
+    "title": "De încredere pentru proprietarii care așteaptă mai mult.",
+    "items": [
+      {
+        "quote": "Neurora a schimbat complet modul în care îmi administrez proprietatea de la distanță. Totul este gestionat și nu mai trebuie să îmi fac griji. Chiar le pasă.",
+        "name": "Daniel R.",
+        "role": "Proprietar din străinătate"
+      },
+      {
+        "quote": "Profesioniști, receptivi și atenți la detalii. Facturile, reparațiile și contractorii sunt coordonați fără probleme. Liniștea oferită este cu adevărat valoroasă.",
+        "name": "Elena M.",
+        "role": "Investitor privat"
+      },
+      {
+        "quote": "Fiabilitate pe care o simți. Rapoartele sunt clare, echipa este de încredere, iar proprietatea mea este mereu într-o stare impecabilă.",
+        "name": "James T.",
+        "role": "Proprietar rezidențial"
+      }
+    ]
+  },
+  "whyNeurora": {
+    "eyebrow": "De ce Neurora",
+    "title": "Un standard de îngrijire rezervat proprietăților care contează.",
+    "subtitle": "Proprietarii au încredere în Neurora deoarece fiecare detaliu este gestionat cu discreție, precizie și responsabilitate reală.",
+    "items": [
+      {
+        "title": "Proprietate fără griji",
+        "desc": "Preluăm sarcinile de pe umerii dumneavoastră."
+      },
+      {
+        "title": "Fiabil și prompt",
+        "desc": "Acționăm rapid atunci când contează."
+      },
+      {
+        "title": "Cheltuieli transparente",
+        "desc": "Evidențe clare, fără surprize."
+      },
+      {
+        "title": "Rețea de încredere",
+        "desc": "Doar profesioniști verificați."
+      },
+      {
+        "title": "Atenție la detalii",
+        "desc": "Grija se vede în fiecare interacțiune."
+      }
+    ]
+  },
+  "common": {
+    "close": "Închide"
+  }
+}

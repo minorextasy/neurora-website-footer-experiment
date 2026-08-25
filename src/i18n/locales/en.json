@@ -1,0 +1,1522 @@
+{
+  "header": {
+    "links": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "howItWorks": "Neurora Operating System",
+      "contact": "Contact"
+    },
+    "cta": "Request a Proposal",
+    "menu": "Toggle menu",
+    "language": "Language"
+  },
+  "hero": {
+    "badge": "Property Management · Cyprus",
+    "titleLead": "Stop chasing your property.",
+    "titleAccent": "Take control of it.",
+    "subtitle": "Structured property management covering Cyprus-wide buildings and residential complexes, with full transparency, direct communication, and zero operational gaps.",
+    "bullets": [
+      "No middlemen. Direct communication from day one.",
+      "Your property's money stays in your own bank account.",
+      "Every expense tracked. Every task handled."
+    ],
+    "ctaPrimary": "Request a Proposal",
+    "ctaSecondary": "Neurora Operating System",
+    "imageAlt": "Modern luxury apartment building in Cyprus managed by Neurora"
+  },
+  "hero3d": {
+    "titleLine1": "Property",
+    "titleLine2": "Management",
+    "titleLine3": "Reimagined",
+    "subtitle": "Property Management, Common Areas Management, Post-Construction Cleaning",
+    "primaryCta": "Request Assessment",
+    "secondaryCta": "View Services",
+    "scroll": "Scroll",
+    "tags": {
+      "financial": "Financial Control",
+      "legal": "Legal Protection",
+      "cleaning": "Post-Construction Cleaning"
+    }
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Cap. 224 Compliant",
+        "desc": "Fully compliant with Cyprus property law."
+      },
+      {
+        "title": "100% Funds Protected",
+        "desc": "All money remains in the property's own account."
+      },
+      {
+        "title": "Invoices on the 1st",
+        "desc": "Monthly invoices issued automatically each month."
+      },
+      {
+        "title": "Direct Communication",
+        "desc": "No middlemen. No tickets. Real responses."
+      }
+    ],
+    "modalDetails": [
+      "This means the property is managed with the correct legal structure under Cyprus property law. Decisions, records, responsibilities and management actions are handled in a documented way, giving the Management Committee and residents a clearer and safer framework.",
+      "All property funds remain connected to the property and are not mixed with other buildings or company operating money. This protects transparency, improves accountability and makes it easier for the Management Committee to see how money is collected, held and used.",
+      "Monthly invoices are issued on a fixed schedule, so residents know when payments are due and the property has predictable cash flow. This supports standing orders, advance payments and better planning for maintenance, utilities and shared expenses.",
+      "Residents and the Management Committee communicate through dedicated WhatsApp or Viber groups created for the property. This makes announcements, scheduled works, payments and operational updates easier to follow, more transparent and faster to manage."
+    ]
+  },
+  "about": {
+    "eyebrow": "Properties We Manage",
+    "title": "Built for properties that want structure, not chaos.",
+    "subtitle": "Whether your building or residential complex runs smoothly or is in operational disorder, we step in, implement structure, and take full control.",
+    "items": [
+      {
+        "title": "Established Properties Needing Structure",
+        "desc": "Multi-owner buildings and residential complexes ready to replace disorganization with a real system.",
+        "detail": "These are properties already in operation, often with longstanding owners, but lacking a coherent management framework. We assess current arrangements, define a clear operational structure, formalize the Management Committee, and bring finances, communication, and maintenance under one transparent system."
+      },
+      {
+        "title": "New Developments",
+        "desc": "Developers handing over completed properties, set up properly from day one.",
+        "detail": "We collaborate with developers ahead of handover so the property launches with a complete operational framework already in place: dedicated bank account, billing schedule, contractor relationships, communication channels, and full Cap. 224 compliance from the very first month."
+      },
+      {
+        "title": "Properties With Operational Issues",
+        "desc": "Complex situations and broken communication. We take over and fix it.",
+        "detail": "When a property is struggling with disorganized operations, unresponsive management, or unclear processes, we step in to stabilize it. We restructure the operating model, document everything, re-establish clear responsibilities, and restore order without disruption to residents."
+      }
+    ]
+  },
+  "homeCoverage": {
+    "eyebrow": "Cyprus-Wide Coverage",
+    "text": "Neurora Property Management supports shared properties across Cyprus, including Paphos, Limassol, Larnaca, Nicosia, Ayia Napa and Protaras.",
+    "locations": {
+      "paphos": {
+        "label": "Paphos",
+        "aria": "View property management services in Paphos"
+      },
+      "limassol": {
+        "label": "Limassol",
+        "aria": "View property management services in Limassol"
+      },
+      "larnaca": {
+        "label": "Larnaca",
+        "aria": "View property management services in Larnaca"
+      },
+      "nicosia": {
+        "label": "Nicosia",
+        "aria": "View property management services in Nicosia"
+      },
+      "ayiaNapa": {
+        "label": "Ayia Napa",
+        "aria": "View property management services in Ayia Napa"
+      },
+      "protaras": {
+        "label": "Protaras",
+        "aria": "View property management services in Protaras"
+      }
+    },
+    "country": {
+      "label": "Cyprus-Wide",
+      "aria": "View Cyprus-wide property management coverage"
+    }
+  },
+  "aboutPage": {
+    "metaTitle": "About Neurora Property Management | Cyprus Property Management",
+    "metaDescription": "Learn how Neurora Property Management brings structure, transparency, communication, and control to apartment buildings and residential complexes across Cyprus.",
+    "hero": {
+      "eyebrow": "About Neurora Property Management",
+      "titleLead": "Property management built around",
+      "titleAccent": "structure, transparency, and control.",
+      "subtitle": "Neurora Property Management was created for buildings and residential complexes that need more than basic administration. We bring a clear operating system to shared properties, combining communication, financial visibility, maintenance coordination, and documented procedures.",
+      "ctaPrimary": "Request a Proposal",
+      "ctaSecondary": "Explore Services"
+    },
+    "intro": {
+      "eyebrow": "Who We Are",
+      "title": "A management partner for properties that need clarity.",
+      "body": "We work with Management Committees, owners, residents, and developers to replace informal arrangements with a structured management system. Every property is handled with clear communication, documented decisions, organized records, and full visibility over how the property operates."
+    },
+    "method": {
+      "title": "The Neurora method",
+      "body": "Our work is built on a simple principle: the property should remain in control of its money, its records, and its decisions. Neurora provides the operating structure, coordination, follow-up, and daily management needed to keep everything moving properly.",
+      "points": {
+        "structure": "Structure",
+        "transparency": "Transparency",
+        "control": "Control"
+      }
+    },
+    "properties": {
+      "eyebrow": "Properties We Manage",
+      "title": "Different properties. One structured standard.",
+      "subtitle": "From established apartment buildings to new developments and properties with operational issues, the goal is the same: replace confusion with a clear system."
+    },
+    "standard": {
+      "eyebrow": "Our Standard",
+      "title": "Built to protect trust between owners, residents, and the Management Committee.",
+      "subtitle": "The Neurora standard focuses on clear records, protected funds, predictable billing, and direct communication from day one."
+    },
+    "cta": {
+      "title": "Ready to bring structure to your property?",
+      "body": "Tell us about your apartment building or residential complex and we will prepare a clear proposal based on its real needs.",
+      "button": "Request a Proposal"
+    }
+  },
+  "howItWorksPage": {
+    "metaTitle": "Neurora Operating System | Neurora Property Management",
+    "metaDescription": "Explore the Neurora Operating System, combining the full management process with financial control, automated billing, communication structure, and legal protection.",
+    "hero": {
+      "eyebrow": "Neurora Operating System",
+      "titleLead": "One operating system for",
+      "titleAccent": "full property control.",
+      "subtitle": "The Neurora Operating System combines the full takeover process with financial control, automated administration, legal structure, documentation, communication, and daily operational management.",
+      "ctaPrimary": "Request a Proposal",
+      "ctaSecondary": "Explore Services"
+    },
+    "intro": {
+      "eyebrow": "The Operating System",
+      "title": "From owner approval to daily control, everything follows one structure.",
+      "body": "Before Neurora takes over, the property follows a clear approval and documentation process. After takeover, the operating system brings together communication, billing, suppliers, records, bank account visibility, automation, and legal structure.",
+      "panelTitle": "Process + system",
+      "panelBody": "This page combines the takeover process with the Neurora Operating System details, so owners can see both the approval steps and the management structure that runs after takeover.",
+      "points": {
+        "review": "Review",
+        "document": "Document",
+        "takeover": "Takeover"
+      }
+    },
+    "afterTakeover": {
+      "eyebrow": "After Takeover",
+      "title": "What happens once Neurora starts managing the property.",
+      "subtitle": "Once the property moves into active management, the operational structure goes live and the daily management work begins.",
+      "items": [
+        {
+          "title": "Communication Goes Live",
+          "desc": "Dedicated Viber and WhatsApp groups are created for direct coordination.",
+          "detail": "Dedicated communication groups are created for the Management Committee and residents, giving the property clear channels for announcements, updates, scheduled works, decisions, and follow-ups."
+        },
+        {
+          "title": "Monthly Common Expenses Begin",
+          "desc": "Common expenses are issued and tracked through a structured monthly process.",
+          "detail": "Monthly common expenses are issued clearly and consistently. Payments are tracked, pending balances are monitored, and the Management Committee can maintain visibility over the collection process."
+        },
+        {
+          "title": "Suppliers Are Coordinated",
+          "desc": "Cleaning, maintenance, utilities, repairs, amenities, and landscaping are organized.",
+          "detail": "Suppliers and contractors connected to the property are coordinated through one management structure, helping cleaning, maintenance, utilities, repairs, amenities, and landscaping stay organized."
+        },
+        {
+          "title": "Records Are Maintained",
+          "desc": "Payments, expenses, decisions, minutes, and operational updates are documented.",
+          "detail": "Important property records are maintained in an organized way, including payments, expenses, decisions, minutes, supplier matters, operational updates, and other property-related documentation."
+        }
+      ]
+    },
+    "financial": {
+      "eyebrow": "Financial Control",
+      "title": "The property keeps control of its money.",
+      "body": "Every apartment building or residential complex has its own Bank of Cyprus account in the Management Committee's name. Funds remain with the client, not with Neurora. This gives the Management Committee visibility, control, and traceability over the property's finances.",
+      "items": [
+        {
+          "title": "Own Bank Account",
+          "desc": "Each property has its own bank account in the Management Committee's name.",
+          "detail": "The property operates through its own dedicated Bank of Cyprus account in the Management Committee's name, helping ensure that the money remains connected to the property."
+        },
+        {
+          "title": "No Pooled Funds",
+          "desc": "Property funds are not mixed with company money or other properties.",
+          "detail": "The property's funds are not pooled with other buildings or company operating funds, supporting clearer accountability and stronger financial separation."
+        },
+        {
+          "title": "Full Visibility",
+          "desc": "Income, expenses, payments, and balances are easier to track.",
+          "detail": "The Management Committee can maintain visibility over income, expenses, payments, and balances, helping decisions be made with better financial clarity."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to understand what your property needs?",
+      "body": "Tell us about your apartment building or residential complex and we will prepare a clear proposal based on its real operational needs.",
+      "button": "Request a Proposal"
+    }
+  },
+  "problem": {
+    "eyebrow": "The Reality",
+    "titleLead": "Most buildings don't have management.",
+    "titleAccent": "They have problems.",
+    "items": [
+      {
+        "title": "Payments are delayed or unclear",
+        "detail": "Without structured billing, owners receive inconsistent invoices, miss payment deadlines, or are unsure what they're being charged for. Cash flow becomes unpredictable and the property cannot plan ahead."
+      },
+      {
+        "title": "No visibility over finances",
+        "detail": "Without a dedicated bank account and proper reporting, owners have no way to see where money is going. Funds get pooled, mixed with other properties, or controlled entirely by a single individual."
+      },
+      {
+        "title": "Maintenance issues are handled too late",
+        "detail": "Reactive maintenance leads to escalating problems and unnecessary costs. Without scheduled oversight and a coordinated contractor network, small issues become expensive emergencies."
+      },
+      {
+        "title": "Communication is slow or ignored",
+        "detail": "When residents have to chase responses or rely on informal channels, trust erodes. Important updates are missed, requests fall through the cracks, and owners feel disconnected from their own property."
+      },
+      {
+        "title": "Decisions are undocumented",
+        "detail": "Verbal agreements and informal approvals create disputes, ambiguity, and legal exposure. Without proper minutes and resolutions, the property has no record of what was decided or by whom."
+      },
+      {
+        "title": "No clear responsibility or accountability",
+        "detail": "When no one owns the operational outcome, problems persist indefinitely. A structured system assigns clear responsibility, measurable standards, and accountability at every level."
+      }
+    ],
+    "footerLead": "This is not management.",
+    "footerAccent": "This is chaos."
+  },
+  "postConstruction": {
+    "eyebrow": "Post-Construction Cleaning",
+    "title": "From construction handover to presentation-ready property.",
+    "subtitle": "After construction, properties are often left with dust, debris, residue and marks across apartments, entrances, common areas and shared facilities. Neurora prepares the entire property so it is clean, organized and ready to be shown, handed over or occupied.",
+    "visual": {
+      "beforeTitle": "After Construction",
+      "beforeText": "Dust, debris, residue and unfinished presentation across the property.",
+      "afterTitle": "Ready For Handover",
+      "afterText": "Apartments, entrances, common areas and shared spaces prepared for a better first impression."
+    },
+    "cards": [
+      {
+        "key": "debris",
+        "title": "Debris & Dust Removal",
+        "desc": "Construction dust, packaging residue and leftover debris cleared from apartments and shared spaces.",
+        "detail": "Post-construction cleaning focuses on removing the visible and practical mess left after works are completed. This includes construction dust, packaging remains, small debris, residue, marks and dirt from apartments, entrances, corridors, staircases, lifts, common areas and shared facilities so the property no longer feels like a construction site."
+      },
+      {
+        "key": "common",
+        "title": "Full Property Preparation",
+        "desc": "Apartments, entrances, corridors, lifts, staircases and shared areas prepared for first use.",
+        "detail": "The service covers the areas owners, residents and visitors see and use: apartments, entrances, corridors, staircases, lifts, lobbies, common areas and shared facilities. The goal is to make the whole property clean, presentable and ready for handover, viewings or first occupation."
+      },
+      {
+        "key": "handover",
+        "title": "Presentation Ready",
+        "desc": "A better first impression for owners, residents, buyers and visitors.",
+        "detail": "A newly completed property should not be presented with construction residue still visible. Neurora helps prepare the entire property for its first impression, making apartments, shared spaces and building entrances suitable for owners, residents, buyers and visitors from day one."
+      }
+    ]
+  },
+  "solution": {
+    "eyebrow": "The Solution",
+    "title": "Neurora replaces chaos with structure.",
+    "body": "We implement a complete operational system covering finances, communication, maintenance, and legal structure.",
+    "footer": "Nothing is left unmanaged. Nothing is unclear.",
+    "beforeLabel": "Before",
+    "bridgeLabel": "Neurora Structure",
+    "afterLabel": "After",
+    "chaos": [
+      "Delayed or unclear payments",
+      "No visibility over finances",
+      "Reactive maintenance",
+      "Slow or ignored communication",
+      "Undocumented decisions"
+    ],
+    "control": [
+      "Payments organized",
+      "Funds protected",
+      "Maintenance scheduled",
+      "Communication centralized",
+      "Decisions documented"
+    ]
+  },
+  "services": {
+    "eyebrow": "What We Handle",
+    "title": "Everything your property needs. Fully handled.",
+    "subtitle": "One partner. Full operational control.",
+    "items": [
+      {
+        "key": "common",
+        "title": "Common Expenses",
+        "desc": "Fixed monthly amounts, allowing residents to pay multiple months in advance or set up standing orders.",
+        "detail": "Common expenses are calculated as fixed monthly amounts based on each unit's share. Residents can pay months in advance or set up standing orders, removing friction and ensuring predictable cash flow for the property. No surprise reconciliations, no end-of-year adjustments."
+      },
+      {
+        "key": "cleaning",
+        "title": "Cleaning & Maintenance",
+        "desc": "Consistent upkeep of all common areas, supervised against a documented standard.",
+        "detail": "All common areas (entrances, corridors, stairwells, parking, and shared facilities) are kept to a defined cleanliness standard. Schedules are fixed, supervision is regular, and maintenance interventions are coordinated by our operations team rather than left to the cleaner."
+      },
+      {
+        "key": "utilities",
+        "title": "Utilities",
+        "desc": "Utility accounts managed, paid on time, and protected from service interruptions.",
+        "detail": "Electricity, water, and shared utility accounts are operated under structured standing orders. Payments are scheduled, balances are monitored, and renewals are handled in advance, so the property never faces missed payments, late fees, or service interruptions."
+      },
+      {
+        "key": "landscaping",
+        "title": "Landscaping",
+        "desc": "Professional upkeep of outdoor areas and greenery, consistently maintained.",
+        "detail": "Gardens, outdoor areas, and greenery are maintained on a defined schedule by qualified contractors. Trimming, irrigation oversight, seasonal care, and replacements are coordinated so the property's exterior remains presentable year-round."
+      },
+      {
+        "key": "amenities",
+        "title": "Amenities",
+        "desc": "Pools, lifts, and shared facilities professionally managed and properly maintained.",
+        "detail": "Pools, lifts, gyms, and shared facilities are placed under structured oversight. Service contracts, inspections, certifications, and routine maintenance are coordinated centrally, keeping amenities safe, compliant, and available to residents."
+      },
+      {
+        "key": "repairs",
+        "title": "Repairs",
+        "desc": "Repair issues handled proactively with coordinated contractor supervision.",
+        "detail": "Repair requests are received, triaged, and dispatched to vetted contractors. Quotes are reviewed, work is supervised, and outcomes are documented. Owners and the Management Committee receive a clear record of every intervention. No informal arrangements."
+      }
+    ],
+    "cta": "Explore Our Services",
+    "ctaNote": "See the full service breakdown"
+  },
+  "process": {
+    "eyebrow": "Neurora Operating System",
+    "title": "One system. Full control.",
+    "subtitle": "A clear operating system from proposal to takeover, financial control, billing, communication, and legal structure.",
+    "stepLabel": "STEP",
+    "fromHere": "FROM HERE",
+    "fromHereTitle": "Structured from day one.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Tailored Proposal",
+        "desc": "A clear, itemized proposal built for your specific property.",
+        "detail": "We assess your property's size, units, amenities, and operational needs to deliver a fully itemized proposal. Every cost line is transparent, every service scope is defined, and nothing is left to interpretation. You receive a document built specifically for your property, not a template."
+      },
+      {
+        "n": "02",
+        "title": "General Meeting Presentation",
+        "desc": "We present the system to all owners. Direct, no scripts.",
+        "detail": "Our team attends the General Meeting in person and walks every owner through the proposal, the operating model, and the legal framework. Questions are answered directly and on the record, so every owner makes an informed decision."
+      },
+      {
+        "n": "03",
+        "title": "Owner Vote (50%+)",
+        "desc": "A majority decision recorded transparently.",
+        "detail": "A formal vote is held according to Cap. 224. A simple majority (50%+) is required to appoint Neurora. Results are recorded in the official minutes and made available to all owners. No informal agreements, no ambiguity."
+      },
+      {
+        "n": "04",
+        "title": "Management Committee Elected",
+        "desc": "Owners elect their Management Committee.",
+        "detail": "Owners elect a Management Committee that legally represents the property. The Committee oversees decisions, approvals, and financial control, supported operationally by Neurora at every step."
+      },
+      {
+        "n": "05",
+        "title": "Legal Documentation",
+        "desc": "Minutes and resolutions filed under Cap. 224.",
+        "detail": "All decisions, minutes, resolutions, and appointments are formally documented and filed in compliance with Cap. 224. The property gains a clean legal foundation, protecting owners and enabling proper financial operations."
+      },
+      {
+        "n": "06",
+        "title": "Bank Account Opened",
+        "desc": "Bank of Cyprus account in the Management Committee's name.",
+        "detail": "A dedicated bank account is opened with Bank of Cyprus in the Management Committee's name. Funds belong to the property, never to the manager. Every transaction is traceable, auditable, and owned by the property."
+      },
+      {
+        "n": "07",
+        "title": "Operational Takeover",
+        "desc": "Full operations begin. Communication groups go live.",
+        "detail": "Neurora assumes full operational control: billing, utilities, maintenance, contractors, and reporting. WhatsApp and Viber communication groups go live from day one, giving residents and the Committee direct access to the team."
+      }
+    ],
+    "homeCta": "Neurora Operating System"
+  },
+  "communication": {
+    "eyebrow": "Communication",
+    "title": "No tickets. No delays. No middlemen.",
+    "subtitle": "You message. We act. Direct WhatsApp and Viber groups from day one, with real responses from real people.",
+    "tile1Title": "WhatsApp & Viber",
+    "tile1Sub": "From day one",
+    "tile2Title": "Real-time",
+    "tile2Sub": "Human responses",
+    "channels": [
+      {
+        "title": "Management Committee Group",
+        "desc": "Private channel for financial decisions, approvals, and confidential matters.",
+        "tag": "Private"
+      },
+      {
+        "title": "Residents Group",
+        "desc": "Announcements, updates, and scheduled works. Full transparency for every resident.",
+        "tag": "Open"
+      }
+    ],
+    "cta": "Communication",
+    "directGroups": "Direct Groups"
+  },
+  "operatingSystem": {
+    "eyebrow": "Neurora Operating System",
+    "titleLine1": "One system.",
+    "titleLine2": "Full control.",
+    "subtitle": "Financial control, automated administration, and legal structure brought together in one managed operating system."
+  },
+  "financial": {
+    "eyebrow": "Financial Control",
+    "title": "Your money stays yours. Always.",
+    "subtitle": "Every property has its own Bank of Cyprus account in the Management Committee's name. No pooled funds. Full visibility via 1Bank. Every transaction tracked.",
+    "accountHolder": "Account Holder",
+    "accountHolderName": "Management Committee",
+    "accountBody": "The bank account is opened in the Management Committee's name at Bank of Cyprus, with live visibility through 1Bank. Owners hold the keys.",
+    "tag1": "Bank of Cyprus",
+    "tag2": "1Bank Access",
+    "pillars": [
+      {
+        "title": "Dedicated Bank Account",
+        "desc": "Each property has its own account at Bank of Cyprus."
+      },
+      {
+        "title": "Management Committee Ownership",
+        "desc": "The account is in the Management Committee's name, not Neurora's."
+      },
+      {
+        "title": "Live Visibility",
+        "desc": "Full access via 1Bank. The Management Committee sees everything, in real time."
+      },
+      {
+        "title": "Every Transaction Tracked",
+        "desc": "Documented, categorized, and auditable at any time."
+      }
+    ]
+  },
+  "legal": {
+    "eyebrow": "Legal Protection",
+    "title": "Fully compliant. Fully protected.",
+    "subtitle": "Every action has legal backing. Cap. 224 compliant. Management Committee-based governance. Fully documented decisions.",
+    "items": [
+      {
+        "title": "Cap. 224 Compliance",
+        "desc": "Every operation aligned with Cyprus law on immovable property.",
+        "detail": "All operations follow the framework set out in the Immovable Property (Tenure, Registration and Valuation) Law, Cap. 224. From committee formation and meeting procedure to financial governance and resolutions, the property operates on a legally sound foundation that protects owners."
+      },
+      {
+        "title": "Management Committee-Based Decisions",
+        "desc": "All decisions taken by the Management Committee, never by us alone.",
+        "detail": "Strategic, financial, and operational decisions are taken by the elected Management Committee, with Neurora providing structured recommendations and execution. Owners remain in control of their property at all times, and no decision bypasses the Committee."
+      },
+      {
+        "title": "Documented Meetings",
+        "desc": "Minutes, votes, and resolutions properly prepared and filed.",
+        "detail": "Every General Meeting and Committee meeting is formally documented. Agendas, minutes, votes, and resolutions are prepared in compliance with Cap. 224 and filed in an organized archive available to owners, ensuring full traceability of every decision."
+      }
+    ]
+  },
+  "automation": {
+    "eyebrow": "Automation & Billing",
+    "title": "Nothing gets missed. Nothing gets delayed.",
+    "subtitle": "Reliable. Predictable. Systemized.",
+    "items": [
+      {
+        "title": "Standing Orders for Utilities",
+        "desc": "Electricity, water, and lifts paid automatically. No late payments. Ever.",
+        "detail": "Standing orders are configured directly with the utility providers and the property's bank account. Bills are settled automatically the moment they're due, eliminating any risk of late fees, service interruptions, or forgotten payments. Owners no longer rely on someone remembering to pay."
+      },
+      {
+        "title": "Invoices on the 1st",
+        "desc": "Monthly invoices sent automatically to every owner on the first of the month.",
+        "detail": "Every owner receives a clear, itemized invoice on the first day of each month, generated automatically and delivered consistently. Payments can be made by standing order, bank transfer, or in advance, giving residents full flexibility while keeping cash flow predictable."
+      },
+      {
+        "title": "Fully Itemized Billing",
+        "desc": "Every line explained. Owners know exactly what they're paying for.",
+        "detail": "Each invoice breaks down every charge: common expenses, utilities, maintenance, repairs, and special funds. Owners see exactly where every euro goes, with supporting documentation available on request. No vague totals, no hidden line items."
+      },
+      {
+        "title": "Auditable History",
+        "desc": "Complete record of charges, payments, and works, accessible anytime.",
+        "detail": "Every transaction, invoice, payment, and intervention is recorded in a structured archive. The Management Committee can review the full operational and financial history of the property at any time, supporting transparency, audits, and informed decision-making."
+      }
+    ]
+  },
+  "finalCta": {
+    "titleLead": "If your property matters,",
+    "titleAccent": "run it properly.",
+    "cta": "Request a Proposal"
+  },
+  "contact": {
+    "eyebrow": "Request a Proposal",
+    "title": "Tell us about your property.",
+    "subtitle": "We'll review your building or residential complex and prepare a tailored, fully structured proposal with clear costs and next steps.",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "coverageLabel": "Coverage",
+    "coverageValue": "Cyprus-Wide",
+    "stepOf": "Step {{step}} of {{total}}",
+    "stepLabels": {
+      "1": "Property Type",
+      "2": "Property Details",
+      "3": "Services Interested In",
+      "4": "Your Role",
+      "5": "Contact"
+    },
+    "step1": {
+      "location": "Location",
+      "units": "Number of units",
+      "projectType": "Property Type",
+      "locations": [
+        "Nicosia",
+        "Limassol",
+        "Larnaca",
+        "Paphos",
+        "Ayia Napa",
+        "Protaras"
+      ],
+      "unitRanges": [
+        "1–10",
+        "10–30",
+        "30–60",
+        "60+"
+      ],
+      "projectTypes": [
+        "Building",
+        "Residential Complex",
+        "Apartment",
+        "House",
+        "Villa",
+        "Commercial"
+      ],
+      "optionalInfo": {
+        "eyebrow": "Optional",
+        "title": "Additional Property Information",
+        "subtitle": "Bank account, insurance, elevator, utilities and more"
+      }
+    },
+    "step2": {
+      "projectName": "Property Name",
+      "year": "Year of Construction",
+      "selectYear": "Select year",
+      "floors": "Number of Floors",
+      "units": "Number of Units",
+      "floorsPlaceholder": "1–100",
+      "unitsPlaceholder": "1–500",
+      "hasBank": "Does the property have a bank account?",
+      "bankName": "Bank Name",
+      "hasInsurance": "Is the property insured?",
+      "insuranceName": "Insurance Company Name",
+      "hasElevator": "Does the property have an elevator?",
+      "elevatorCompany": "Service Company Name",
+      "electricity": "Electricity Costs (estimated)",
+      "water": "Water Costs (estimated)",
+      "hasCommittee": "Does the property have a Management Committee?",
+      "hasTitleDeeds": "Title Deeds?",
+      "hasMinutes": "Does the property have General Assembly Minutes?",
+      "extra": "Any other information you could provide about the property",
+      "selectYesToEnable": "Select Yes to enable"
+    },
+    "step3": {
+      "title": "I am interested in (please check all the boxes that apply to your situation)",
+      "subtitle": "Select all that apply.",
+      "other": "Other",
+      "otherPlaceholder": "Please specify",
+      "otherDisabled": "Select Other to enable",
+      "services": [
+        "Building Management Services",
+        "Cleaning Services",
+        "Garden Maintenance",
+        "Pool Maintenance",
+        "Pest Control Services",
+        "Roof Maintenance",
+        "Renovations",
+        "Property Special Fund Management",
+        "Fire Extinguisher & Fire Safety Management & Maintenance",
+        "Garbage Bins Cleaning Services",
+        "Water Tank Cleaning Services",
+        "Bills Management",
+        "Sewerage Cleaning & Maintenance Services",
+        "Common Heating Management & Maintenance"
+      ],
+      "otherPrefix": "Other"
+    },
+    "step4": {
+      "issuesTitle": "What are the current issues your property is facing?",
+      "selectAll": "Select all that apply.",
+      "isCommittee": "Are you on the Management Committee?",
+      "isDeveloper": "Are you a developer?",
+      "issues": [
+        "Payments inconsistent",
+        "No transparency",
+        "Maintenance issues",
+        "Poor communication",
+        "No structured management"
+      ]
+    },
+    "step5": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "phone": "Phone Number",
+      "email": "Email",
+      "address": "Property Address",
+      "city": "City",
+      "area": "Area",
+      "streetName": "Street Name",
+      "streetNumber": "Street Number",
+      "postCode": "Post Code",
+      "mapPlaceholder": "Enter address to preview location",
+      "hearAbout": "How did you hear about us?",
+      "hearAboutOptions": [
+        "Google",
+        "Social Media",
+        "Word of Mouth",
+        "Recommended by an acquaintance"
+      ],
+      "submit": "Submit Request",
+      "submitting": "Sending...",
+      "mapTitle": "Property location preview",
+      "recommendationName": "Name of the person or company that recommended us (optional)"
+    },
+    "step6": {
+      "title": "Request received.",
+      "body": "We will review your property and prepare a tailored proposal. Expect to hear from us shortly.",
+      "again": "Submit another"
+    },
+    "yes": "Yes",
+    "no": "No",
+    "back": "Back",
+    "continue": "Continue",
+    "errors": {
+      "completeAll": "Complete all fields",
+      "answerBoth": "Please answer both questions",
+      "review": "Please review the form",
+      "firstName": "Please enter your first name",
+      "lastName": "Please enter your last name",
+      "email": "Invalid email address",
+      "phone": "Please enter a valid phone",
+      "requiredFields": "Please complete all required fields.",
+      "submissionFailedTitle": "Submission failed",
+      "submissionFailedDescription": "Please try again or contact us directly by email."
+    },
+    "aria": {
+      "email": "Email Neurora at neuroraproperties@gmail.com",
+      "phone": "Call Neurora at +357 99 203 600",
+      "whatsapp": "WhatsApp Neurora",
+      "viber": "Viber Neurora",
+      "facebook": "Facebook Neurora",
+      "instagram": "Instagram Neurora",
+      "coverageMap": "View Neurora Cyprus-wide coverage on Google Maps"
+    }
+  },
+  "servicesPage": {
+    "metaTitle": "Services | Neurora Property Management Ltd",
+    "metaDescription": "Discover the services Neurora Property Management provides to simplify residential property management and bring better control to shared buildings across Cyprus.",
+    "hero": {
+      "titleLead": "Property Management",
+      "titleRest": "services delivered with structure, visibility, and control.",
+      "subtitleBefore": "Discover the services",
+      "brand": "Neurora Property Management",
+      "subtitleAfter": "provides to simplify residential property management and bring better control to shared buildings across Cyprus.",
+      "cta": "View Services"
+    },
+    "catalogue": {
+      "eyebrow": "Service Categories",
+      "title": "A complete service framework for smooth property operations.",
+      "categoryLabel": "Category",
+      "brandLine": "Neurora Property Management",
+      "serviceIntro": "Select a service below to see what it includes and how it supports the day-to-day operation of the property.",
+      "modalBrandLine": "Neurora Property Management"
+    },
+    "categories": {
+      "cleaning": "Cleaning",
+      "commonExpenses": "Common Expenses",
+      "communication": "Communication",
+      "maintenanceRepairs": "Maintenance & Repairs",
+      "financial": "Financial",
+      "legal": "Legal",
+      "managementAdministration": "Management & Administration",
+      "amenitiesSharedFacilities": "Amenities & Shared Facilities"
+    },
+    "serviceItems": {
+      "management-administration": [
+        {
+          "title": "Property Onboarding",
+          "summary": "Structured setup for each property before management begins.",
+          "detail": "We organize the initial management framework for the property, including records, operational requirements, communication channels, and the information needed to begin managing the building or residential complex properly."
+        },
+        {
+          "title": "Management Committee Coordination",
+          "summary": "Ongoing coordination with the Management Committee for smoother operations.",
+          "detail": "We support the Management Committee with clear communication, organized follow-up, and practical coordination so decisions can be handled efficiently and daily property operations remain structured."
+        },
+        {
+          "title": "Resident Records",
+          "summary": "Organized records for owners, residents, units, and contact details.",
+          "detail": "We help maintain structured records for the property, including owner and resident details, unit information, contact records, and other important property-related information."
+        },
+        {
+          "title": "Utility Supplier Coordination",
+          "summary": "Coordination with utility providers and key property suppliers.",
+          "detail": "We coordinate with utility providers and suppliers connected to the property, helping communication, follow-up, and operational matters stay organized."
+        }
+      ],
+      "common-expenses": [
+        {
+          "title": "Monthly Common Expenses Issuance",
+          "summary": "Clear monthly issuance of common expenses for the property.",
+          "detail": "We prepare and issue monthly common expenses in a clear and structured way, helping residents understand their obligations while giving the Management Committee better visibility over the process."
+        },
+        {
+          "title": "Payment Tracking",
+          "summary": "Tracking collected and pending common expense payments.",
+          "detail": "We track common expense payments so the Management Committee can see what has been collected, what remains pending, and where follow-up may be required."
+        },
+        {
+          "title": "Unpaid Balance Follow-Up",
+          "summary": "Professional follow-up on delayed or unpaid balances.",
+          "detail": "We follow up on unpaid balances in a professional and organized way, helping improve collection consistency and reduce delays in the property's common expense payments."
+        }
+      ],
+      "cleaning": [
+        {
+          "title": "Cleaning of Common Areas",
+          "summary": "Scheduled cleaning for shared areas in apartment buildings and residential complexes.",
+          "detail": "We coordinate cleaning for shared areas such as entrances, corridors, staircases, lifts, lobbies, and other common spaces, helping the property remain clean, presentable, and properly maintained."
+        },
+        {
+          "title": "Post-Construction Cleaning",
+          "summary": "Initial cleaning after construction, before the property is presented for viewing.",
+          "detail": "This service is the first cleaning after construction has finished. It focuses on removing dust, light debris, and construction residue so the property is ready for first viewing. It is not a deep cleaning service."
+        },
+        {
+          "title": "Apartment and House Handover Cleaning",
+          "summary": "Cleaning of vacant apartments or houses before handover or first occupancy.",
+          "detail": "We clean empty apartments or houses at the end of tenancy, or before the first occupants move into a brand-new property. This service applies only to vacant units with no belongings inside. We do not clean occupied homes or units containing personal belongings."
+        }
+      ],
+      "maintenance-repairs": [
+        {
+          "title": "Routine Maintenance of Common Areas",
+          "summary": "Regular support for keeping shared areas functional and presentable.",
+          "detail": "We coordinate routine maintenance for shared areas to help keep the property safe, functional, and presentable for residents and visitors."
+        },
+        {
+          "title": "Repair Coordination",
+          "summary": "Coordination of required repairs when issues arise.",
+          "detail": "When repairs are needed, we coordinate the process with the relevant contractors, follow up on the issue, and help ensure the matter is handled in an organized way."
+        },
+        {
+          "title": "Contractor Quotations",
+          "summary": "Requesting contractor offers for required repair or maintenance work.",
+          "detail": "When repair or maintenance work is required, we can request offers from contractors so the Management Committee has clear options before making a decision."
+        }
+      ],
+      "amenities-shared-facilities": [
+        {
+          "title": "Pool Cleaning & Maintenance",
+          "summary": "Coordination of cleaning and maintenance for shared swimming pools.",
+          "detail": "We coordinate pool cleaning and maintenance to help keep shared swimming pool areas clean, safe, and properly maintained."
+        },
+        {
+          "title": "Gardening & Landscaping of Common Areas",
+          "summary": "Coordination of landscaping and garden care for shared outdoor areas.",
+          "detail": "We coordinate gardening and landscaping for common outdoor areas, helping the property maintain a clean, well-kept, and professional appearance."
+        },
+        {
+          "title": "Common Area Supervision",
+          "summary": "Supervision of shared areas to monitor standards and identify issues.",
+          "detail": "We supervise common areas to identify maintenance issues, monitor cleaning and usage standards, and support the proper operation of communal spaces."
+        },
+        {
+          "title": "Shared Facility Cleaning & Maintenance",
+          "summary": "Support for gyms, common rooms, and other shared facilities.",
+          "detail": "We coordinate cleaning and maintenance for common gyms, common rooms, shared facilities, and any other communal areas that form part of the property."
+        }
+      ],
+      "communication": [
+        {
+          "title": "Management Committee Viber/WhatsApp Group",
+          "summary": "A dedicated group for Management Committee coordination.",
+          "detail": "We create and use a dedicated Viber or WhatsApp group for the Management Committee, focused on coordination, updates, decisions, and day-to-day communication."
+        },
+        {
+          "title": "Residents Viber/WhatsApp Group",
+          "summary": "A dedicated group for resident communication and transparency.",
+          "detail": "We create and use a dedicated Viber or WhatsApp group for residents, helping keep everyone informed with announcements, updates, scheduled works, and important property communication."
+        },
+        {
+          "title": "Follow-Ups by Phone and Email",
+          "summary": "Follow-ups with residents, committees, contractors, and providers.",
+          "detail": "We follow up with residents, the Management Committee, contractors, and utility providers by phone and email when needed, keeping communication organized and traceable."
+        }
+      ],
+      "financial": [
+        {
+          "title": "Bank Account Opening Support",
+          "summary": "Support for opening a property bank account in the Management Committee's name.",
+          "detail": "We support the Management Committee during the bank account opening process. With our working method, each apartment building or residential complex has its own bank account in the Management Committee's name, so the money stays with the client, not with us. This provides full transparency and full control over the property's finances."
+        },
+        {
+          "title": "Income and Expense Records",
+          "summary": "Organized records of property income and expenses.",
+          "detail": "We keep organized records of income and expenses connected to the property, helping the Management Committee maintain a clear picture of financial activity."
+        },
+        {
+          "title": "Payment Tracking",
+          "summary": "Clear tracking of incoming payments and pending balances.",
+          "detail": "We track payments and pending balances so the Management Committee can maintain better financial visibility and understand where follow-up may be required."
+        },
+        {
+          "title": "Budget Planning",
+          "summary": "Planning support for recurring costs and future property needs.",
+          "detail": "We support budget planning for recurring costs, expected works, maintenance needs, and future property requirements, helping the Management Committee prepare with more clarity."
+        },
+        {
+          "title": "Reserve Fund",
+          "summary": "A reserve fund for future repairs, replacements, and unexpected costs.",
+          "detail": "For each apartment building or residential complex, we help create and maintain a reserve fund. The purpose of the reserve fund is to prepare for future expenses, so when something breaks or needs replacement, the property is financially ready to act."
+        }
+      ],
+      "legal": [
+        {
+          "title": "General Meeting Minutes",
+          "summary": "Recording and filing of general meeting minutes.",
+          "detail": "We record and file the minutes of general meetings so property decisions, discussions, and agreed actions remain properly documented."
+        },
+        {
+          "title": "Bank-Related Minutes and Records",
+          "summary": "Documentation support for bank-related property records.",
+          "detail": "We record and file bank-related minutes, resolutions, and documents required for account opening, account updates, signatory changes, or other banking matters connected to the property."
+        },
+        {
+          "title": "Legal Support for the Management Committee",
+          "summary": "Support with property-management legal matters when needed.",
+          "detail": "We support the Management Committee with property-management legal matters, including documentation and coordination with legal professionals when specialist advice or formal legal assistance is required."
+        },
+        {
+          "title": "Cap. 224 Compliance",
+          "summary": "Management aligned with Cyprus property management requirements.",
+          "detail": "Our management practices are structured to comply with the Immovable Property (Tenure, Registration and Valuation) Law, Cap. 224, supporting proper administration and responsible management of shared properties."
+        }
+      ]
+    },
+    "coverage": {
+      "eyebrow": "Cyprus-Wide Coverage",
+      "titleLead": "Property management",
+      "titleRest": "across Cyprus.",
+      "body": "Neurora Property Management supports apartment buildings, residential complexes and shared properties across Paphos, Limassol, Larnaca, Nicosia, Ayia Napa and Protaras.",
+      "cityIntro": "Explore coverage by area",
+      "panelTitle": "One structured standard, every location.",
+      "panelBody": "The same system applies whether the property is in a city centre, coastal area or residential complex: clear communication, common expense control, maintenance coordination and documented operations.",
+      "cta": "Request Assessment"
+    }
+  },
+  "footer": {
+    "groups": {
+      "company": {
+        "title": "Company",
+        "items": {
+          "about": "Who We Are",
+          "handle": "What We Handle",
+          "process": "Operating System",
+          "contact": "Contact",
+          "privacyPolicy": "Privacy Policy"
+        }
+      },
+      "operations": {
+        "title": "Operations",
+        "items": {
+          "communication": "Communication",
+          "financial": "Financial Control",
+          "automation": "Automation & Billing",
+          "legal": "Legal Support"
+        }
+      },
+      "coverage": {
+        "title": "Coverage",
+        "items": {
+          "cyprus": "Cyprus",
+          "paphos": "Paphos",
+          "limassol": "Limassol",
+          "larnaca": "Larnaca",
+          "nicosia": "Nicosia",
+          "ayiaNapa": "Ayia Napa",
+          "protaras": "Protaras"
+        }
+      }
+    },
+    "hours": {
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "weekdaysHours": "8:00 - 13:00 | 14:00 - 17:00",
+      "friday": "Friday",
+      "fridayHours": "8:00 - 13:00",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "closed": "Closed",
+      "title": "Working Hours"
+    },
+    "rights": "© {{year}} Neurora Property Management Ltd. All rights reserved.",
+    "coverageMapAlt": "Cyprus-wide coverage map showing Nicosia, Limassol, Larnaca, Paphos, Ayia Napa and Protaras",
+    "coveragePinAria": "{{location}} property management",
+    "aria": {
+      "whatsapp": "Contact Neurora on WhatsApp",
+      "viber": "Contact Neurora on Viber",
+      "facebook": "Open Neurora Facebook",
+      "instagram": "Open Neurora Instagram",
+      "email": "Email Neurora at neuroraproperties@gmail.com",
+      "phone": "Call Neurora at +357 99 203 600"
+    }
+  },
+  "seo": {
+    "title": "Neurora Property Management Ltd | Structured Property Management in Cyprus",
+    "description": "Take control of your building or residential complex. Structured property management for Cyprus, with full transparency, committee-owned bank account, and Cap. 224 compliance.",
+    "ldDescription": "Structured property management for Cyprus buildings and residential complexes. Cap. 224 compliant."
+  },
+  "privacyPolicy": {
+    "metaTitle": "Privacy Policy | Neurora Property Management Ltd",
+    "metaDescription": "Privacy Policy for Neurora Property Management Ltd, explaining how website enquiries, contact form submissions, analytics data, and personal information are handled.",
+    "hero": {
+      "eyebrow": "Legal Information",
+      "title": "Privacy Policy",
+      "subtitle": "This Privacy Policy explains how Neurora Property Management Ltd collects, uses, stores, and protects personal data submitted through this website.",
+      "effectiveDate": "Effective date: 25 June 2026"
+    },
+    "controller": {
+      "label": "Controller contact:",
+      "company": "Neurora Property Management Ltd",
+      "emailLabel": "email"
+    },
+    "sections": [
+      {
+        "title": "1. Who we are",
+        "body": [
+          "This website is operated by Neurora Property Management Ltd, a property management company based in Cyprus.",
+          "For privacy-related questions, you can contact us at neuroraproperties@gmail.com."
+        ]
+      },
+      {
+        "title": "2. Information we collect",
+        "body": [
+          "When you use our contact or proposal form, we may collect the information you choose to provide, including your name, email address, phone number, property type, property name, location, address, year of construction, number of floors, number of units, notes, and any other details submitted through the form.",
+          "We may also collect basic technical and usage information through Google Analytics, such as page views, interactions, approximate location, browser type, device type, and referral source."
+        ]
+      },
+      {
+        "title": "3. How we use your information",
+        "body": [
+          "We use the information submitted through the website to respond to enquiries, prepare proposals, communicate with potential clients, understand the needs of a property, improve our website, and maintain website security and reliability.",
+          "Analytics information is used to understand how visitors use the website and to improve the website experience and performance."
+        ]
+      },
+      {
+        "title": "4. Legal basis for processing",
+        "body": [
+          "Depending on the context, we may process personal data because it is necessary to respond to your enquiry or take steps before entering into a contract, because we have a legitimate interest in operating and improving our website and services, because we need to comply with legal obligations, or because you have given consent where consent is required."
+        ]
+      },
+      {
+        "title": "5. Sharing of information",
+        "body": [
+          "We do not sell personal data. We may share limited information with service providers that help us operate the website, receive form submissions, send emails, host the website, or measure website performance, including Cloudflare, Resend, Google Analytics, and similar technical providers where relevant.",
+          "These providers may process data outside Cyprus or the European Economic Area where their infrastructure or support teams operate, subject to applicable data protection safeguards."
+        ]
+      },
+      {
+        "title": "6. Cookies and analytics",
+        "body": [
+          "The website uses necessary technologies required for the site to work correctly. These may support basic functions such as security, language selection, form operation, and saving your cookie preferences.",
+          "Optional analytics cookies are used only if you give consent. When accepted, Google Analytics may help us understand page views, visitor interactions, approximate location, device type, browser type, and referral source so we can improve the website.",
+          "You can accept, reject, or manage optional cookies through the cookie banner. You can also update your preferences from this Privacy Policy page."
+        ]
+      },
+      {
+        "title": "7. How long we keep information",
+        "body": [
+          "We keep enquiry and communication records only for as long as reasonably necessary to respond to the enquiry, prepare a proposal, maintain business records, resolve disputes, or comply with legal obligations.",
+          "Analytics data is retained according to the settings and retention periods configured in Google Analytics."
+        ]
+      },
+      {
+        "title": "8. Your rights",
+        "body": [
+          "Subject to applicable law, you may have the right to request access to your personal data, correction of inaccurate data, deletion of data, restriction of processing, objection to processing, data portability, and withdrawal of consent where processing is based on consent.",
+          "You may also have the right to lodge a complaint with the Office of the Commissioner for Personal Data Protection in Cyprus."
+        ]
+      },
+      {
+        "title": "9. Security",
+        "body": [
+          "We take reasonable technical and organisational measures to protect personal data submitted through the website. However, no online transmission or storage system can be guaranteed to be completely secure."
+        ]
+      },
+      {
+        "title": "10. Updates to this policy",
+        "body": [
+          "We may update this Privacy Policy from time to time. The updated version will be published on this page with a revised effective date."
+        ]
+      }
+    ],
+    "finalContact": {
+      "prefix": "To exercise privacy rights or ask a question about this policy, contact us at",
+      "suffix": "."
+    },
+    "cookiePreferences": {
+      "title": "Cookie preferences",
+      "body": "You can update your optional cookie choices at any time from this page. Necessary cookies remain active because they are required for the website to function properly.",
+      "button": "Open Cookie Preferences"
+    }
+  },
+  "locationPages": {
+    "shared": {
+      "heroEyebrow": "Cyprus-Wide Coverage",
+      "primaryCta": "Request Assessment",
+      "secondaryCta": "View Services",
+      "introEyebrow": "Property Management · {{location}}",
+      "localContextEyebrow": "Local Management Context",
+      "issuesCardTitle": "What usually breaks down",
+      "servicesEyebrow": "What We Handle",
+      "servicesTitle": "One management partner for the operational work behind your property.",
+      "servicesBody": "Neurora combines common expenses, communication, financial control, maintenance coordination and records into one structured management system.",
+      "coverageEyebrow": "Coverage Areas",
+      "coverageTitle": "Property management services across Cyprus.",
+      "coverageBody": "We provide structured property management in key areas across Cyprus. Each area page helps owners understand how Neurora supports properties in that location.",
+      "questionsEyebrow": "Questions",
+      "questionsTitle": "Property management questions in {{location}}.",
+      "ctaTitle": "Need property management in {{location}}?",
+      "ctaBody": "Tell us about your apartment building, residential complex or shared property. We will review the situation and prepare a clear proposal based on the property's real operational needs."
+    },
+    "locations": {
+      "cyprus": "Cyprus",
+      "paphos": "Paphos",
+      "limassol": "Limassol",
+      "larnaca": "Larnaca",
+      "nicosia": "Nicosia",
+      "ayiaNapa": "Ayia Napa",
+      "protaras": "Protaras"
+    },
+    "services": [
+      {
+        "title": "Common expenses",
+        "desc": "Monthly common expenses are organized, issued and tracked through a clear process."
+      },
+      {
+        "title": "Financial control",
+        "desc": "Property funds stay connected to the property, with visibility for the Management Committee."
+      },
+      {
+        "title": "Communication",
+        "desc": "Residents and committees get direct communication channels for updates and follow-up."
+      },
+      {
+        "title": "Maintenance coordination",
+        "desc": "Cleaning, repairs, landscaping, utilities and supplier matters are coordinated in one place."
+      },
+      {
+        "title": "Legal support",
+        "desc": "Decisions, records and management actions are supported by proper structure and documentation."
+      },
+      {
+        "title": "Documentation",
+        "desc": "Payments, expenses, minutes, decisions and operational updates are kept organized."
+      }
+    ],
+    "pages": {
+      "cyprus": {
+        "name": "Cyprus",
+        "slug": "property-management-cyprus",
+        "metaTitle": "Property Management Cyprus | Neurora Property Management",
+        "metaDescription": "Cyprus-wide property management for apartment buildings, residential complexes and shared properties. Financial control, common expenses, communication and maintenance coordination.",
+        "heroTitle": "Property Management in Cyprus",
+        "subtitle": "Structured property management for apartment buildings, residential complexes and shared properties across Cyprus.",
+        "introTitle": "Cyprus-wide property management with one clear operating system.",
+        "introBody": "Neurora Property Management supports Management Committees, owners, residents and developers with a structured approach to common expenses, communication, maintenance coordination, documentation and financial visibility. Neurora helps Management Committees, owners and residents keep daily property management under control.",
+        "localTitle": "Built for buildings and residential complexes across Cyprus.",
+        "localBody": "When communication, payments, maintenance and records are not connected through one system, management becomes slow and unclear. We create a transparent framework where every action has responsibility and follow-up.",
+        "focusPoints": [
+          "Management support for apartment buildings, residential complexes and shared properties.",
+          "Direct WhatsApp and Viber communication for faster coordination.",
+          "Common expenses, maintenance, cleaning and records handled through one management point."
+        ],
+        "issueTitle": "Common property management issues in Cyprus.",
+        "issueIntro": "Shared properties often start struggling when decisions, payments and maintenance are handled informally. Without a fixed structure, small issues can become delays, disputes or unnecessary costs.",
+        "issues": [
+          "Common expenses are not always collected or followed up consistently.",
+          "Owners, residents and committees rely on scattered conversations instead of one clear channel.",
+          "Maintenance, repairs and supplier matters are handled only after problems appear.",
+          "Decisions, payments and property records are not always documented in one place."
+        ],
+        "supportTitle": "How Neurora supports Cyprus properties.",
+        "supportIntro": "Neurora brings the property into a structured operating system, so communication, funds, suppliers and records are managed through one clear framework.",
+        "supportItems": [
+          "Set up communication channels for residents, owners and the Management Committee.",
+          "Organize monthly common expenses, payment tracking and financial visibility.",
+          "Coordinate suppliers, maintenance, cleaning, utilities and operational follow-up.",
+          "Keep decisions, expenses, minutes and management actions properly documented."
+        ],
+        "faq": [
+          {
+            "question": "Does Neurora provide property management in Cyprus?",
+            "answer": "Yes. Neurora provides structured property management services for apartment buildings, residential complexes and shared properties in Cyprus."
+          },
+          {
+            "question": "What types of properties do you manage?",
+            "answer": "We manage apartment buildings, residential complexes, houses within complexes, commercial units and shared properties that require structured administration and operational control."
+          }
+        ]
+      },
+      "paphos": {
+        "name": "Paphos",
+        "slug": "property-management-paphos",
+        "metaTitle": "Property Management Paphos | Neurora Property Management",
+        "metaDescription": "Property management in Paphos for apartment buildings, residential complexes and shared properties. Common expenses, communication, maintenance coordination and financial control.",
+        "heroTitle": "Property Management in Paphos",
+        "subtitle": "Structured management for Paphos apartment buildings, residential complexes and shared properties that need clarity and control.",
+        "introTitle": "A clearer management structure for Paphos properties.",
+        "introBody": "Paphos includes permanent residences, apartment buildings, holiday-use properties and residential complexes with owners who may not always be on site. Neurora helps Management Committees, owners and residents keep daily property management under control.",
+        "localTitle": "Property management designed for Paphos ownership realities.",
+        "localBody": "When communication, payments, maintenance and records are not connected through one system, management becomes slow and unclear. We create a transparent framework where every action has responsibility and follow-up.",
+        "focusPoints": [
+          "Management support for apartment buildings, residential complexes and shared properties.",
+          "Direct WhatsApp and Viber communication for faster coordination.",
+          "Common expenses, maintenance, cleaning and records handled through one management point."
+        ],
+        "issueTitle": "Common property management issues in Paphos.",
+        "issueIntro": "Shared properties often start struggling when decisions, payments and maintenance are handled informally. Without a fixed structure, small issues can become delays, disputes or unnecessary costs.",
+        "issues": [
+          "Common expenses are not always collected or followed up consistently.",
+          "Owners, residents and committees rely on scattered conversations instead of one clear channel.",
+          "Maintenance, repairs and supplier matters are handled only after problems appear.",
+          "Decisions, payments and property records are not always documented in one place."
+        ],
+        "supportTitle": "How Neurora supports Paphos properties.",
+        "supportIntro": "Neurora brings the property into a structured operating system, so communication, funds, suppliers and records are managed through one clear framework.",
+        "supportItems": [
+          "Set up communication channels for residents, owners and the Management Committee.",
+          "Organize monthly common expenses, payment tracking and financial visibility.",
+          "Coordinate suppliers, maintenance, cleaning, utilities and operational follow-up.",
+          "Keep decisions, expenses, minutes and management actions properly documented."
+        ],
+        "faq": [
+          {
+            "question": "Does Neurora provide property management in Paphos?",
+            "answer": "Yes. Neurora provides structured property management services for apartment buildings, residential complexes and shared properties in Paphos."
+          },
+          {
+            "question": "What types of properties do you manage?",
+            "answer": "We manage apartment buildings, residential complexes, houses within complexes, commercial units and shared properties that require structured administration and operational control."
+          }
+        ]
+      },
+      "limassol": {
+        "name": "Limassol",
+        "slug": "property-management-limassol",
+        "metaTitle": "Property Management Limassol | Neurora Property Management",
+        "metaDescription": "Property management in Limassol for apartment buildings, residential complexes and shared properties. Common expenses, communication, maintenance coordination and financial control.",
+        "heroTitle": "Property Management in Limassol",
+        "subtitle": "Structured management for Limassol apartment buildings, residential complexes and shared properties that need clarity and control.",
+        "introTitle": "Structured management for busy Limassol properties.",
+        "introBody": "Limassol properties often involve larger buildings, active resident groups, new developments and higher expectations around communication and maintenance. Neurora helps Management Committees, owners and residents keep daily property management under control.",
+        "localTitle": "Built for larger buildings and active residential communities.",
+        "localBody": "When communication, payments, maintenance and records are not connected through one system, management becomes slow and unclear. We create a transparent framework where every action has responsibility and follow-up.",
+        "focusPoints": [
+          "Management support for apartment buildings, residential complexes and shared properties.",
+          "Direct WhatsApp and Viber communication for faster coordination.",
+          "Common expenses, maintenance, cleaning and records handled through one management point."
+        ],
+        "issueTitle": "Common property management issues in Limassol.",
+        "issueIntro": "Shared properties often start struggling when decisions, payments and maintenance are handled informally. Without a fixed structure, small issues can become delays, disputes or unnecessary costs.",
+        "issues": [
+          "Common expenses are not always collected or followed up consistently.",
+          "Owners, residents and committees rely on scattered conversations instead of one clear channel.",
+          "Maintenance, repairs and supplier matters are handled only after problems appear.",
+          "Decisions, payments and property records are not always documented in one place."
+        ],
+        "supportTitle": "How Neurora supports Limassol properties.",
+        "supportIntro": "Neurora brings the property into a structured operating system, so communication, funds, suppliers and records are managed through one clear framework.",
+        "supportItems": [
+          "Set up communication channels for residents, owners and the Management Committee.",
+          "Organize monthly common expenses, payment tracking and financial visibility.",
+          "Coordinate suppliers, maintenance, cleaning, utilities and operational follow-up.",
+          "Keep decisions, expenses, minutes and management actions properly documented."
+        ],
+        "faq": [
+          {
+            "question": "Does Neurora provide property management in Limassol?",
+            "answer": "Yes. Neurora provides structured property management services for apartment buildings, residential complexes and shared properties in Limassol."
+          },
+          {
+            "question": "What types of properties do you manage?",
+            "answer": "We manage apartment buildings, residential complexes, houses within complexes, commercial units and shared properties that require structured administration and operational control."
+          }
+        ]
+      },
+      "larnaca": {
+        "name": "Larnaca",
+        "slug": "property-management-larnaca",
+        "metaTitle": "Property Management Larnaca | Neurora Property Management",
+        "metaDescription": "Property management in Larnaca for apartment buildings, residential complexes and shared properties. Common expenses, communication, maintenance coordination and financial control.",
+        "heroTitle": "Property Management in Larnaca",
+        "subtitle": "Structured management for Larnaca apartment buildings, residential complexes and shared properties that need clarity and control.",
+        "introTitle": "Bringing structure to Larnaca shared properties.",
+        "introBody": "Larnaca buildings and residential properties need consistent communication, predictable common expenses and proper follow-up with suppliers. Neurora helps Management Committees, owners and residents keep daily property management under control.",
+        "localTitle": "A practical system for day-to-day property operations.",
+        "localBody": "When communication, payments, maintenance and records are not connected through one system, management becomes slow and unclear. We create a transparent framework where every action has responsibility and follow-up.",
+        "focusPoints": [
+          "Management support for apartment buildings, residential complexes and shared properties.",
+          "Direct WhatsApp and Viber communication for faster coordination.",
+          "Common expenses, maintenance, cleaning and records handled through one management point."
+        ],
+        "issueTitle": "Common property management issues in Larnaca.",
+        "issueIntro": "Shared properties often start struggling when decisions, payments and maintenance are handled informally. Without a fixed structure, small issues can become delays, disputes or unnecessary costs.",
+        "issues": [
+          "Common expenses are not always collected or followed up consistently.",
+          "Owners, residents and committees rely on scattered conversations instead of one clear channel.",
+          "Maintenance, repairs and supplier matters are handled only after problems appear.",
+          "Decisions, payments and property records are not always documented in one place."
+        ],
+        "supportTitle": "How Neurora supports Larnaca properties.",
+        "supportIntro": "Neurora brings the property into a structured operating system, so communication, funds, suppliers and records are managed through one clear framework.",
+        "supportItems": [
+          "Set up communication channels for residents, owners and the Management Committee.",
+          "Organize monthly common expenses, payment tracking and financial visibility.",
+          "Coordinate suppliers, maintenance, cleaning, utilities and operational follow-up.",
+          "Keep decisions, expenses, minutes and management actions properly documented."
+        ],
+        "faq": [
+          {
+            "question": "Does Neurora provide property management in Larnaca?",
+            "answer": "Yes. Neurora provides structured property management services for apartment buildings, residential complexes and shared properties in Larnaca."
+          },
+          {
+            "question": "What types of properties do you manage?",
+            "answer": "We manage apartment buildings, residential complexes, houses within complexes, commercial units and shared properties that require structured administration and operational control."
+          }
+        ]
+      },
+      "nicosia": {
+        "name": "Nicosia",
+        "slug": "property-management-nicosia",
+        "metaTitle": "Property Management Nicosia | Neurora Property Management",
+        "metaDescription": "Property management in Nicosia for apartment buildings, residential complexes and shared properties. Common expenses, communication, maintenance coordination and financial control.",
+        "heroTitle": "Property Management in Nicosia",
+        "subtitle": "Structured management for Nicosia apartment buildings, residential complexes and shared properties that need clarity and control.",
+        "introTitle": "Professional structure for Nicosia apartment buildings.",
+        "introBody": "Nicosia properties often need strong administration, clear committee records, predictable common expenses and reliable communication. Neurora helps Management Committees, owners and residents keep daily property management under control.",
+        "localTitle": "Designed for committees that need clarity and accountability.",
+        "localBody": "When communication, payments, maintenance and records are not connected through one system, management becomes slow and unclear. We create a transparent framework where every action has responsibility and follow-up.",
+        "focusPoints": [
+          "Management support for apartment buildings, residential complexes and shared properties.",
+          "Direct WhatsApp and Viber communication for faster coordination.",
+          "Common expenses, maintenance, cleaning and records handled through one management point."
+        ],
+        "issueTitle": "Common property management issues in Nicosia.",
+        "issueIntro": "Shared properties often start struggling when decisions, payments and maintenance are handled informally. Without a fixed structure, small issues can become delays, disputes or unnecessary costs.",
+        "issues": [
+          "Common expenses are not always collected or followed up consistently.",
+          "Owners, residents and committees rely on scattered conversations instead of one clear channel.",
+          "Maintenance, repairs and supplier matters are handled only after problems appear.",
+          "Decisions, payments and property records are not always documented in one place."
+        ],
+        "supportTitle": "How Neurora supports Nicosia properties.",
+        "supportIntro": "Neurora brings the property into a structured operating system, so communication, funds, suppliers and records are managed through one clear framework.",
+        "supportItems": [
+          "Set up communication channels for residents, owners and the Management Committee.",
+          "Organize monthly common expenses, payment tracking and financial visibility.",
+          "Coordinate suppliers, maintenance, cleaning, utilities and operational follow-up.",
+          "Keep decisions, expenses, minutes and management actions properly documented."
+        ],
+        "faq": [
+          {
+            "question": "Does Neurora provide property management in Nicosia?",
+            "answer": "Yes. Neurora provides structured property management services for apartment buildings, residential complexes and shared properties in Nicosia."
+          },
+          {
+            "question": "What types of properties do you manage?",
+            "answer": "We manage apartment buildings, residential complexes, houses within complexes, commercial units and shared properties that require structured administration and operational control."
+          }
+        ]
+      },
+      "ayiaNapa": {
+        "name": "Ayia Napa",
+        "slug": "property-management-ayia-napa",
+        "metaTitle": "Property Management Ayia Napa | Neurora Property Management",
+        "metaDescription": "Property management in Ayia Napa for apartment buildings, residential complexes and shared properties. Common expenses, communication, maintenance coordination and financial control.",
+        "heroTitle": "Property Management in Ayia Napa",
+        "subtitle": "Structured management for Ayia Napa apartment buildings, residential complexes and shared properties that need clarity and control.",
+        "introTitle": "A management system for seasonal and residential properties in Ayia Napa.",
+        "introBody": "Ayia Napa properties often face seasonal use, changing occupancy and higher pressure on cleaning, maintenance and communication. Neurora helps Management Committees, owners and residents keep daily property management under control.",
+        "localTitle": "Clear coordination for properties that cannot rely on informal follow-up.",
+        "localBody": "When communication, payments, maintenance and records are not connected through one system, management becomes slow and unclear. We create a transparent framework where every action has responsibility and follow-up.",
+        "focusPoints": [
+          "Management support for apartment buildings, residential complexes and shared properties.",
+          "Direct WhatsApp and Viber communication for faster coordination.",
+          "Common expenses, maintenance, cleaning and records handled through one management point."
+        ],
+        "issueTitle": "Common property management issues in Ayia Napa.",
+        "issueIntro": "Shared properties often start struggling when decisions, payments and maintenance are handled informally. Without a fixed structure, small issues can become delays, disputes or unnecessary costs.",
+        "issues": [
+          "Common expenses are not always collected or followed up consistently.",
+          "Owners, residents and committees rely on scattered conversations instead of one clear channel.",
+          "Maintenance, repairs and supplier matters are handled only after problems appear.",
+          "Decisions, payments and property records are not always documented in one place."
+        ],
+        "supportTitle": "How Neurora supports Ayia Napa properties.",
+        "supportIntro": "Neurora brings the property into a structured operating system, so communication, funds, suppliers and records are managed through one clear framework.",
+        "supportItems": [
+          "Set up communication channels for residents, owners and the Management Committee.",
+          "Organize monthly common expenses, payment tracking and financial visibility.",
+          "Coordinate suppliers, maintenance, cleaning, utilities and operational follow-up.",
+          "Keep decisions, expenses, minutes and management actions properly documented."
+        ],
+        "faq": [
+          {
+            "question": "Does Neurora provide property management in Ayia Napa?",
+            "answer": "Yes. Neurora provides structured property management services for apartment buildings, residential complexes and shared properties in Ayia Napa."
+          },
+          {
+            "question": "What types of properties do you manage?",
+            "answer": "We manage apartment buildings, residential complexes, houses within complexes, commercial units and shared properties that require structured administration and operational control."
+          }
+        ]
+      },
+      "protaras": {
+        "name": "Protaras",
+        "slug": "property-management-protaras",
+        "metaTitle": "Property Management Protaras | Neurora Property Management",
+        "metaDescription": "Property management in Protaras for apartment buildings, residential complexes and shared properties. Common expenses, communication, maintenance coordination and financial control.",
+        "heroTitle": "Property Management in Protaras",
+        "subtitle": "Structured management for Protaras apartment buildings, residential complexes and shared properties that need clarity and control.",
+        "introTitle": "Clear management for Protaras residential and shared properties.",
+        "introBody": "Protaras properties may involve permanent residents, seasonal owners, holiday-use apartments and shared facilities. Neurora helps Management Committees, owners and residents keep daily property management under control.",
+        "localTitle": "Built for properties that need year-round visibility.",
+        "localBody": "When communication, payments, maintenance and records are not connected through one system, management becomes slow and unclear. We create a transparent framework where every action has responsibility and follow-up.",
+        "focusPoints": [
+          "Management support for apartment buildings, residential complexes and shared properties.",
+          "Direct WhatsApp and Viber communication for faster coordination.",
+          "Common expenses, maintenance, cleaning and records handled through one management point."
+        ],
+        "issueTitle": "Common property management issues in Protaras.",
+        "issueIntro": "Shared properties often start struggling when decisions, payments and maintenance are handled informally. Without a fixed structure, small issues can become delays, disputes or unnecessary costs.",
+        "issues": [
+          "Common expenses are not always collected or followed up consistently.",
+          "Owners, residents and committees rely on scattered conversations instead of one clear channel.",
+          "Maintenance, repairs and supplier matters are handled only after problems appear.",
+          "Decisions, payments and property records are not always documented in one place."
+        ],
+        "supportTitle": "How Neurora supports Protaras properties.",
+        "supportIntro": "Neurora brings the property into a structured operating system, so communication, funds, suppliers and records are managed through one clear framework.",
+        "supportItems": [
+          "Set up communication channels for residents, owners and the Management Committee.",
+          "Organize monthly common expenses, payment tracking and financial visibility.",
+          "Coordinate suppliers, maintenance, cleaning, utilities and operational follow-up.",
+          "Keep decisions, expenses, minutes and management actions properly documented."
+        ],
+        "faq": [
+          {
+            "question": "Does Neurora provide property management in Protaras?",
+            "answer": "Yes. Neurora provides structured property management services for apartment buildings, residential complexes and shared properties in Protaras."
+          },
+          {
+            "question": "What types of properties do you manage?",
+            "answer": "We manage apartment buildings, residential complexes, houses within complexes, commercial units and shared properties that require structured administration and operational control."
+          }
+        ]
+      }
+    }
+  },
+  "cookieConsent": {
+    "banner": {
+      "eyebrow": "Privacy Preferences",
+      "title": "We use cookies carefully.",
+      "body": "We use necessary cookies to keep the website working and optional analytics cookies to understand how visitors use the website.",
+      "privacyLink": "Privacy Policy"
+    },
+    "buttons": {
+      "acceptAll": "Accept All",
+      "rejectAll": "Reject All",
+      "manage": "Manage",
+      "save": "Save Preferences",
+      "close": "Close"
+    },
+    "preferences": {
+      "title": "Cookie preferences",
+      "body": "Choose which optional cookies Neurora Property Management Ltd may use on this website.",
+      "necessary": {
+        "title": "Necessary cookies",
+        "body": "Required for the website to work properly. These cannot be switched off here."
+      },
+      "analytics": {
+        "title": "Analytics cookies",
+        "body": "Help us understand website traffic and visitor behaviour through Google Analytics."
+      },
+      "marketing": {
+        "title": "Marketing cookies",
+        "body": "Reserved for future marketing tools. We do not load marketing tools unless this preference is accepted and such tools are added."
+      }
+    }
+  },
+  "logo": {
+    "alt": "Neurora Property Management logo"
+  },
+  "notFound": {
+    "title": "404",
+    "body": "Oops! Page not found",
+    "home": "Return to Home"
+  },
+  "floatingContact": {
+    "aria": {
+      "open": "Open quick contact menu",
+      "close": "Close quick contact menu",
+      "instagram": "Open Neurora Instagram",
+      "facebook": "Open Neurora Facebook",
+      "viber": "Contact Neurora on Viber",
+      "whatsapp": "Contact Neurora on WhatsApp",
+      "email": "Email Neurora",
+      "call": "Call Neurora"
+    }
+  },
+  "whyNeurora": {
+    "eyebrow": "Why Neurora",
+    "title": "A standard of care reserved for properties that matter.",
+    "subtitle": "Owners trust Neurora because every detail is managed with discretion, precision, and genuine accountability.",
+    "items": [
+      {
+        "title": "Hassle-Free Ownership",
+        "desc": "We take everything off your plate."
+      },
+      {
+        "title": "Reliable & Responsive",
+        "desc": "Swift action whenever it matters."
+      },
+      {
+        "title": "Transparent Expenses",
+        "desc": "Clear records, no surprises."
+      },
+      {
+        "title": "Trusted Network",
+        "desc": "Vetted professionals only."
+      },
+      {
+        "title": "Attention to Detail",
+        "desc": "Care is in every interaction."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "Trusted by owners who expect more.",
+    "items": [
+      {
+        "quote": "Neurora has completely transformed how I manage my property from abroad. Everything is handled, and I never have to worry. They truly care.",
+        "name": "Daniel R.",
+        "role": "Overseas Property Owner"
+      },
+      {
+        "quote": "Professional, responsive, and meticulous. Bills, repairs, and contractors all coordinated seamlessly. The peace of mind is genuinely priceless.",
+        "name": "Elena M.",
+        "role": "Private Investor"
+      },
+      {
+        "quote": "Reliability you can feel. Reports are clear, the team is trustworthy, and my property is always in immaculate condition.",
+        "name": "James T.",
+        "role": "Residential Owner"
+      }
+    ]
+  },
+  "common": {
+    "close": "Close"
+  }
+}

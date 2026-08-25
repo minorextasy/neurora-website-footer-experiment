@@ -1,0 +1,1522 @@
+{
+  "header": {
+    "links": {
+      "home": "Strona główna",
+      "about": "O firmie",
+      "services": "Usługi",
+      "howItWorks": "System operacyjny Neurora",
+      "contact": "Kontakt"
+    },
+    "cta": "Poproś o ofertę",
+    "menu": "Przełącz menu",
+    "language": "Język"
+  },
+  "hero": {
+    "badge": "Zarządzanie nieruchomościami · Cypr",
+    "titleLead": "Przestań gonić za swoją nieruchomością.",
+    "titleAccent": "Przejmij nad nią kontrolę.",
+    "subtitle": "Uporządkowane zarządzanie nieruchomościami dla budynków i kompleksów mieszkaniowych na całym Cyprze, z pełną przejrzystością, bezpośrednią komunikacją i bez luk operacyjnych.",
+    "bullets": [
+      "Bez pośredników. Bezpośrednia komunikacja od pierwszego dnia.",
+      "Pieniądze nieruchomości pozostają na jej własnym rachunku bankowym.",
+      "Każdy wydatek jest monitorowany. Każde zadanie obsługiwane."
+    ],
+    "ctaPrimary": "Poproś o ofertę",
+    "ctaSecondary": "System operacyjny Neurora",
+    "imageAlt": "Nowoczesny luksusowy budynek mieszkalny na Cyprze zarządzany przez Neurora"
+  },
+  "hero3d": {
+    "titleLine1": "Zarządzanie",
+    "titleLine2": "Nieruchomościami",
+    "titleLine3": "Na nowo",
+    "subtitle": "Zarządzanie nieruchomościami, zarządzanie częściami wspólnymi, sprzątanie po budowie",
+    "primaryCta": "Poproś o ocenę",
+    "secondaryCta": "Zobacz usługi",
+    "scroll": "Przewiń",
+    "tags": {
+      "financial": "Kontrola finansowa",
+      "legal": "Ochrona prawna",
+      "cleaning": "Sprzątanie po budowie"
+    }
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "Zgodność z Cap. 224",
+        "desc": "Pełna zgodność z cypryjskim prawem dotyczącym nieruchomości."
+      },
+      {
+        "title": "100% ochrony środków",
+        "desc": "Wszystkie środki pozostają na własnym rachunku nieruchomości."
+      },
+      {
+        "title": "Faktury pierwszego dnia miesiąca",
+        "desc": "Miesięczne faktury są wystawiane automatycznie każdego miesiąca."
+      },
+      {
+        "title": "Bezpośrednia komunikacja",
+        "desc": "Bez pośredników. Bez zgłoszeń. Prawdziwe odpowiedzi."
+      }
+    ],
+    "modalDetails": [
+      "To oznacza nieruchomość jest zarządzane z właściwe struktura prawna pod Cypr prawo nieruchomości. Decyzje, rejestry, obowiązki i zarządzanie działania są obsługiwane w udokumentowane sposób, dając Komitet zarządzający i mieszkańcy jaśniejsze i bezpieczniejsze ramy.",
+      "Wszystkie środki nieruchomości pozostają połączone do nieruchomość i są nie mieszane z inne budynki lub środki operacyjne firmy. To chroni przejrzystość, poprawia odpowiedzialność i sprawia to łatwiejsze dla Komitet zarządzający do zobaczyć jak pieniądze jest zbierane, przechowywane i używane.",
+      "Miesięczne faktury są wystawiane na stały harmonogram, aby mieszkańcy know kiedy płatności są należne i nieruchomość ma przewidywalny przepływ gotówki. To wspiera zlecenia stałe, płatności z góry i lepsze planowanie dla konserwacja, media i wspólne wydatki.",
+      "Mieszkańcy i Komitet zarządzający komunikują się przez dedykowane WhatsApp lub Viber grupy utworzone dla nieruchomość. To sprawia ogłoszenia, zaplanowane działa, płatności i operacyjne aktualizacje łatwiejsze do śledzić, więcej przejrzyste i szybsze do zarządzaj."
+    ]
+  },
+  "about": {
+    "eyebrow": "Nieruchomości, którymi zarządzamy",
+    "title": "Stworzone dla nieruchomości, które potrzebują struktury, nie chaosu.",
+    "subtitle": "Czy twoja budynek lub kompleks mieszkaniowy działa sprawnie lub jest w operacyjne nieporządek, my wchodzimy w, wdrażamy struktura, i przejmij pełne kontrola.",
+    "items": [
+      {
+        "title": "Istniejące nieruchomości wymagające struktury",
+        "desc": "Wielo-właściciel budynki i kompleksy mieszkaniowe gotowe do zastąpić dezorganizację z rzeczywiste system.",
+        "detail": "Te są nieruchomości już w działaniu, często z wieloletni właściciele, but brakujący spójny zarządzanie ramy. My oceniamy obecne ustalenia, definiujemy jasne struktura operacyjna, formalizujemy Komitet zarządzający, i wprowadzamy finanse, komunikacja, i konserwacja pod jeden przejrzyste system."
+      },
+      {
+        "title": "Nowe inwestycje",
+        "desc": "Deweloperzy przekazują nad ukończone nieruchomości, ustawić w górę właściwie od dzień jeden.",
+        "detail": "My współpracujemy z deweloperzy przed przekazanie aby nieruchomość startuje z pełne operacyjne ramy już w miejsce: dedykowany rachunek bankowy, fakturowanie harmonogram, wykonawca relacje, komunikacja kanały, i pełne Cap. 224 zgodność od sam pierwszy miesiąc."
+      },
+      {
+        "title": "Nieruchomości z problemami operacyjnymi",
+        "desc": "Złożone sytuacje i zerwana komunikacja. Przejmujemy sprawę i ją naprawiamy.",
+        "detail": "Kiedy nieruchomość jest zmaga się z niezorganizowane działania, niereagujące zarządzanie, lub niejasne procesy, my wchodzimy w do stabilizować to. My restrukturyzujemy operacyjny model, dokumentujemy wszystko, ponownie-ustanawiamy jasne obowiązki, i przywracamy porządek bez zakłócenia do mieszkańcy."
+      }
+    ]
+  },
+  "homeCoverage": {
+    "eyebrow": "Obsługa całego Cypru",
+    "text": "Neurora Property Management wspiera nieruchomości wspólne w całym Cypr, w tym Pafos, Limassol, Larnaka, Nikozja, Ayia Napa i Protaras.",
+    "locations": {
+      "paphos": {
+        "label": "Pafos",
+        "aria": "Zobacz zarządzanie nieruchomościami usługi w Pafos"
+      },
+      "limassol": {
+        "label": "Limassol",
+        "aria": "Zobacz zarządzanie nieruchomościami usługi w Limassol"
+      },
+      "larnaca": {
+        "label": "Larnaka",
+        "aria": "Zobacz zarządzanie nieruchomościami usługi w Larnaka"
+      },
+      "nicosia": {
+        "label": "Nikozja",
+        "aria": "Zobacz zarządzanie nieruchomościami usługi w Nikozja"
+      },
+      "ayiaNapa": {
+        "label": "Ayia Napa",
+        "aria": "Zobacz zarządzanie nieruchomościami usługi w Ayia Napa"
+      },
+      "protaras": {
+        "label": "Protaras",
+        "aria": "Zobacz zarządzanie nieruchomościami usługi w Protaras"
+      }
+    },
+    "country": {
+      "label": "Cały Cypr",
+      "aria": "Zobacz obsługę zarządzania nieruchomościami na całym Cyprze"
+    }
+  },
+  "aboutPage": {
+    "metaTitle": "O firmie | Neurora Property Management | Zarządzanie nieruchomościami na Cyprze",
+    "metaDescription": "Dowiedz się, jak Neurora Property Management wprowadza strukturę, przejrzystość, komunikację i kontrolę do budynków mieszkalnych oraz kompleksów mieszkaniowych na Cyprze.",
+    "hero": {
+      "eyebrow": "O Neurora Property Management",
+      "titleLead": "Zarządzanie nieruchomościami oparte na",
+      "titleAccent": "strukturze, przejrzystości i kontroli.",
+      "subtitle": "Neurora Property Management powstała z myślą o budynkach mieszkalnych i kompleksach, które potrzebują czegoś więcej niż podstawowej administracji. Wprowadzamy jasny system operacyjny dla nieruchomości wspólnych, łącząc komunikację, przejrzystość finansową, koordynację utrzymania oraz udokumentowane procedury.",
+      "ctaPrimary": "Poproś o ofertę",
+      "ctaSecondary": "Poznaj usługi"
+    },
+    "intro": {
+      "eyebrow": "Kim jesteśmy",
+      "title": "Partner w zarządzaniu nieruchomościami, które potrzebują jasności.",
+      "body": "Współpracujemy z Komitetami Zarządzającymi, właścicielami, mieszkańcami i deweloperami, aby zastępować nieformalne ustalenia uporządkowanym systemem zarządzania. Każda nieruchomość jest obsługiwana z jasną komunikacją, udokumentowanymi decyzjami, uporządkowanymi rejestrami i pełną widocznością tego, jak działa na co dzień."
+    },
+    "method": {
+      "title": "Metoda Neurora",
+      "body": "Nasza praca opiera się na prostej zasadzie: nieruchomość powinna zachować kontrolę nad swoimi pieniędzmi, dokumentacją i decyzjami. Neurora zapewnia strukturę operacyjną, koordynację, bieżące działania i codzienne zarządzanie potrzebne do prawidłowego funkcjonowania nieruchomości.",
+      "points": {
+        "structure": "Struktura",
+        "transparency": "Przejrzystość",
+        "control": "Kontrola"
+      }
+    },
+    "properties": {
+      "eyebrow": "Nieruchomości, którymi zarządzamy",
+      "title": "Różne nieruchomości. Jeden uporządkowany standard.",
+      "subtitle": "Od istniejących budynków mieszkalnych po nowe inwestycje i nieruchomości z problemami operacyjnymi, cel pozostaje ten sam: zastąpić chaos jasnym systemem."
+    },
+    "standard": {
+      "eyebrow": "Nasz standard",
+      "title": "Stworzony, aby chronić zaufanie między właścicielami, mieszkańcami i Komitetem Zarządzającym.",
+      "subtitle": "Standard Neurora koncentruje się na jasnych rejestrach, chronionych środkach, przewidywalnym fakturowaniu i bezpośredniej komunikacji od pierwszego dnia."
+    },
+    "cta": {
+      "title": "Gotowi wprowadzić strukturę do swojej nieruchomości?",
+      "body": "Opowiedz nam o swoim budynku mieszkalnym lub kompleksie, a przygotujemy jasną ofertę opartą na jego rzeczywistych potrzebach.",
+      "button": "Poproś o ofertę"
+    }
+  },
+  "howItWorksPage": {
+    "metaTitle": "Neurora Operacyjny System | Neurora Property Management",
+    "metaDescription": "Poznaj Neurora Operacyjny System, łącząc pełne zarządzanie proces z finansowe kontrola, automatyczne fakturowanie, komunikacja struktura, i prawne ochrona.",
+    "hero": {
+      "eyebrow": "System operacyjny Neurora",
+      "titleLead": "Jeden system operacyjny dla",
+      "titleAccent": "pełne nieruchomość kontrola.",
+      "subtitle": "Neurora Operacyjny System łączy pełne przejęcie proces z finansowe kontrola, automatyczne administracja, struktura prawna, dokumentacja, komunikacja, i codzienne operacyjne zarządzanie.",
+      "ctaPrimary": "Poproś o ofertę",
+      "ctaSecondary": "Poznaj usługi"
+    },
+    "intro": {
+      "eyebrow": "Operacyjny System",
+      "title": "Od właściciel zatwierdzenie do codzienne kontrola, wszystko follows jeden struktura.",
+      "body": "Przed Neurora takes nad, nieruchomość follows jasne zatwierdzenie i dokumentacja proces. Po przejęcie, system operacyjny wnosi together komunikacja, fakturowanie, dostawcy, rejestry, rachunek bankowy widoczność, automatyzacja, i struktura prawna.",
+      "panelTitle": "Proces + system",
+      "panelBody": "To strona łączy przejęcie proces z Neurora Operacyjny System szczegóły, aby właściciele może zobaczyć both zatwierdzenie kroki i zarządzanie struktura że działa po przejęcie.",
+      "points": {
+        "review": "Przegląd",
+        "document": "Dokumentacja",
+        "takeover": "Przejęcie"
+      }
+    },
+    "afterTakeover": {
+      "eyebrow": "Po Przejęcie",
+      "title": "Co happens once Neurora zaczyna się managing nieruchomość.",
+      "subtitle": "Once nieruchomość przechodzi w aktywne zarządzanie, struktura operacyjna staje się aktywne i codzienne zarządzanie praca rozpoczyna się.",
+      "items": [
+        {
+          "title": "Komunikacja Staje się Aktywne",
+          "desc": "Dedykowane Viber i WhatsApp grupy są utworzone dla bezpośredni koordynacja.",
+          "detail": "Dedykowane komunikacja grupy są utworzone dla Komitet zarządzający i mieszkańcy, dając nieruchomość jasne kanały dla ogłoszenia, aktualizacje, zaplanowane działa, decyzje, i śledzić-kontrole."
+        },
+        {
+          "title": "Miesięczne Wspólne Wydatki Rozpoczynają się",
+          "desc": "Opłaty wspólne są wystawiane i monitorowane przez uporządkowane miesięczny proces.",
+          "detail": "Miesięczne opłaty wspólne są wystawiane jasno i konsekwentnie. Płatności są monitorowane, oczekujące salda są monitorowane, i Komitet zarządzający może utrzymać widoczność nad windykacji proces."
+        },
+        {
+          "title": "Dostawcy Są Skoordynowana",
+          "desc": "Sprzątanie, konserwacja, media, naprawy, udogodnienia, i zieleń są zorganizowane.",
+          "detail": "Dostawcy i wykonawcy połączone do nieruchomość są skoordynowana przez jeden zarządzanie struktura, pomagając sprzątanie, konserwacja, media, naprawy, udogodnienia, i zieleń pozostają zorganizowane."
+        },
+        {
+          "title": "Rejestry Są Utrzymywane",
+          "desc": "Płatności, wydatki, decyzje, protokoły, i operacyjne aktualizacje są udokumentowane.",
+          "detail": "Ważne dokumentacja nieruchomości są utrzymywane w zorganizowane sposób, w tym płatności, wydatki, decyzje, protokoły, dostawców sprawy, operacyjne aktualizacje, i inne nieruchomość-związana dokumentacja."
+        }
+      ]
+    },
+    "financial": {
+      "eyebrow": "Kontrola finansowa",
+      "title": "nieruchomość utrzymuje kontrola jego pieniądze.",
+      "body": "Każda budynek mieszkalny lub kompleks mieszkaniowy ma jego własny Bank of Cyprus rachunek w Komitet zarządzający's nazwa. Środki pozostają z klient, nie z Neurora. To gives Komitet zarządzający widoczność, kontrola, i możliwość śledzenia nad nieruchomości finanse.",
+      "items": [
+        {
+          "title": "Własny rachunek bankowy",
+          "desc": "Każdy nieruchomość ma jego własny rachunek bankowy w Komitet zarządzający's nazwa.",
+          "detail": "nieruchomość działa przez jego własny dedykowane Bank of Cyprus rachunek w Komitet zarządzający's nazwa, pomagając zapewnić że pieniądze pozostaje połączone do nieruchomość."
+        },
+        {
+          "title": "Brak wspólnych pul środków",
+          "desc": "Środki nieruchomości są nie mieszane z firma pieniądze lub inne nieruchomości.",
+          "detail": "nieruchomości środki są nie połączone z inne budynki lub firma operacyjny środki, wspierając jaśniejsze odpowiedzialność i silniejsze finansowe oddzielenie."
+        },
+        {
+          "title": "Pełna widoczność",
+          "desc": "Przychody, wydatki, płatności, i salda są łatwiejsze do śledzić.",
+          "detail": "Komitet zarządzający może utrzymać widoczność nad przychody, wydatki, płatności, i salda, pomagając decyzje być podejmowane z lepsze finansowe jasność."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Gotowe do zrozumieć co twoja nieruchomość potrzeby?",
+      "body": "Opowiedz nam o twoja budynek mieszkalny lub kompleks mieszkaniowy i my będziemy przygotujemy jasna oferta oparte na jego rzeczywiste operacyjne potrzeby.",
+      "button": "Poproś o ofertę"
+    }
+  },
+  "problem": {
+    "eyebrow": "Rzeczywistość",
+    "titleLead": "Większość budynków nie ma zarządzania.",
+    "titleAccent": "Mają problemy.",
+    "items": [
+      {
+        "title": "Płatności są opóźnione lub niejasne",
+        "detail": "Bez uporządkowane fakturowanie, właściciele otrzymują niespójne faktury, pomijają płatność terminy, lub są niepewni co są być obciążani dla. Gotówka przepływ staje się nieprzewidywalny i nieruchomość nie może planować przed."
+      },
+      {
+        "title": "Brak widoczności finansów",
+        "detail": "Bez dedykowany rachunek bankowy i właściwe raportowanie, właściciele mają bez sposób do zobaczyć gdzie pieniądze jest idzie. Środki stają się połączone, mieszane z inne nieruchomości, lub kontrolowane całkowicie przez pojedynczy osoba."
+      },
+      {
+        "title": "Problemy konserwacyjne są rozwiązywane zbyt późno",
+        "detail": "Reaktywna konserwacja prowadzi do narastających problemy i niepotrzebne koszty. Bez zaplanowane nadzór i skoordynowana wykonawca sieć, małe problemy stają się kosztowne awarie."
+      },
+      {
+        "title": "Komunikacja jest wolna albo ignorowana",
+        "detail": "Kiedy mieszkańcy mają do gonić odpowiedzi lub polegać na nieformalne kanały, zaufanie słabnie. Ważne aktualizacje są pominięte, prośby wpadają przez luki, i właściciele czują się odłączeni od ich własny nieruchomość."
+      },
+      {
+        "title": "Decyzje nie są dokumentowane",
+        "detail": "Ustne uzgodnienia i nieformalne zatwierdzenia tworzą spory, niejednoznaczność, i prawne ryzyko. Bez właściwe protokoły i uchwały, nieruchomość ma bez zapis co zostało zdecydowano lub przez kogo."
+      },
+      {
+        "title": "Bez jasne odpowiedzialność lub odpowiedzialność",
+        "detail": "Kiedy bez jeden owns operacyjne wynik, problemy trwają bezterminowo. uporządkowane system przypisuje jasne odpowiedzialność, mierzalne standardy, i odpowiedzialność na każda poziom."
+      }
+    ],
+    "footerLead": "Do nie jest zarządzanie.",
+    "footerAccent": "Do jest chaos."
+  },
+  "postConstruction": {
+    "eyebrow": "Sprzątanie po budowie",
+    "title": "Od budowa przekazanie do prezentacja-gotowe nieruchomość.",
+    "subtitle": "Po budowa, nieruchomości są często pozostawione z pył, odpady, pozostałości i ślady w całym apartamenty, wejścia, części wspólne i wspólne obiekty. Neurora przygotowuje całą nieruchomość aby to jest czysta, zorganizowane i gotowe do być pokazywana, przekazana nad lub zamieszkana.",
+    "visual": {
+      "beforeTitle": "Po Budowa",
+      "beforeText": "Pył, odpady, pozostałości i unfinished prezentacja w całym nieruchomość.",
+      "afterTitle": "Gotowe Dla Handover",
+      "afterText": "Apartamenty, wejścia, części wspólne i wspólne przestrzenie przygotowane dla lepsze pierwszy wrażenie."
+    },
+    "cards": [
+      {
+        "key": "odpady",
+        "title": "Odpady & Pył Removal",
+        "desc": "Budowa pył, packaging pozostałości i leftover odpady cleared od apartamenty i wspólne przestrzenie.",
+        "detail": "Sprzątanie po budowie koncentruje się na usuwając widoczne i praktyczny mess pozostawione po działa są ukończone. To obejmuje budowa pył, packaging pozostaje, małe odpady, pozostałości, ślady i dirt od apartamenty, wejścia, korytarze, schody, windy, części wspólne i wspólne obiekty aby nieruchomość bez longer feels like budowa strona."
+      },
+      {
+        "key": "wspólne",
+        "title": "Pełne Nieruchomość Preparation",
+        "desc": "Apartamenty, wejścia, korytarze, windy, schody i wspólne obszary przygotowane dla pierwszy użytkowania.",
+        "detail": "usługa covers obszary właściciele, mieszkańcy i goście zobaczyć i użytkowania: apartamenty, wejścia, korytarze, schody, windy, lobby, części wspólne i wspólne obiekty. cel jest do make cała nieruchomość czysta, prezentacyjna i gotowe dla przekazanie, prezentacje lub pierwszy zamieszkanie."
+      },
+      {
+        "key": "przekazanie",
+        "title": "Prezentacja Gotowe",
+        "desc": "lepsze pierwszy wrażenie dla właściciele, mieszkańcy, kupujący i goście.",
+        "detail": "nowo ukończone nieruchomość powinien nie być prezentowana z budowa pozostałości nadal widoczne. Neurora pomaga przygotujemy całą nieruchomość dla jego pierwszy wrażenie, sprawiając apartamenty, wspólne przestrzenie i budynek wejścia odpowiednie dla właściciele, mieszkańcy, kupujący i goście od dzień jeden."
+      }
+    ]
+  },
+  "solution": {
+    "eyebrow": "Rozwiązanie",
+    "title": "Neurora zastępuje chaos z struktura.",
+    "body": "My wdrażamy pełne operacyjne system obejmujące finanse, komunikacja, konserwacja, i struktura prawna.",
+    "footer": "Nic jest pozostawione niezarządzane. Nic jest niejasne.",
+    "beforeLabel": "Przed",
+    "bridgeLabel": "Neurora Struktura",
+    "afterLabel": "Po",
+    "chaos": [
+      "Opóźnione lub niejasne płatności",
+      "Brak widoczności finansów",
+      "Reaktywna konserwacja",
+      "Wolna lub ignored komunikacja",
+      "Undocumented decyzje"
+    ],
+    "control": [
+      "Płatności zorganizowane",
+      "Środki chronione",
+      "Konserwacja zaplanowane",
+      "Komunikacja scentralizowana",
+      "Decyzje udokumentowane"
+    ]
+  },
+  "services": {
+    "eyebrow": "Czym się zajmujemy",
+    "title": "Wszystko twoja nieruchomość potrzeby. W pełni obsługiwane.",
+    "subtitle": "Jeden partner. Pełne operacyjne kontrola.",
+    "items": [
+      {
+        "key": "wspólne",
+        "title": "Opłaty wspólne",
+        "desc": "Stały miesięczne kwoty, umożliwiając mieszkańcy do płacić wiele miesięcy w wyprzedzeniem lub ustawić w górę zlecenia stałe.",
+        "detail": "Opłaty wspólne są calculated jako stały miesięczne kwoty oparte na każdy lokale udział. Mieszkańcy może płacić miesięcy w wyprzedzeniem lub ustawić w górę zlecenia stałe, usuwając tarcie i zapewniając przewidywalny przepływ gotówki dla nieruchomość. Bez niespodziewane uzgodnienia, bez koniec--rok korekty."
+      },
+      {
+        "key": "sprzątanie",
+        "title": "Sprzątanie & Konserwacja",
+        "desc": "Spójne utrzymanie wszystkie części wspólne, nadzorowane wobec udokumentowane standard.",
+        "detail": "Wszystkie części wspólne (wejścia, korytarze, klatki schodowe, parking, i wspólne obiekty) są utrzymywane do określony czystość standard. Harmonogramy są stały, nadzór jest regularny, i konserwacja interwencje są skoordynowana przez nasz działania zespół raczej niż pozostawione do sprzątaczka."
+      },
+      {
+        "key": "media",
+        "title": "Media",
+        "desc": "Media rachunki zarządzane, opłacane na czas, i chronione od usługa przerwy.",
+        "detail": "Prąd, woda, i wspólne media rachunki są obsługiwane pod uporządkowane zlecenia stałe. Płatności są zaplanowane, salda są monitorowane, i odnowienia są obsługiwane w wyprzedzeniem, aby nieruchomość nigdy napotyka pominięte płatności, opóźnione opłaty, lub usługa przerwy."
+      },
+      {
+        "key": "zieleń",
+        "title": "Zieleń",
+        "desc": "Profesjonalne utrzymanie zewnętrzne obszary i zieleń, konsekwentnie utrzymywane.",
+        "detail": "Ogrody, zewnętrzne obszary, i zieleń są utrzymywane na określony harmonogram przez wykwalifikowani wykonawcy. Przycinanie, nawadnianie nadzór, sezonowa opieka, i wymiany są skoordynowana aby nieruchomości zewnętrze pozostaje prezentacyjna rok-round."
+      },
+      {
+        "key": "udogodnienia",
+        "title": "Udogodnienia",
+        "desc": "Baseny, windy, i wspólne obiekty professionally zarządzane i właściwie utrzymywane.",
+        "detail": "Baseny, windy, siłownie, i wspólne obiekty są placed pod uporządkowane nadzór. Usługa umowy, inspekcje, certyfikaty, i rutynowa konserwacja są skoordynowana centrally, keeping udogodnienia bezpieczne, compliant, i dostępne do mieszkańcy."
+      },
+      {
+        "key": "naprawy",
+        "title": "Naprawy",
+        "desc": "Naprawy problemy obsługiwane proaktywnie z skoordynowana wykonawca nadzór.",
+        "detail": "Naprawy prośby są otrzymano, triaged, i dispatched do vetted wykonawcy. Quotes są reviewed, praca jest nadzorowane, i outcomes są udokumentowane. Właściciele i Komitet zarządzający otrzymują jasne zapis każda intervention. Bez nieformalne ustalenia."
+      }
+    ],
+    "cta": "Poznaj nasze usługi",
+    "ctaNote": "Zobacz pełny zakres usług"
+  },
+  "process": {
+    "eyebrow": "System operacyjny Neurora",
+    "title": "Jeden system. Pełne kontrola.",
+    "subtitle": "jasny system operacyjny od oferta do przejęcie, finansowe kontrola, fakturowanie, komunikacja, i struktura prawna.",
+    "stepLabel": "Wchodzimy",
+    "fromHere": "Od HERE",
+    "fromHereTitle": "Uporządkowane od dzień jeden.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Tailored Oferta",
+        "desc": "jasne, szczegółowa oferta stworzone dla twoja konkretnej nieruchomość.",
+        "detail": "My oceniamy twoja nieruchomości size, lokale, udogodnienia, i operacyjne potrzeby do dostarczyć w pełni szczegółowa oferta. Każda koszt pozycja jest przejrzyste, każda usługa zakres jest określony, i nic jest pozostawione do interpretation. Ty otrzymują dokumentujemy stworzone specifically dla twoja nieruchomość, nie szablon."
+      },
+      {
+        "n": "02",
+        "title": "Ogólne Zebranie Prezentacja",
+        "desc": "My present system do wszystkie właściciele. Bezpośredni, bez scripts.",
+        "detail": "Nasz zespół uczestniczy Ogólne Zebranie w osobiście i prowadzi każda właściciel przez oferta, operacyjny model, i prawne ramy. Pytania są answered directly i na zapis, aby każda właściciel sprawia informed decyzja."
+      },
+      {
+        "n": "03",
+        "title": "Właściciel Głosowanie (50%+)",
+        "desc": "majority decyzja recorded transparently.",
+        "detail": "formal głosowanie jest przechowywane according do Cap. 224. prosta majority (50%+) jest wymagane do appoint Neurora. Wyniki są recorded w official protokoły i podejmowane dostępne do wszystkie właściciele. Bez nieformalne uzgodnienia, bez niejednoznaczność."
+      },
+      {
+        "n": "04",
+        "title": "Komitet zarządzający Elected",
+        "desc": "Właściciele elect ich Komitet zarządzający.",
+        "detail": "Właściciele elect Komitet zarządzający że legally represents nieruchomość. Komitet oversees decyzje, zatwierdzenia, i finansowe kontrola, supported operationally przez Neurora na każda wchodzimy."
+      },
+      {
+        "n": "05",
+        "title": "Prawne Dokumentacja",
+        "desc": "Protokoły i uchwały złożone pod Cap. 224.",
+        "detail": "Wszystkie decyzje, protokoły, uchwały, i appointments są formally udokumentowane i złożone w zgodność z Cap. 224. nieruchomość gains czysta prawne foundation, protecting właściciele i enabling właściwe finansowe działania."
+      },
+      {
+        "n": "06",
+        "title": "Bank Rachunek Opened",
+        "desc": "Bank of Cyprus rachunek w Komitet zarządzający's nazwa.",
+        "detail": "dedykowany rachunek bankowy jest opened z Bank of Cyprus w Komitet zarządzający's nazwa. Środki należą do nieruchomość, nigdy do zarządca. Każda transakcja jest traceable, audytowalne, i owned przez nieruchomość."
+      },
+      {
+        "n": "07",
+        "title": "Operacyjne Przejęcie",
+        "desc": "Pełne działania rozpoczynają się. Komunikacja grupy go aktywne.",
+        "detail": "Neurora assumes pełne operacyjne kontrola: fakturowanie, media, konserwacja, wykonawcy, i raportowanie. WhatsApp i Viber komunikacja grupy go aktywne od dzień jeden, dając mieszkańcy i Komitet bezpośredni dostęp do zespół."
+      }
+    ],
+    "homeCta": "System operacyjny Neurora"
+  },
+  "communication": {
+    "eyebrow": "Komunikacja",
+    "title": "Bez zgłoszeń. Bez opóźnień. Bez pośredników.",
+    "subtitle": "Ty wiadomość. My działamy. Bezpośredni WhatsApp i Viber grupy od dzień jeden, z rzeczywiste odpowiedzi od rzeczywiste ludzie.",
+    "tile1Title": "WhatsApp & Viber",
+    "tile1Sub": "Od dzień jeden",
+    "tile2Title": "Rzeczywiste-czas",
+    "tile2Sub": "Ludzkie odpowiedzi",
+    "channels": [
+      {
+        "title": "Komitet zarządzający Grupa",
+        "desc": "Prywatne kanał dla finansowe decyzje, zatwierdzenia, i poufne sprawy.",
+        "tag": "Prywatne"
+      },
+      {
+        "title": "Mieszkańcy Grupa",
+        "desc": "Ogłoszenia, aktualizacje, i zaplanowane działa. Pełne przejrzystość dla każda mieszkaniec.",
+        "tag": "Otwórz"
+      }
+    ],
+    "cta": "Komunikacja",
+    "directGroups": "Grupy bezpośrednie"
+  },
+  "operatingSystem": {
+    "eyebrow": "System operacyjny Neurora",
+    "titleLine1": "Jeden system.",
+    "titleLine2": "Pełne kontrola.",
+    "subtitle": "Finansowe kontrola, automatyczne administracja, i struktura prawna brought together w jeden zarządzane system operacyjny."
+  },
+  "financial": {
+    "eyebrow": "Kontrola finansowa",
+    "title": "Twoja pieniądze stays yours. Zawsze.",
+    "subtitle": "Każda nieruchomość ma jego własny Bank of Cyprus rachunek w Komitet zarządzający's nazwa. Bez połączone środki. Pełne widoczność via 1Bank. Każda transakcja monitorowane.",
+    "accountHolder": "Rachunek Holder",
+    "accountHolderName": "Komitet zarządzający",
+    "accountBody": "rachunek bankowy jest opened w Komitet zarządzający's nazwa na Bank of Cyprus, z aktywne widoczność przez 1Bank. Właściciele hold keys.",
+    "tag1": "Bank of Cyprus",
+    "tag2": "1Bank Dostęp",
+    "pillars": [
+      {
+        "title": "Dedykowane Bank Rachunek",
+        "desc": "Każdy nieruchomość ma jego własny rachunek na Bank of Cyprus."
+      },
+      {
+        "title": "Komitet zarządzający Ownership",
+        "desc": "rachunek jest w Komitet zarządzający's nazwa, nie Neurora's."
+      },
+      {
+        "title": "Aktywne Widoczność",
+        "desc": "Pełne dostęp via 1Bank. Komitet zarządzający sees wszystko, w rzeczywiste czas."
+      },
+      {
+        "title": "Każda Transakcja Monitorowane",
+        "desc": "Udokumentowane, skategoryzowane, i audytowalne na każdy czas."
+      }
+    ]
+  },
+  "legal": {
+    "eyebrow": "Ochrona prawna",
+    "title": "W pełni compliant. W pełni chronione.",
+    "subtitle": "Każda działanie ma prawne backing. Cap. 224 compliant. Komitet zarządzający-oparte governance. W pełni udokumentowane decyzje.",
+    "items": [
+      {
+        "title": "Cap. 224 Zgodność",
+        "desc": "Każda działaniu aligned z Cypr prawo na immovable nieruchomość.",
+        "detail": "Wszystkie działania śledzić ramy ustawić out w Immovable Nieruchomość (Tenure, Registration i Valuation) Prawo, Cap. 224. Od komitet formation i zebranie procedure do finansowe governance i uchwały, nieruchomość działa na legally sound foundation że chroni właściciele."
+      },
+      {
+        "title": "Komitet zarządzający-Oparte Decyzje",
+        "desc": "Wszystkie decyzje taken przez Komitet zarządzający, nigdy przez nam alone.",
+        "detail": "Strategic, finansowe, i operacyjne decyzje są taken przez elected Komitet zarządzający, z Neurora providing uporządkowane recommendations i execution. Właściciele pozostają w kontrola ich nieruchomość na wszystkie times, i bez decyzja bypasses Komitet."
+      },
+      {
+        "title": "Udokumentowane Meetings",
+        "desc": "Protokoły, votes, i uchwały właściwie przygotowane i złożone.",
+        "detail": "Każda Ogólne Zebranie i Komitet zebranie jest formally udokumentowane. Agendas, protokoły, votes, i uchwały są przygotowane w zgodność z Cap. 224 i złożone w zorganizowane archive dostępne do właściciele, zapewniając pełne możliwość śledzenia każda decyzja."
+      }
+    ]
+  },
+  "automation": {
+    "eyebrow": "Automatyzacja & Fakturowanie",
+    "title": "Nic gets pominięte. Nic gets opóźnione.",
+    "subtitle": "Reliable. Przewidywalny. Systemized.",
+    "items": [
+      {
+        "title": "Standing Orders dla Media",
+        "desc": "Prąd, woda, i windy opłacane automatycznie. Bez opóźnione płatności. Ever.",
+        "detail": "Standing orders są configured directly z media dostawcami i nieruchomości rachunek bankowy. Rachunki są settled automatycznie moment są należne, eliminating każdy risk opóźnione opłaty, usługa przerwy, lub forgotten płatności. Właściciele bez longer polegać na someone remembering do płacić."
+      },
+      {
+        "title": "Faktury pierwszego dnia miesiąca",
+        "desc": "Miesięczne faktury sent automatycznie do każda właściciel na pierwszy miesiąc.",
+        "detail": "Każda właściciel receives jasne, szczegółowa faktura na pierwszy dzień każdy miesiąc, generated automatycznie i delivered konsekwentnie. Płatności może być podejmowane przez standing porządek, bank transfer, lub w wyprzedzeniem, dając mieszkańcy pełne flexibility podczas keeping przepływ gotówki przewidywalny."
+      },
+      {
+        "title": "W pełni Szczegółowa Fakturowanie",
+        "desc": "Każda pozycja explained. Właściciele know exactly co są paying dla.",
+        "detail": "Każdy faktura breaks down każda charge: opłaty wspólne, media, konserwacja, naprawy, i special środki. Właściciele zobaczyć exactly gdzie każda euro staje się, z wspierając dokumentacja dostępne na zapytanie. Bez vague totals, bez hidden pozycja elementy."
+      },
+      {
+        "title": "Audytowalne History",
+        "desc": "Pełne zapis charges, płatności, i działa, accessible anytime.",
+        "detail": "Każda transakcja, faktura, płatność, i intervention jest recorded w uporządkowane archive. Komitet zarządzający może przegląd pełne operacyjne i finansowe history nieruchomość na każdy czas, wspierając przejrzystość, audits, i informed decyzja-sprawiając."
+      }
+    ]
+  },
+  "finalCta": {
+    "titleLead": "Jeśli Twoja nieruchomość ma znaczenie,",
+    "titleAccent": "zarządzaj nią właściwie.",
+    "cta": "Poproś o ofertę"
+  },
+  "contact": {
+    "eyebrow": "Poproś o ofertę",
+    "title": "Opowiedz nam o twoja nieruchomość.",
+    "subtitle": "We'll przegląd twoja budynek lub kompleks mieszkaniowy i przygotujemy tailored, w pełni uporządkowane oferta z jasne koszty i next kroki.",
+    "emailLabel": "E-mail",
+    "phoneLabel": "Telefon",
+    "coverageLabel": "Zasięg",
+    "coverageValue": "Cały Cypr",
+    "stepOf": "Krok {{step}} z {{total}}",
+    "stepLabels": {
+      "1": "Typ nieruchomości",
+      "2": "Nieruchomość Szczegóły",
+      "3": "Usługi Interested W",
+      "4": "Twoja Role",
+      "5": "Kontakt"
+    },
+    "step1": {
+      "location": "Lokalizacja",
+      "units": "Numer lokale",
+      "projectType": "Typ nieruchomości",
+      "locations": [
+        "Pafos",
+        "Limassol",
+        "Larnaka",
+        "Nikozja",
+        "Ayia Napa",
+        "Protaras"
+      ],
+      "unitRanges": [
+        "1–10",
+        "10–30",
+        "30–60",
+        "60+"
+      ],
+      "projectTypes": [
+        "Budynek mieszkalny",
+        "Kompleks mieszkaniowy",
+        "Apartament",
+        "Dom",
+        "Willa",
+        "Lokal komercyjny"
+      ],
+      "optionalInfo": {
+        "eyebrow": "Opcjonalne",
+        "title": "Dodatkowe Nieruchomość Informacje",
+        "subtitle": "Rachunek bankowy, ubezpieczenie, elevator, media i więcej"
+      }
+    },
+    "step2": {
+      "projectName": "Nazwa nieruchomości",
+      "year": "Rok budowy",
+      "selectYear": "Wybierz rok",
+      "floors": "Liczba pięter",
+      "units": "Liczba lokali",
+      "floorsPlaceholder": "1–100",
+      "unitsPlaceholder": "1–500",
+      "hasBank": "Robi nieruchomość mają rachunek bankowy?",
+      "bankName": "Bank Nazwa",
+      "hasInsurance": "Jest nieruchomość insured?",
+      "insuranceName": "Ubezpieczenie Firma Nazwa",
+      "hasElevator": "Robi nieruchomość mają elevator?",
+      "elevatorCompany": "Usługa Firma Nazwa",
+      "electricity": "Prąd Koszty (estimated)",
+      "water": "Woda Koszty (estimated)",
+      "hasCommittee": "Robi nieruchomość mają Komitet zarządzający?",
+      "hasTitleDeeds": "Tytuły własności?",
+      "hasMinutes": "Robi nieruchomość mają Protokoły walnego zgromadzenia?",
+      "extra": "Każdy inne informacje ty może podać o nieruchomość",
+      "selectYesToEnable": "Wybierz Tak do enable"
+    },
+    "step3": {
+      "title": "I am interested w (proszę sprawdź wszystkie boxes że apply do twoja situation)",
+      "subtitle": "Wybierz wszystkie że apply.",
+      "other": "Inne",
+      "otherPlaceholder": "Proszę specify",
+      "otherDisabled": "Wybierz Inne do enable",
+      "services": [
+        "Budynek Zarządzanie Usługi",
+        "Sprzątanie Usługi",
+        "Garden Konserwacja",
+        "Basen Konserwacja",
+        "Szkodników Kontrola Usługi",
+        "Dachu Konserwacja",
+        "Remonty",
+        "Nieruchomość fundusz specjalny Zarządzanie",
+        "Pożarowe Gaśnic & bezpieczeństwo pożarowe Zarządzanie & Konserwacja",
+        "Śmieci Kosze Sprzątanie Usługi",
+        "Woda Zbiornika Sprzątanie Usługi",
+        "Rachunki Zarządzanie",
+        "Kanalizacji Sprzątanie & Konserwacja Usługi",
+        "Wspólne Ogrzewania Zarządzanie & Konserwacja"
+      ],
+      "otherPrefix": "Inne"
+    },
+    "step4": {
+      "issuesTitle": "Co są obecne problemy twoja nieruchomość jest facing?",
+      "selectAll": "Wybierz wszystkie że apply.",
+      "isCommittee": "Są ty na Komitet zarządzający?",
+      "isDeveloper": "Są ty developer?",
+      "issues": [
+        "Płatności niespójne",
+        "Bez przejrzystość",
+        "Konserwacja problemy",
+        "Poor komunikacja",
+        "Bez uporządkowane zarządzanie"
+      ]
+    },
+    "step5": {
+      "firstName": "Imię",
+      "lastName": "Nazwisko",
+      "phone": "Numer telefonu",
+      "email": "E-mail",
+      "address": "Nieruchomość Adres",
+      "city": "Miasto",
+      "area": "Obszar",
+      "streetName": "Nazwa ulicy",
+      "streetNumber": "Numer ulicy",
+      "postCode": "Kod pocztowy",
+      "mapPlaceholder": "Enter adres do podgląd lokalizacja",
+      "hearAbout": "Jak zrobił ty hear o nam?",
+      "hearAboutOptions": [
+        "Google",
+        "Media społecznościowe",
+        "Polecenie ustne",
+        "Polecenie od znajomego"
+      ],
+      "submit": "Wyślij zapytanie",
+      "submitting": "Wysyłanie...",
+      "mapTitle": "Nieruchomość lokalizacja podgląd",
+      "recommendationName": "Imię i nazwisko osoby lub nazwa firmy, która nas poleciła (opcjonalnie)"
+    },
+    "step6": {
+      "title": "Zapytanie otrzymano.",
+      "body": "My będziemy przegląd twoja nieruchomość i przygotujemy tailored oferta. Oczekuj do hear od nam wkrótce.",
+      "again": "Submit kolejne"
+    },
+    "yes": "Tak",
+    "no": "Nie",
+    "back": "Wstecz",
+    "continue": "Kontynuuj",
+    "errors": {
+      "completeAll": "Wypełnij wszystkie pola.",
+      "answerBoth": "Odpowiedz na oba pytania.",
+      "review": "Sprawdź formularz.",
+      "firstName": "Podaj imię.",
+      "lastName": "Podaj nazwisko.",
+      "email": "Podaj prawidłowy adres e-mail.",
+      "phone": "Podaj numer telefonu.",
+      "requiredFields": "Proszę wypełnić wszystkie wymagane pola.",
+      "submissionFailedTitle": "Wysyłka nie powiodła się",
+      "submissionFailedDescription": "Spróbuj ponownie albo skontaktuj się z nami bezpośrednio przez e-mail."
+    },
+    "aria": {
+      "email": "E-mail Neurora na neuroraproperties@gmail.com",
+      "phone": "Call Neurora na +357 99 203 600",
+      "whatsapp": "WhatsApp Neurora",
+      "viber": "Viber Neurora",
+      "facebook": "Facebook Neurora",
+      "instagram": "Instagram Neurora",
+      "coverageMap": "Zobacz Neurora całym Cyprze zasięg na Google Maps"
+    }
+  },
+  "servicesPage": {
+    "metaTitle": "Usługi | Neurora Property Management Ltd",
+    "metaDescription": "Discover usługi Neurora Property Management zapewnia do simplify mieszkaniowy zarządzanie nieruchomościami i wprowadzamy lepsze kontrola do wspólne budynki w całym Cypr.",
+    "hero": {
+      "titleLead": "Zarządzanie nieruchomościami",
+      "titleRest": "usługi delivered z struktura, widoczność, i kontrola.",
+      "subtitleBefore": "Discover usługi",
+      "brand": "Neurora Property Management",
+      "subtitleAfter": "zapewnia do simplify mieszkaniowy zarządzanie nieruchomościami i wprowadzamy lepsze kontrola do wspólne budynki w całym Cypr.",
+      "cta": "Zobacz usługi"
+    },
+    "catalogue": {
+      "eyebrow": "Usługa Categories",
+      "title": "pełne usługa ramy dla smooth nieruchomość działania.",
+      "categoryLabel": "Kategoria",
+      "brandLine": "Neurora Property Management",
+      "serviceIntro": "Wybierz usługa below do zobaczyć co to obejmuje i jak to wspiera dzień-do-dzień działaniu nieruchomość.",
+      "modalBrandLine": "Neurora Property Management"
+    },
+    "categories": {
+      "cleaning": "Sprzątanie",
+      "commonExpenses": "Opłaty wspólne",
+      "communication": "Komunikacja",
+      "maintenanceRepairs": "Konserwacja i naprawy",
+      "financial": "Finanse",
+      "legal": "Prawne",
+      "managementAdministration": "Zarządzanie & Administracja",
+      "amenitiesSharedFacilities": "Udogodnienia i wspólne obiekty"
+    },
+    "serviceItems": {
+      "management-administration": [
+        {
+          "title": "Nieruchomość Onboarding",
+          "summary": "Uporządkowane setup dla każdy nieruchomość przed zarządzanie rozpoczyna się.",
+          "detail": "My organizujemy początkowy zarządzanie ramy dla nieruchomość, w tym rejestry, operacyjne wymagania, komunikacja kanały, i informacje potrzebne do rozpoczynają się managing budynek lub kompleks mieszkaniowy właściwie."
+        },
+        {
+          "title": "Komitet zarządzający Koordynacja",
+          "summary": "Ongoing koordynacja z Komitet zarządzający dla smoother działania.",
+          "detail": "My wsparcie Komitet zarządzający z jasne komunikacja, zorganizowane śledzić-w górę, i praktyczny koordynacja aby decyzje może być obsługiwane efficiently i codzienne nieruchomość działania pozostają uporządkowane."
+        },
+        {
+          "title": "Ewidencja mieszkańców",
+          "summary": "Zorganizowane rejestry dla właściciele, mieszkańcy, lokale, i kontakt szczegóły.",
+          "detail": "My pomagamy utrzymać uporządkowane rejestry dla nieruchomość, w tym właściciel i mieszkaniec szczegóły, lokal informacje, kontakt rejestry, i inne ważne nieruchomość-związana informacje."
+        },
+        {
+          "title": "Media Dostawców Koordynacja",
+          "summary": "Koordynacja z media dostawcami i kluczowe nieruchomość dostawcy.",
+          "detail": "My koordynujemy z media dostawcami i dostawcy połączone do nieruchomość, pomagając komunikacja, śledzić-w górę, i operacyjne sprawy pozostają zorganizowane."
+        }
+      ],
+      "common-expenses": [
+        {
+          "title": "Miesięczne Wspólne Wydatki Issuance",
+          "summary": "Jasne miesięczne issuance opłaty wspólne dla nieruchomość.",
+          "detail": "My przygotujemy i issue miesięczne opłaty wspólne w jasne i uporządkowane sposób, pomagając mieszkańcy zrozumieć ich obligations podczas dając Komitet zarządzający lepsze widoczność nad proces."
+        },
+        {
+          "title": "Monitorowanie płatności",
+          "summary": "Monitorowanie zbierane i oczekujące wspólne wydatek płatności.",
+          "detail": "My śledzić wspólne wydatek płatności aby Komitet zarządzający może zobaczyć co ma było zbierane, co pozostaje oczekujące, i gdzie śledzić-w górę may być wymagane."
+        },
+        {
+          "title": "Unpaid Balance Śledzić-W górę",
+          "summary": "Profesjonalne śledzić-w górę na opóźnione lub unpaid salda.",
+          "detail": "My śledzić w górę na unpaid salda w profesjonalne i zorganizowane sposób, pomagając ulepszyć windykacji consistency i reduce opóźnień w nieruchomości wspólne wydatek płatności."
+        }
+      ],
+      "cleaning": [
+        {
+          "title": "Sprzątanie części wspólnych",
+          "summary": "Zaplanowane sprzątanie dla wspólne obszary w budynki mieszkalne i kompleksy mieszkaniowe.",
+          "detail": "My koordynujemy sprzątanie dla wspólne obszary takie jako wejścia, korytarze, schody, windy, lobby, i inne wspólne przestrzenie, pomagając nieruchomość pozostają czysta, prezentacyjna, i właściwie utrzymywane."
+        },
+        {
+          "title": "Sprzątanie po budowie",
+          "summary": "Początkowy sprzątanie po budowa, przed nieruchomość jest prezentowana dla viewing.",
+          "detail": "To usługa jest pierwszy sprzątanie po budowa ma finished. To koncentruje się na usuwając pył, light odpady, i budowa pozostałości aby nieruchomość jest gotowe dla pierwszy viewing. To jest nie deep sprzątanie usługa."
+        },
+        {
+          "title": "Apartament i Dom Handover Sprzątanie",
+          "summary": "Sprzątanie puste apartamenty lub domy przed przekazanie lub pierwszy zamieszkanie.",
+          "detail": "My czysta empty apartamenty lub domy na koniec najmu, lub przed pierwszy użytkownicy move w zupełnie-nowe nieruchomość. To usługa applies tylko do puste lokale z bez belongings inside. My rób nie czysta zamieszkana homes lub lokale containing osobowe belongings."
+        }
+      ],
+      "maintenance-repairs": [
+        {
+          "title": "Rutynowa Konserwacja Wspólne Obszary",
+          "summary": "Regularny wsparcie dla keeping wspólne obszary functional i prezentacyjna.",
+          "detail": "My koordynujemy rutynowa konserwacja dla wspólne obszary do pomagamy utrzymuj nieruchomość bezpieczne, functional, i prezentacyjna dla mieszkańcy i goście."
+        },
+        {
+          "title": "Naprawy Koordynacja",
+          "summary": "Koordynacja wymagane naprawy kiedy problemy arise.",
+          "detail": "Kiedy naprawy są potrzebne, my koordynujemy proces z relevant wykonawcy, śledzić w górę na issue, i pomagamy zapewnić matter jest obsługiwane w zorganizowane sposób."
+        },
+        {
+          "title": "Wykonawca Quotations",
+          "summary": "Requesting wykonawca offers dla wymagane naprawy lub konserwacja praca.",
+          "detail": "Kiedy naprawy lub konserwacja praca jest wymagane, my może zapytanie offers od wykonawcy aby Komitet zarządzający ma jasne options przed sprawiając decyzja."
+        }
+      ],
+      "amenities-shared-facilities": [
+        {
+          "title": "Basen Sprzątanie & Konserwacja",
+          "summary": "Koordynacja sprzątanie i konserwacja dla wspólne swimming baseny.",
+          "detail": "My koordynujemy basen sprzątanie i konserwacja do pomagamy utrzymuj wspólne swimming basen obszary czysta, bezpieczne, i właściwie utrzymywane."
+        },
+        {
+          "title": "Gardening & Zieleń Wspólne Obszary",
+          "summary": "Koordynacja zieleń i garden opieka dla wspólne zewnętrzne obszary.",
+          "detail": "My koordynujemy gardening i zieleń dla wspólne zewnętrzne obszary, pomagając nieruchomość utrzymać czysta, well-utrzymywane, i profesjonalne appearance."
+        },
+        {
+          "title": "części wspólne Nadzór",
+          "summary": "Nadzór wspólne obszary do monitor standardy i identify problemy.",
+          "detail": "My supervise części wspólne do identify konserwacja problemy, monitor sprzątanie i usage standardy, i wsparcie właściwe działaniu wspólne przestrzenie."
+        },
+        {
+          "title": "Wspólne Facility Sprzątanie & Konserwacja",
+          "summary": "Wsparcie dla siłownie, wspólne rooms, i inne wspólne obiekty.",
+          "detail": "My koordynujemy sprzątanie i konserwacja dla wspólne siłownie, wspólne rooms, wspólne obiekty, i każdy inne wspólne obszary że formularz part nieruchomość."
+        }
+      ],
+      "communication": [
+        {
+          "title": "Komitet zarządzający Viber/WhatsApp Grupa",
+          "summary": "dedykowane grupa dla Komitet zarządzający koordynacja.",
+          "detail": "My tworzą i użytkowania dedykowane Viber lub WhatsApp grupa dla Komitet zarządzający, focused na koordynacja, aktualizacje, decyzje, i dzień-do-dzień komunikacja."
+        },
+        {
+          "title": "Mieszkańcy Viber/WhatsApp Grupa",
+          "summary": "dedykowane grupa dla mieszkaniec komunikacja i przejrzystość.",
+          "detail": "My tworzą i użytkowania dedykowane Viber lub WhatsApp grupa dla mieszkańcy, pomagając utrzymuj everyone informed z ogłoszenia, aktualizacje, zaplanowane działa, i ważne nieruchomość komunikacja."
+        },
+        {
+          "title": "Śledzić-Kontrole przez Telefon i E-mail",
+          "summary": "Śledzić-kontrole z mieszkańcy, komitety, wykonawcy, i dostawcami.",
+          "detail": "My śledzić w górę z mieszkańcy, Komitet zarządzający, wykonawcy, i media dostawcami przez telefon i e-mail kiedy potrzebne, keeping komunikacja zorganizowane i traceable."
+        }
+      ],
+      "financial": [
+        {
+          "title": "Bank Rachunek Otwarcie Wsparcie",
+          "summary": "Wsparcie dla otwarcie nieruchomość rachunek bankowy w Komitet zarządzający's nazwa.",
+          "detail": "My wsparcie Komitet zarządzający during rachunek bankowy otwarcie proces. Z nasz working method, każdy budynek mieszkalny lub kompleks mieszkaniowy ma jego własny rachunek bankowy w Komitet zarządzający's nazwa, aby pieniądze stays z klient, nie z nam. To zapewnia pełne przejrzystość i pełne kontrola nad nieruchomości finanse."
+        },
+        {
+          "title": "Przychody i Wydatek Rejestry",
+          "summary": "Zorganizowane rejestry nieruchomość przychody i wydatki.",
+          "detail": "My utrzymuj zorganizowane rejestry przychody i wydatki połączone do nieruchomość, pomagając Komitet zarządzający utrzymać jasne picture finansowe activity."
+        },
+        {
+          "title": "Monitorowanie płatności",
+          "summary": "Jasne monitorowanie incoming płatności i oczekujące salda.",
+          "detail": "My śledzić płatności i oczekujące salda aby Komitet zarządzający może utrzymać lepsze widoczność finansowa i zrozumieć gdzie śledzić-w górę may być wymagane."
+        },
+        {
+          "title": "Budget Planowanie",
+          "summary": "Planowanie wsparcie dla recurring koszty i przyszłe nieruchomość potrzeby.",
+          "detail": "My wsparcie budget planowanie dla recurring koszty, expected działa, konserwacja potrzeby, i przyszłe nieruchomość wymagania, pomagając Komitet zarządzający przygotujemy z więcej jasność."
+        },
+        {
+          "title": "fundusz rezerwowy",
+          "summary": "rezerwowy fundusz dla przyszłe naprawy, wymiany, i unexpected koszty.",
+          "detail": "Dla każdy budynek mieszkalny lub kompleks mieszkaniowy, my pomagamy tworzą i utrzymać rezerwowy fundusz. purpose rezerwowy fundusz jest do przygotujemy dla przyszłe wydatki, aby kiedy something breaks lub potrzeby replacement, nieruchomość jest financially gotowe do działamy."
+        }
+      ],
+      "legal": [
+        {
+          "title": "Ogólne Zebranie Protokoły",
+          "summary": "Recording i filing ogólne zebranie protokoły.",
+          "detail": "My zapis i file protokoły ogólne meetings aby nieruchomość decyzje, discussions, i agreed działania pozostają właściwie udokumentowane."
+        },
+        {
+          "title": "Bank-Związana Protokoły i Rejestry",
+          "summary": "Dokumentacja wsparcie dla bank-związana dokumentacja nieruchomości.",
+          "detail": "My zapis i file bank-związana protokoły, uchwały, i dokumenty wymagane dla rachunek otwarcie, rachunek aktualizacje, signatory changes, lub inne banking sprawy połączone do nieruchomość."
+        },
+        {
+          "title": "Prawne Wsparcie dla Komitet zarządzający",
+          "summary": "Wsparcie z nieruchomość-zarządzanie prawne sprawy kiedy potrzebne.",
+          "detail": "My wsparcie Komitet zarządzający z nieruchomość-zarządzanie prawne sprawy, w tym dokumentacja i koordynacja z prawne professionals kiedy specialist advice lub formal prawne assistance jest wymagane."
+        },
+        {
+          "title": "Cap. 224 Zgodność",
+          "summary": "Zarządzanie aligned z Cypr zarządzanie nieruchomościami wymagania.",
+          "detail": "Nasz zarządzanie practices są uporządkowane do comply z Immovable Nieruchomość (Tenure, Registration i Valuation) Prawo, Cap. 224, wspierając właściwe administracja i responsible zarządzanie nieruchomości wspólne."
+        }
+      ]
+    },
+    "coverage": {
+      "eyebrow": "Obsługa całego Cypru",
+      "titleLead": "Zarządzanie nieruchomościami",
+      "titleRest": "w całym Cypr.",
+      "body": "Neurora Property Management wspiera budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne w całym Pafos, Limassol, Larnaka, Nikozja, Ayia Napa i Protaras.",
+      "cityIntro": "Poznaj zasięg przez obszar",
+      "panelTitle": "Jeden uporządkowane standard, każda lokalizacja.",
+      "panelBody": "same system applies czy nieruchomość jest w city centre, coastal obszar lub kompleks mieszkaniowy: jasne komunikacja, wspólne wydatek kontrola, konserwacja koordynacja i udokumentowane działania.",
+      "cta": "Poproś o ocenę"
+    }
+  },
+  "footer": {
+    "groups": {
+      "company": {
+        "title": "Firma",
+        "items": {
+          "about": "Kim jesteśmy",
+          "handle": "Czym się zajmujemy",
+          "process": "Operacyjny System",
+          "contact": "Kontakt",
+          "privacyPolicy": "Polityka prywatności"
+        }
+      },
+      "operations": {
+        "title": "Działania",
+        "items": {
+          "communication": "Komunikacja",
+          "financial": "Kontrola finansowa",
+          "automation": "Automatyzacja & Fakturowanie",
+          "legal": "Prawne Wsparcie"
+        }
+      },
+      "coverage": {
+        "title": "Zasięg",
+        "items": {
+          "cyprus": "Cypr",
+          "paphos": "Pafos",
+          "limassol": "Limassol",
+          "larnaca": "Larnaka",
+          "nicosia": "Nikozja",
+          "ayiaNapa": "Ayia Napa",
+          "protaras": "Protaras"
+        }
+      }
+    },
+    "hours": {
+      "monday": "Poniedziałek",
+      "tuesday": "Wtorek",
+      "wednesday": "Środa",
+      "thursday": "Czwartek",
+      "weekdaysHours": "8:00 - 13:00 | 14:00 - 17:00",
+      "friday": "Piątek",
+      "fridayHours": "8:00 - 13:00",
+      "saturday": "Sobota",
+      "sunday": "Niedziela",
+      "closed": "Zamknięte",
+      "title": "Godziny pracy"
+    },
+    "rights": "© {{year}} Neurora Property Management Ltd. Wszystkie prawa reserved.",
+    "coverageMapAlt": "całym Cyprze zasięg mapa showing Nikozja, Limassol, Larnaka, Pafos, Ayia Napa i Protaras",
+    "coveragePinAria": "{{lokalizacja}} zarządzanie nieruchomościami",
+    "aria": {
+      "whatsapp": "Kontakt Neurora na WhatsApp",
+      "viber": "Kontakt Neurora na Viber",
+      "facebook": "Otwórz Neurora Facebook",
+      "instagram": "Otwórz Neurora Instagram",
+      "email": "E-mail Neurora na neuroraproperties@gmail.com",
+      "phone": "Call Neurora na +357 99 203 600"
+    }
+  },
+  "seo": {
+    "title": "Neurora Property Management | Zarządzanie nieruchomościami na Cyprze",
+    "description": "Profesjonalne zarządzanie nieruchomościami dla budynków mieszkalnych, kompleksów mieszkaniowych i nieruchomości wspólnych na całym Cyprze.",
+    "ldDescription": "Zarządzanie nieruchomościami na Cyprze z przejrzystymi finansami, bezpośrednią komunikacją, koordynacją konserwacji i uporządkowaną administracją."
+  },
+  "privacyPolicy": {
+    "metaTitle": "Polityka prywatności | Neurora Property Management Ltd",
+    "metaDescription": "Polityka prywatności dla Neurora Property Management Ltd, explaining jak strona internetowa enquiries, kontakt formularz submissions, analityka dane, i osobowe informacje są obsługiwane.",
+    "hero": {
+      "eyebrow": "Prawne Informacje",
+      "title": "Polityka prywatności",
+      "subtitle": "To Polityka prywatności explains jak Neurora Property Management Ltd collects, uses, stores, i chroni osobowe dane wysłane przez to strona internetowa.",
+      "effectiveDate": "Data wejścia w życie: 25 czerwca 2026"
+    },
+    "controller": {
+      "label": "Controller kontakt:",
+      "company": "Neurora Property Management Ltd",
+      "emailLabel": "e-mail"
+    },
+    "sections": [
+      {
+        "title": "1. Kto my są",
+        "body": [
+          "To strona internetowa jest obsługiwane przez Neurora Property Management Ltd, zarządzanie nieruchomościami firma oparte w Cypr.",
+          "Dla prywatność-związana pytania, ty może kontakt nam na neuroraproperties@gmail.com."
+        ]
+      },
+      {
+        "title": "2. Informacje my zbierać",
+        "body": [
+          "Kiedy ty użytkowania nasz kontakt lub oferta formularz, my may zbierać informacje ty wybrać do podać, w tym twoja nazwa, e-mail adres, telefon numer, nieruchomość typ, nieruchomość nazwa, lokalizacja, adres, rok budowa, numer floors, numer lokale, notatki, i każdy inne szczegóły wysłane przez formularz.",
+          "My may also zbierać podstawowe technical i usage informacje przez Google Analityka, takie jako strona views, interactions, approximate lokalizacja, przeglądarka typ, urządzenie typ, i referral source."
+        ]
+      },
+      {
+        "title": "3. Jak my użytkowania twoja informacje",
+        "body": [
+          "My użytkowania informacje wysłane przez strona internetowa do odpowiedzieć do enquiries, przygotujemy proposals, komunikują się z potential klienci, zrozumieć potrzeby nieruchomość, ulepszyć nasz strona internetowa, i utrzymać strona internetowa bezpieczeństwo i reliability.",
+          "Analityka informacje jest używane do zrozumieć jak goście użytkowania strona internetowa i do ulepszyć strona internetowa experience i wydajność."
+        ]
+      },
+      {
+        "title": "4. Prawne podstawa dla przetwarzania",
+        "body": [
+          "Zależnie na kontekst, my may proces osobowe dane ponieważ to jest niezbędne do odpowiedzieć do twoja zapytanie lub przejmij kroki przed entering w contract, ponieważ my mają legitimate interest w operacyjny i improving nasz strona internetowa i usługi, ponieważ my potrzebują do comply z prawne obligations, lub ponieważ ty mają given zgoda gdzie zgoda jest wymagane."
+        ]
+      },
+      {
+        "title": "5. Sharing informacje",
+        "body": [
+          "My rób nie sell osobowe dane. My may udział limited informacje z usługa dostawcami że pomagamy nam operate strona internetowa, otrzymują formularz submissions, send emails, host strona internetowa, lub measure strona internetowa wydajność, w tym Cloudflare, Resend, Google Analityka, i similar technical dostawcami gdzie relevant.",
+          "Te dostawcami may proces dane outside Cypr lub European Economic Obszar gdzie ich infrastructure lub wsparcie teams operate, subject do applicable dane ochrona safeguards."
+        ]
+      },
+      {
+        "title": "6. Pliki cookie i analityka",
+        "body": [
+          "strona internetowa uses niezbędne technologie wymagane dla strona do praca prawidłowo. Te may wsparcie podstawowe funkcje takie jako bezpieczeństwo, language selection, formularz działaniu, i saving twoja pliki cookie preferencje.",
+          "Opcjonalne analityka pliki cookie są używane tylko jeśli ty give zgoda. Kiedy zaakceptowane, Google Analityka may pomagamy nam zrozumieć strona views, visitor interactions, approximate lokalizacja, urządzenie typ, przeglądarka typ, i referral source aby my może ulepszyć strona internetowa.",
+          "Ty może accept, reject, lub zarządzaj opcjonalne pliki cookie przez pliki cookie banner. Ty może also update twoja preferencje od to Polityka prywatności strona."
+        ]
+      },
+      {
+        "title": "7. Jak long my utrzymuj informacje",
+        "body": [
+          "My utrzymuj zapytanie i komunikacja rejestry tylko dla jako long jako reasonably niezbędne do odpowiedzieć do zapytanie, przygotujemy oferta, utrzymać business rejestry, resolve spory, lub comply z prawne obligations.",
+          "Analityka dane jest retained according do settings i przechowywanie periods configured w Google Analityka."
+        ]
+      },
+      {
+        "title": "8. Twoja prawa",
+        "body": [
+          "Subject do applicable prawo, ty may mają właściwe do zapytanie dostęp do twoja osobowe dane, poprawienie inaccurate dane, deletion dane, restriction przetwarzania, objection do przetwarzania, dane portability, i withdrawal zgoda gdzie przetwarzania jest oparte na zgoda.",
+          "Ty may also mają właściwe do lodge complaint z Office Commissioner dla Osobowe Dane Ochrona w Cypr."
+        ]
+      },
+      {
+        "title": "9. Bezpieczeństwo",
+        "body": [
+          "My przejmij reasonable technical i organisational measures do protect osobowe dane wysłane przez strona internetowa. However, bez online transmission lub przechowywanie system może być guaranteed do być completely secure."
+        ]
+      },
+      {
+        "title": "10. Aktualizacje do to polityka",
+        "body": [
+          "My may update to Polityka prywatności od czas do czas. updated version będziemy być published na to strona z revised effective date."
+        ]
+      }
+    ],
+    "finalContact": {
+      "prefix": "Do exercise prywatność prawa lub ask pytanie o to polityka, kontakt nam na",
+      "suffix": "."
+    },
+    "cookiePreferences": {
+      "title": "Pliki cookie preferencje",
+      "body": "Ty może update twoja opcjonalne pliki cookie choices na każdy czas od to strona. Niezbędne pliki cookie pozostają aktywne ponieważ they są wymagane dla strona internetowa do function właściwie.",
+      "button": "Otwórz Preferencje plików pliki cookie"
+    }
+  },
+  "locationPages": {
+    "shared": {
+      "heroEyebrow": "Obsługa całego Cypru",
+      "primaryCta": "Poproś o ocenę",
+      "secondaryCta": "Zobacz usługi",
+      "introEyebrow": "Zarządzanie nieruchomościami · {{lokalizacja}}",
+      "localContextEyebrow": "Lokalne Zarządzanie Kontekst",
+      "issuesCardTitle": "Co usually breaks down",
+      "servicesEyebrow": "Czym się zajmujemy",
+      "servicesTitle": "Jeden zarządzanie partner dla operacyjne praca behind twoja nieruchomość.",
+      "servicesBody": "Neurora łączy opłaty wspólne, komunikacja, finansowe kontrola, konserwacja koordynacja i rejestry w jeden uporządkowane zarządzanie system.",
+      "coverageEyebrow": "Zasięg Obszary",
+      "coverageTitle": "Zarządzanie nieruchomościami usługi w całym Cypr.",
+      "coverageBody": "My podać uporządkowane zarządzanie nieruchomościami w kluczowe obszary w całym Cypr. Każdy obszar strona pomaga właściciele zrozumieć jak Neurora wspiera nieruchomości w że lokalizacja.",
+      "questionsEyebrow": "Pytania",
+      "questionsTitle": "Zarządzanie nieruchomościami pytania w {{lokalizacja}}.",
+      "ctaTitle": "Potrzebują zarządzanie nieruchomościami w {{lokalizacja}}?",
+      "ctaBody": "Opowiedz nam o twoja budynek mieszkalny, kompleks mieszkaniowy lub wspólne nieruchomość. My będziemy przegląd situation i przygotujemy jasna oferta oparte na nieruchomości rzeczywiste operacyjne potrzeby."
+    },
+    "locations": {
+      "cyprus": "Cypr",
+      "paphos": "Pafos",
+      "limassol": "Limassol",
+      "larnaca": "Larnaka",
+      "nicosia": "Nikozja",
+      "ayiaNapa": "Ayia Napa",
+      "protaras": "Protaras"
+    },
+    "services": [
+      {
+        "title": "Opłaty wspólne",
+        "desc": "Miesięczne opłaty wspólne są zorganizowane, wystawiane i monitorowane przez jasne proces."
+      },
+      {
+        "title": "Finansowe kontrola",
+        "desc": "Środki nieruchomości pozostają połączone do nieruchomość, z widoczność dla Komitet zarządzający."
+      },
+      {
+        "title": "Komunikacja",
+        "desc": "Mieszkańcy i komitety stają się bezpośrednia komunikacja kanały dla aktualizacje i śledzić-w górę."
+      },
+      {
+        "title": "Konserwacja koordynacja",
+        "desc": "Sprzątanie, naprawy, zieleń, media i dostawców sprawy są skoordynowana w jeden miejsce."
+      },
+      {
+        "title": "Prawne wsparcie",
+        "desc": "Decyzje, rejestry i zarządzanie działania są supported przez właściwe struktura i dokumentacja."
+      },
+      {
+        "title": "Dokumentacja",
+        "desc": "Płatności, wydatki, protokoły, decyzje i operacyjne aktualizacje są utrzymywane zorganizowane."
+      }
+    ],
+    "pages": {
+      "cyprus": {
+        "name": "Cypr",
+        "slug": "nieruchomość-zarządzanie-cyprus",
+        "metaTitle": "Zarządzanie nieruchomościami Cypr | Neurora Property Management",
+        "metaDescription": "całym Cyprze zarządzanie nieruchomościami dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne. Finansowe kontrola, opłaty wspólne, komunikacja i konserwacja koordynacja.",
+        "heroTitle": "Zarządzanie nieruchomościami w Cypr",
+        "subtitle": "Uporządkowane zarządzanie nieruchomościami dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne w całym Cypr.",
+        "introTitle": "całym Cyprze zarządzanie nieruchomościami z jeden jasny system operacyjny.",
+        "introBody": "Neurora Property Management wspiera Komitet zarządzającys, właściciele, mieszkańcy i deweloperzy z uporządkowane approach do opłaty wspólne, komunikacja, konserwacja koordynacja, dokumentacja i widoczność finansowa. Neurora pomaga Komitet zarządzającys, właściciele i mieszkańcy utrzymuj codzienne zarządzanie nieruchomościami pod kontrola.",
+        "localTitle": "Stworzone dla budynki i kompleksy mieszkaniowe w całym Cypr.",
+        "localBody": "Kiedy komunikacja, płatności, konserwacja i rejestry są nie połączone przez jeden system, zarządzanie staje się wolna i niejasne. My tworzą przejrzyste ramy gdzie każda działanie ma odpowiedzialność i śledzić-w górę.",
+        "focusPoints": [
+          "Zarządzanie wsparcie dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne.",
+          "Bezpośredni WhatsApp i Viber komunikacja dla szybsze koordynacja.",
+          "Opłaty wspólne, konserwacja, sprzątanie i rejestry obsługiwane przez jeden zarządzanie punkt."
+        ],
+        "issueTitle": "Wspólne zarządzanie nieruchomościami problemy w Cypr.",
+        "issueIntro": "Nieruchomości wspólne często zaczynają zmaga się kiedy decyzje, płatności i konserwacja są obsługiwane nieformalnie. Bez stały struktura, małe problemy może stają się opóźnień, spory lub niepotrzebne koszty.",
+        "issues": [
+          "Opłaty wspólne są nie zawsze zbierane lub monitorowane w górę konsekwentnie.",
+          "Właściciele, mieszkańcy i komitety polegać na rozproszone rozmowy zamiast jeden jasne kanał.",
+          "Konserwacja, naprawy i dostawców sprawy są obsługiwane tylko po problemy pojawią się.",
+          "Decyzje, płatności i dokumentacja nieruchomości są nie zawsze udokumentowane w jeden miejsce."
+        ],
+        "supportTitle": "Jak Neurora wspiera Cypr nieruchomości.",
+        "supportIntro": "Neurora wnosi nieruchomość w uporządkowane system operacyjny, aby komunikacja, środki, dostawcy i rejestry są zarządzane przez jeden jasne ramy.",
+        "supportItems": [
+          "Ustawić w górę komunikacja kanały dla mieszkańcy, właściciele i Komitet zarządzający.",
+          "Organizujemy miesięczne opłaty wspólne, monitorowanie płatności i widoczność finansowa.",
+          "Koordynujemy dostawcy, konserwacja, sprzątanie, media i operacyjne śledzić-w górę.",
+          "Utrzymuj decyzje, wydatki, protokoły i zarządzanie działania właściwie udokumentowane."
+        ],
+        "faq": [
+          {
+            "question": "Robi Neurora podać zarządzanie nieruchomościami w Cypr?",
+            "answer": "Tak. Neurora zapewnia uporządkowane zarządzanie nieruchomościami usługi dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne w Cypr."
+          },
+          {
+            "question": "Co typy nieruchomości rób ty zarządzaj?",
+            "answer": "My zarządzaj budynki mieszkalne, kompleksy mieszkaniowe, domy w obrębie kompleksy, lokale komercyjne i nieruchomości wspólne że wymagają uporządkowane administracja i operacyjne kontrola."
+          }
+        ]
+      },
+      "paphos": {
+        "name": "Pafos",
+        "slug": "nieruchomość-zarządzanie-paphos",
+        "metaTitle": "Zarządzanie nieruchomościami Pafos | Neurora Property Management",
+        "metaDescription": "Zarządzanie nieruchomościami w Pafos dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne. Opłaty wspólne, komunikacja, konserwacja koordynacja i finansowe kontrola.",
+        "heroTitle": "Zarządzanie nieruchomościami w Pafos",
+        "subtitle": "Uporządkowane zarządzanie dla Pafos budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne że potrzebują jasność i kontrola.",
+        "introTitle": "jaśniejsze zarządzanie struktura dla Pafos nieruchomości.",
+        "introBody": "Pafos obejmuje permanent residences, budynki mieszkalne, holiday-użytkowania nieruchomości i kompleksy mieszkaniowe z właściciele kto may nie zawsze być na strona. Neurora pomaga Komitet zarządzającys, właściciele i mieszkańcy utrzymuj codzienne zarządzanie nieruchomościami pod kontrola.",
+        "localTitle": "Zarządzanie nieruchomościami designed dla Pafos ownership realities.",
+        "localBody": "Kiedy komunikacja, płatności, konserwacja i rejestry są nie połączone przez jeden system, zarządzanie staje się wolna i niejasne. My tworzą przejrzyste ramy gdzie każda działanie ma odpowiedzialność i śledzić-w górę.",
+        "focusPoints": [
+          "Zarządzanie wsparcie dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne.",
+          "Bezpośredni WhatsApp i Viber komunikacja dla szybsze koordynacja.",
+          "Opłaty wspólne, konserwacja, sprzątanie i rejestry obsługiwane przez jeden zarządzanie punkt."
+        ],
+        "issueTitle": "Wspólne zarządzanie nieruchomościami problemy w Pafos.",
+        "issueIntro": "Nieruchomości wspólne często zaczynają zmaga się kiedy decyzje, płatności i konserwacja są obsługiwane nieformalnie. Bez stały struktura, małe problemy może stają się opóźnień, spory lub niepotrzebne koszty.",
+        "issues": [
+          "Opłaty wspólne są nie zawsze zbierane lub monitorowane w górę konsekwentnie.",
+          "Właściciele, mieszkańcy i komitety polegać na rozproszone rozmowy zamiast jeden jasne kanał.",
+          "Konserwacja, naprawy i dostawców sprawy są obsługiwane tylko po problemy pojawią się.",
+          "Decyzje, płatności i dokumentacja nieruchomości są nie zawsze udokumentowane w jeden miejsce."
+        ],
+        "supportTitle": "Jak Neurora wspiera Pafos nieruchomości.",
+        "supportIntro": "Neurora wnosi nieruchomość w uporządkowane system operacyjny, aby komunikacja, środki, dostawcy i rejestry są zarządzane przez jeden jasne ramy.",
+        "supportItems": [
+          "Ustawić w górę komunikacja kanały dla mieszkańcy, właściciele i Komitet zarządzający.",
+          "Organizujemy miesięczne opłaty wspólne, monitorowanie płatności i widoczność finansowa.",
+          "Koordynujemy dostawcy, konserwacja, sprzątanie, media i operacyjne śledzić-w górę.",
+          "Utrzymuj decyzje, wydatki, protokoły i zarządzanie działania właściwie udokumentowane."
+        ],
+        "faq": [
+          {
+            "question": "Robi Neurora podać zarządzanie nieruchomościami w Pafos?",
+            "answer": "Tak. Neurora zapewnia uporządkowane zarządzanie nieruchomościami usługi dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne w Pafos."
+          },
+          {
+            "question": "Co typy nieruchomości rób ty zarządzaj?",
+            "answer": "My zarządzaj budynki mieszkalne, kompleksy mieszkaniowe, domy w obrębie kompleksy, lokale komercyjne i nieruchomości wspólne że wymagają uporządkowane administracja i operacyjne kontrola."
+          }
+        ]
+      },
+      "limassol": {
+        "name": "Limassol",
+        "slug": "nieruchomość-zarządzanie-limassol",
+        "metaTitle": "Zarządzanie nieruchomościami Limassol | Neurora Property Management",
+        "metaDescription": "Zarządzanie nieruchomościami w Limassol dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne. Opłaty wspólne, komunikacja, konserwacja koordynacja i finansowe kontrola.",
+        "heroTitle": "Zarządzanie nieruchomościami w Limassol",
+        "subtitle": "Uporządkowane zarządzanie dla Limassol budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne że potrzebują jasność i kontrola.",
+        "introTitle": "Uporządkowane zarządzanie dla busy Limassol nieruchomości.",
+        "introBody": "Limassol nieruchomości często involve larger budynki, aktywne mieszkaniec grupy, nowe inwestycje i higher expectations wokół komunikacja i konserwacja. Neurora pomaga Komitet zarządzającys, właściciele i mieszkańcy utrzymuj codzienne zarządzanie nieruchomościami pod kontrola.",
+        "localTitle": "Stworzone dla larger budynki i aktywne mieszkaniowy communities.",
+        "localBody": "Kiedy komunikacja, płatności, konserwacja i rejestry są nie połączone przez jeden system, zarządzanie staje się wolna i niejasne. My tworzą przejrzyste ramy gdzie każda działanie ma odpowiedzialność i śledzić-w górę.",
+        "focusPoints": [
+          "Zarządzanie wsparcie dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne.",
+          "Bezpośredni WhatsApp i Viber komunikacja dla szybsze koordynacja.",
+          "Opłaty wspólne, konserwacja, sprzątanie i rejestry obsługiwane przez jeden zarządzanie punkt."
+        ],
+        "issueTitle": "Wspólne zarządzanie nieruchomościami problemy w Limassol.",
+        "issueIntro": "Nieruchomości wspólne często zaczynają zmaga się kiedy decyzje, płatności i konserwacja są obsługiwane nieformalnie. Bez stały struktura, małe problemy może stają się opóźnień, spory lub niepotrzebne koszty.",
+        "issues": [
+          "Opłaty wspólne są nie zawsze zbierane lub monitorowane w górę konsekwentnie.",
+          "Właściciele, mieszkańcy i komitety polegać na rozproszone rozmowy zamiast jeden jasne kanał.",
+          "Konserwacja, naprawy i dostawców sprawy są obsługiwane tylko po problemy pojawią się.",
+          "Decyzje, płatności i dokumentacja nieruchomości są nie zawsze udokumentowane w jeden miejsce."
+        ],
+        "supportTitle": "Jak Neurora wspiera Limassol nieruchomości.",
+        "supportIntro": "Neurora wnosi nieruchomość w uporządkowane system operacyjny, aby komunikacja, środki, dostawcy i rejestry są zarządzane przez jeden jasne ramy.",
+        "supportItems": [
+          "Ustawić w górę komunikacja kanały dla mieszkańcy, właściciele i Komitet zarządzający.",
+          "Organizujemy miesięczne opłaty wspólne, monitorowanie płatności i widoczność finansowa.",
+          "Koordynujemy dostawcy, konserwacja, sprzątanie, media i operacyjne śledzić-w górę.",
+          "Utrzymuj decyzje, wydatki, protokoły i zarządzanie działania właściwie udokumentowane."
+        ],
+        "faq": [
+          {
+            "question": "Robi Neurora podać zarządzanie nieruchomościami w Limassol?",
+            "answer": "Tak. Neurora zapewnia uporządkowane zarządzanie nieruchomościami usługi dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne w Limassol."
+          },
+          {
+            "question": "Co typy nieruchomości rób ty zarządzaj?",
+            "answer": "My zarządzaj budynki mieszkalne, kompleksy mieszkaniowe, domy w obrębie kompleksy, lokale komercyjne i nieruchomości wspólne że wymagają uporządkowane administracja i operacyjne kontrola."
+          }
+        ]
+      },
+      "larnaca": {
+        "name": "Larnaka",
+        "slug": "nieruchomość-zarządzanie-larnaca",
+        "metaTitle": "Zarządzanie nieruchomościami Larnaka | Neurora Property Management",
+        "metaDescription": "Zarządzanie nieruchomościami w Larnaka dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne. Opłaty wspólne, komunikacja, konserwacja koordynacja i finansowe kontrola.",
+        "heroTitle": "Zarządzanie nieruchomościami w Larnaka",
+        "subtitle": "Uporządkowane zarządzanie dla Larnaka budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne że potrzebują jasność i kontrola.",
+        "introTitle": "Bringing struktura do Larnaka nieruchomości wspólne.",
+        "introBody": "Larnaka budynki i mieszkaniowy nieruchomości potrzebują spójne komunikacja, przewidywalny opłaty wspólne i właściwe śledzić-w górę z dostawcy. Neurora pomaga Komitet zarządzającys, właściciele i mieszkańcy utrzymuj codzienne zarządzanie nieruchomościami pod kontrola.",
+        "localTitle": "praktyczny system dla dzień-do-dzień nieruchomość działania.",
+        "localBody": "Kiedy komunikacja, płatności, konserwacja i rejestry są nie połączone przez jeden system, zarządzanie staje się wolna i niejasne. My tworzą przejrzyste ramy gdzie każda działanie ma odpowiedzialność i śledzić-w górę.",
+        "focusPoints": [
+          "Zarządzanie wsparcie dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne.",
+          "Bezpośredni WhatsApp i Viber komunikacja dla szybsze koordynacja.",
+          "Opłaty wspólne, konserwacja, sprzątanie i rejestry obsługiwane przez jeden zarządzanie punkt."
+        ],
+        "issueTitle": "Wspólne zarządzanie nieruchomościami problemy w Larnaka.",
+        "issueIntro": "Nieruchomości wspólne często zaczynają zmaga się kiedy decyzje, płatności i konserwacja są obsługiwane nieformalnie. Bez stały struktura, małe problemy może stają się opóźnień, spory lub niepotrzebne koszty.",
+        "issues": [
+          "Opłaty wspólne są nie zawsze zbierane lub monitorowane w górę konsekwentnie.",
+          "Właściciele, mieszkańcy i komitety polegać na rozproszone rozmowy zamiast jeden jasne kanał.",
+          "Konserwacja, naprawy i dostawców sprawy są obsługiwane tylko po problemy pojawią się.",
+          "Decyzje, płatności i dokumentacja nieruchomości są nie zawsze udokumentowane w jeden miejsce."
+        ],
+        "supportTitle": "Jak Neurora wspiera Larnaka nieruchomości.",
+        "supportIntro": "Neurora wnosi nieruchomość w uporządkowane system operacyjny, aby komunikacja, środki, dostawcy i rejestry są zarządzane przez jeden jasne ramy.",
+        "supportItems": [
+          "Ustawić w górę komunikacja kanały dla mieszkańcy, właściciele i Komitet zarządzający.",
+          "Organizujemy miesięczne opłaty wspólne, monitorowanie płatności i widoczność finansowa.",
+          "Koordynujemy dostawcy, konserwacja, sprzątanie, media i operacyjne śledzić-w górę.",
+          "Utrzymuj decyzje, wydatki, protokoły i zarządzanie działania właściwie udokumentowane."
+        ],
+        "faq": [
+          {
+            "question": "Robi Neurora podać zarządzanie nieruchomościami w Larnaka?",
+            "answer": "Tak. Neurora zapewnia uporządkowane zarządzanie nieruchomościami usługi dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne w Larnaka."
+          },
+          {
+            "question": "Co typy nieruchomości rób ty zarządzaj?",
+            "answer": "My zarządzaj budynki mieszkalne, kompleksy mieszkaniowe, domy w obrębie kompleksy, lokale komercyjne i nieruchomości wspólne że wymagają uporządkowane administracja i operacyjne kontrola."
+          }
+        ]
+      },
+      "nicosia": {
+        "name": "Nikozja",
+        "slug": "nieruchomość-zarządzanie-nicosia",
+        "metaTitle": "Zarządzanie nieruchomościami Nikozja | Neurora Property Management",
+        "metaDescription": "Zarządzanie nieruchomościami w Nikozja dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne. Opłaty wspólne, komunikacja, konserwacja koordynacja i finansowe kontrola.",
+        "heroTitle": "Zarządzanie nieruchomościami w Nikozja",
+        "subtitle": "Uporządkowane zarządzanie dla Nikozja budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne że potrzebują jasność i kontrola.",
+        "introTitle": "Profesjonalne struktura dla Nikozja budynki mieszkalne.",
+        "introBody": "Nikozja nieruchomości często potrzebują strong administracja, jasne komitet rejestry, przewidywalny opłaty wspólne i reliable komunikacja. Neurora pomaga Komitet zarządzającys, właściciele i mieszkańcy utrzymuj codzienne zarządzanie nieruchomościami pod kontrola.",
+        "localTitle": "Designed dla komitety że potrzebują jasność i odpowiedzialność.",
+        "localBody": "Kiedy komunikacja, płatności, konserwacja i rejestry są nie połączone przez jeden system, zarządzanie staje się wolna i niejasne. My tworzą przejrzyste ramy gdzie każda działanie ma odpowiedzialność i śledzić-w górę.",
+        "focusPoints": [
+          "Zarządzanie wsparcie dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne.",
+          "Bezpośredni WhatsApp i Viber komunikacja dla szybsze koordynacja.",
+          "Opłaty wspólne, konserwacja, sprzątanie i rejestry obsługiwane przez jeden zarządzanie punkt."
+        ],
+        "issueTitle": "Wspólne zarządzanie nieruchomościami problemy w Nikozja.",
+        "issueIntro": "Nieruchomości wspólne często zaczynają zmaga się kiedy decyzje, płatności i konserwacja są obsługiwane nieformalnie. Bez stały struktura, małe problemy może stają się opóźnień, spory lub niepotrzebne koszty.",
+        "issues": [
+          "Opłaty wspólne są nie zawsze zbierane lub monitorowane w górę konsekwentnie.",
+          "Właściciele, mieszkańcy i komitety polegać na rozproszone rozmowy zamiast jeden jasne kanał.",
+          "Konserwacja, naprawy i dostawców sprawy są obsługiwane tylko po problemy pojawią się.",
+          "Decyzje, płatności i dokumentacja nieruchomości są nie zawsze udokumentowane w jeden miejsce."
+        ],
+        "supportTitle": "Jak Neurora wspiera Nikozja nieruchomości.",
+        "supportIntro": "Neurora wnosi nieruchomość w uporządkowane system operacyjny, aby komunikacja, środki, dostawcy i rejestry są zarządzane przez jeden jasne ramy.",
+        "supportItems": [
+          "Ustawić w górę komunikacja kanały dla mieszkańcy, właściciele i Komitet zarządzający.",
+          "Organizujemy miesięczne opłaty wspólne, monitorowanie płatności i widoczność finansowa.",
+          "Koordynujemy dostawcy, konserwacja, sprzątanie, media i operacyjne śledzić-w górę.",
+          "Utrzymuj decyzje, wydatki, protokoły i zarządzanie działania właściwie udokumentowane."
+        ],
+        "faq": [
+          {
+            "question": "Robi Neurora podać zarządzanie nieruchomościami w Nikozja?",
+            "answer": "Tak. Neurora zapewnia uporządkowane zarządzanie nieruchomościami usługi dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne w Nikozja."
+          },
+          {
+            "question": "Co typy nieruchomości rób ty zarządzaj?",
+            "answer": "My zarządzaj budynki mieszkalne, kompleksy mieszkaniowe, domy w obrębie kompleksy, lokale komercyjne i nieruchomości wspólne że wymagają uporządkowane administracja i operacyjne kontrola."
+          }
+        ]
+      },
+      "ayiaNapa": {
+        "name": "Ayia Napa",
+        "slug": "nieruchomość-zarządzanie-ayia-napa",
+        "metaTitle": "Zarządzanie nieruchomościami Ayia Napa | Neurora Property Management",
+        "metaDescription": "Zarządzanie nieruchomościami w Ayia Napa dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne. Opłaty wspólne, komunikacja, konserwacja koordynacja i finansowe kontrola.",
+        "heroTitle": "Zarządzanie nieruchomościami w Ayia Napa",
+        "subtitle": "Uporządkowane zarządzanie dla Ayia Napa budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne że potrzebują jasność i kontrola.",
+        "introTitle": "zarządzanie system dla sezonowa i mieszkaniowy nieruchomości w Ayia Napa.",
+        "introBody": "Ayia Napa nieruchomości często face sezonowa użytkowania, changing zamieszkanie i higher pressure na sprzątanie, konserwacja i komunikacja. Neurora pomaga Komitet zarządzającys, właściciele i mieszkańcy utrzymuj codzienne zarządzanie nieruchomościami pod kontrola.",
+        "localTitle": "Jasne koordynacja dla nieruchomości że nie może polegać na nieformalne śledzić-w górę.",
+        "localBody": "Kiedy komunikacja, płatności, konserwacja i rejestry są nie połączone przez jeden system, zarządzanie staje się wolna i niejasne. My tworzą przejrzyste ramy gdzie każda działanie ma odpowiedzialność i śledzić-w górę.",
+        "focusPoints": [
+          "Zarządzanie wsparcie dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne.",
+          "Bezpośredni WhatsApp i Viber komunikacja dla szybsze koordynacja.",
+          "Opłaty wspólne, konserwacja, sprzątanie i rejestry obsługiwane przez jeden zarządzanie punkt."
+        ],
+        "issueTitle": "Wspólne zarządzanie nieruchomościami problemy w Ayia Napa.",
+        "issueIntro": "Nieruchomości wspólne często zaczynają zmaga się kiedy decyzje, płatności i konserwacja są obsługiwane nieformalnie. Bez stały struktura, małe problemy może stają się opóźnień, spory lub niepotrzebne koszty.",
+        "issues": [
+          "Opłaty wspólne są nie zawsze zbierane lub monitorowane w górę konsekwentnie.",
+          "Właściciele, mieszkańcy i komitety polegać na rozproszone rozmowy zamiast jeden jasne kanał.",
+          "Konserwacja, naprawy i dostawców sprawy są obsługiwane tylko po problemy pojawią się.",
+          "Decyzje, płatności i dokumentacja nieruchomości są nie zawsze udokumentowane w jeden miejsce."
+        ],
+        "supportTitle": "Jak Neurora wspiera Ayia Napa nieruchomości.",
+        "supportIntro": "Neurora wnosi nieruchomość w uporządkowane system operacyjny, aby komunikacja, środki, dostawcy i rejestry są zarządzane przez jeden jasne ramy.",
+        "supportItems": [
+          "Ustawić w górę komunikacja kanały dla mieszkańcy, właściciele i Komitet zarządzający.",
+          "Organizujemy miesięczne opłaty wspólne, monitorowanie płatności i widoczność finansowa.",
+          "Koordynujemy dostawcy, konserwacja, sprzątanie, media i operacyjne śledzić-w górę.",
+          "Utrzymuj decyzje, wydatki, protokoły i zarządzanie działania właściwie udokumentowane."
+        ],
+        "faq": [
+          {
+            "question": "Robi Neurora podać zarządzanie nieruchomościami w Ayia Napa?",
+            "answer": "Tak. Neurora zapewnia uporządkowane zarządzanie nieruchomościami usługi dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne w Ayia Napa."
+          },
+          {
+            "question": "Co typy nieruchomości rób ty zarządzaj?",
+            "answer": "My zarządzaj budynki mieszkalne, kompleksy mieszkaniowe, domy w obrębie kompleksy, lokale komercyjne i nieruchomości wspólne że wymagają uporządkowane administracja i operacyjne kontrola."
+          }
+        ]
+      },
+      "protaras": {
+        "name": "Protaras",
+        "slug": "nieruchomość-zarządzanie-protaras",
+        "metaTitle": "Zarządzanie nieruchomościami Protaras | Neurora Property Management",
+        "metaDescription": "Zarządzanie nieruchomościami w Protaras dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne. Opłaty wspólne, komunikacja, konserwacja koordynacja i finansowe kontrola.",
+        "heroTitle": "Zarządzanie nieruchomościami w Protaras",
+        "subtitle": "Uporządkowane zarządzanie dla Protaras budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne że potrzebują jasność i kontrola.",
+        "introTitle": "Jasne zarządzanie dla Protaras mieszkaniowy i nieruchomości wspólne.",
+        "introBody": "Protaras nieruchomości may involve permanent mieszkańcy, sezonowa właściciele, holiday-użytkowania apartamenty i wspólne obiekty. Neurora pomaga Komitet zarządzającys, właściciele i mieszkańcy utrzymuj codzienne zarządzanie nieruchomościami pod kontrola.",
+        "localTitle": "Stworzone dla nieruchomości że potrzebują rok-round widoczność.",
+        "localBody": "Kiedy komunikacja, płatności, konserwacja i rejestry są nie połączone przez jeden system, zarządzanie staje się wolna i niejasne. My tworzą przejrzyste ramy gdzie każda działanie ma odpowiedzialność i śledzić-w górę.",
+        "focusPoints": [
+          "Zarządzanie wsparcie dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne.",
+          "Bezpośredni WhatsApp i Viber komunikacja dla szybsze koordynacja.",
+          "Opłaty wspólne, konserwacja, sprzątanie i rejestry obsługiwane przez jeden zarządzanie punkt."
+        ],
+        "issueTitle": "Wspólne zarządzanie nieruchomościami problemy w Protaras.",
+        "issueIntro": "Nieruchomości wspólne często zaczynają zmaga się kiedy decyzje, płatności i konserwacja są obsługiwane nieformalnie. Bez stały struktura, małe problemy może stają się opóźnień, spory lub niepotrzebne koszty.",
+        "issues": [
+          "Opłaty wspólne są nie zawsze zbierane lub monitorowane w górę konsekwentnie.",
+          "Właściciele, mieszkańcy i komitety polegać na rozproszone rozmowy zamiast jeden jasne kanał.",
+          "Konserwacja, naprawy i dostawców sprawy są obsługiwane tylko po problemy pojawią się.",
+          "Decyzje, płatności i dokumentacja nieruchomości są nie zawsze udokumentowane w jeden miejsce."
+        ],
+        "supportTitle": "Jak Neurora wspiera Protaras nieruchomości.",
+        "supportIntro": "Neurora wnosi nieruchomość w uporządkowane system operacyjny, aby komunikacja, środki, dostawcy i rejestry są zarządzane przez jeden jasne ramy.",
+        "supportItems": [
+          "Ustawić w górę komunikacja kanały dla mieszkańcy, właściciele i Komitet zarządzający.",
+          "Organizujemy miesięczne opłaty wspólne, monitorowanie płatności i widoczność finansowa.",
+          "Koordynujemy dostawcy, konserwacja, sprzątanie, media i operacyjne śledzić-w górę.",
+          "Utrzymuj decyzje, wydatki, protokoły i zarządzanie działania właściwie udokumentowane."
+        ],
+        "faq": [
+          {
+            "question": "Robi Neurora podać zarządzanie nieruchomościami w Protaras?",
+            "answer": "Tak. Neurora zapewnia uporządkowane zarządzanie nieruchomościami usługi dla budynki mieszkalne, kompleksy mieszkaniowe i nieruchomości wspólne w Protaras."
+          },
+          {
+            "question": "Co typy nieruchomości rób ty zarządzaj?",
+            "answer": "My zarządzaj budynki mieszkalne, kompleksy mieszkaniowe, domy w obrębie kompleksy, lokale komercyjne i nieruchomości wspólne że wymagają uporządkowane administracja i operacyjne kontrola."
+          }
+        ]
+      }
+    }
+  },
+  "cookieConsent": {
+    "banner": {
+      "eyebrow": "Prywatność Preferencje",
+      "title": "Używamy plików pliki cookie odpowiedzialnie.",
+      "body": "My użytkowania niezbędne pliki cookie do utrzymuj strona internetowa working i opcjonalne analityka pliki cookie do zrozumieć jak goście użytkowania strona internetowa.",
+      "privacyLink": "Polityka prywatności"
+    },
+    "buttons": {
+      "acceptAll": "Akceptuj wszystko",
+      "rejectAll": "Odrzuć wszystko",
+      "manage": "Zarządzaj",
+      "save": "Zapisz preferencje",
+      "close": "Zamknij"
+    },
+    "preferences": {
+      "title": "Pliki cookie preferencje",
+      "body": "Wybrać które opcjonalne pliki cookie Neurora Property Management Ltd may użytkowania na to strona internetowa.",
+      "necessary": {
+        "title": "Niezbędne pliki pliki cookie",
+        "body": "Wymagane dla strona internetowa do praca właściwie. Te nie może być switched off here."
+      },
+      "analytics": {
+        "title": "Analityczne pliki pliki cookie",
+        "body": "Pomagamy nam zrozumieć strona internetowa traffic i visitor behaviour przez Google Analityka."
+      },
+      "marketing": {
+        "title": "Marketing pliki cookie",
+        "body": "Reserved dla przyszłe marketing tools. My rób nie load marketing tools unless to preference jest zaakceptowane i takie tools są added."
+      }
+    }
+  },
+  "logo": {
+    "alt": "Logo Neurora Property Management"
+  },
+  "notFound": {
+    "title": "Ups! Strona nie została znaleziona",
+    "home": "Wróć na stronę główną",
+    "body": "Ups! Nie znaleziono strony"
+  },
+  "floatingContact": {
+    "aria": {
+      "open": "Otwórz quick kontakt menu",
+      "close": "Zamknij szybkie menu kontaktowe",
+      "instagram": "Otwórz Neurora Instagram",
+      "facebook": "Otwórz Neurora Facebook",
+      "viber": "Kontakt Neurora na Viber",
+      "whatsapp": "Kontakt Neurora na WhatsApp",
+      "email": "Napisz e-mail rób Neurora",
+      "call": "Zadzwoń rób Neurora"
+    }
+  },
+  "whyNeurora": {
+    "eyebrow": "Dlaczego Neurora",
+    "title": "standard opieka reserved dla nieruchomości że matter.",
+    "subtitle": "Właściciele zaufanie Neurora ponieważ każda detail jest zarządzane z discretion, precision, i genuine odpowiedzialność.",
+    "items": [
+      {
+        "title": "Własność bez problemów",
+        "desc": "My przejmij wszystko off twoja plate."
+      },
+      {
+        "title": "Rzetelnie i szybko",
+        "desc": "Swift działanie whenever to sprawy."
+      },
+      {
+        "title": "Przejrzyste Wydatki",
+        "desc": "Jasne rejestry, bez surprises."
+      },
+      {
+        "title": "Trusted Sieć",
+        "desc": "Vetted professionals tylko."
+      },
+      {
+        "title": "Attention do Detail",
+        "desc": "Opieka jest w każda interaction."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Opinie",
+    "title": "Trusted przez właściciele kto oczekuj więcej.",
+    "items": [
+      {
+        "quote": "Neurora ma completely transformed jak I zarządzaj my nieruchomość od abroad. Wszystko jest obsługiwane, i I nigdy mają do worry. They truly opieka.",
+        "name": "Daniel R.",
+        "role": "Overseas Nieruchomość Właściciel"
+      },
+      {
+        "quote": "Profesjonalne, responsive, i meticulous. Rachunki, naprawy, i wykonawcy wszystkie skoordynowana seamlessly. peace mind jest genuinely priceless.",
+        "name": "Elena M.",
+        "role": "Prywatne Investor"
+      },
+      {
+        "quote": "Reliability ty może czują się. Reports są jasne, zespół jest trustworthy, i my nieruchomość jest zawsze w immaculate condition.",
+        "name": "James T.",
+        "role": "Mieszkaniowy Właściciel"
+      }
+    ]
+  },
+  "common": {
+    "close": "Zamknij"
+  }
+}

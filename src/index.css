@@ -1,0 +1,169 @@
+/* Neurora — Arial only, by design */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Neurora Property Management — Design System
+   Premium, calm, trustworthy. Deep navy + soft gold accent.
+   All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 217 45% 12%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 217 45% 12%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 217 45% 12%;
+
+    /* Brand: solid black (aligns with logo) */
+    --primary: 0 0% 0%;
+    --primary-foreground: 40 30% 96%;
+    --primary-glow: 0 0% 12%;
+
+    /* Soft gray surface */
+    --secondary: 215 20% 96%;
+    --secondary-foreground: 217 45% 16%;
+
+    --muted: 215 20% 96%;
+    --muted-foreground: 217 15% 42%;
+
+    /* Soft gold accent */
+    --accent: 40 55% 58%;
+    --accent-foreground: 217 55% 12%;
+    --accent-soft: 40 60% 92%;
+
+    --destructive: 0 70% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 215 20% 90%;
+    --input: 215 20% 90%;
+    --ring: 217 55% 16%;
+
+    --radius: 0.5rem;
+
+    /* Brand gradients & shadows */
+    --gradient-hero: linear-gradient(180deg, hsl(0 0% 0% / 0.55) 0%, hsl(0 0% 0% / 0.78) 100%);
+    --gradient-navy: linear-gradient(135deg, hsl(0 0% 0%) 0%, hsl(0 0% 10%) 100%);
+    --gradient-gold: linear-gradient(135deg, hsl(40 60% 62%) 0%, hsl(38 55% 52%) 100%);
+    --gradient-soft: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(215 25% 97%) 100%);
+
+    --shadow-elegant: 0 20px 60px -20px hsl(217 55% 16% / 0.18);
+    --shadow-soft: 0 8px 30px -10px hsl(217 30% 20% / 0.10);
+    --shadow-card: 0 1px 3px hsl(217 30% 20% / 0.04), 0 10px 40px -15px hsl(217 30% 20% / 0.08);
+    --shadow-gold: 0 14px 40px -14px hsl(40 55% 50% / 0.45);
+
+    --transition-smooth: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    --transition-base: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 217 45% 8%;
+    --foreground: 40 30% 96%;
+    --card: 217 45% 10%;
+    --card-foreground: 40 30% 96%;
+    --popover: 217 45% 10%;
+    --popover-foreground: 40 30% 96%;
+    --primary: 40 55% 58%;
+    --primary-foreground: 217 55% 12%;
+    --secondary: 217 30% 16%;
+    --secondary-foreground: 40 30% 96%;
+    --muted: 217 30% 16%;
+    --muted-foreground: 215 15% 65%;
+    --accent: 40 55% 58%;
+    --accent-foreground: 217 55% 12%;
+    --destructive: 0 62.8% 40%;
+    --destructive-foreground: 40 30% 96%;
+    --border: 217 30% 18%;
+    --input: 217 30% 18%;
+    --ring: 40 55% 58%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    @apply tracking-tight font-bold;
+  }
+
+  /* RTL support (Hebrew, etc.) */
+  html[dir="rtl"] body {
+    direction: rtl;
+  }
+  html[dir="rtl"] .text-balance {
+    text-align: right;
+  }
+  /* Mirror lucide arrow icons that imply direction in RTL */
+  html[dir="rtl"] .lucide-arrow-right,
+  html[dir="rtl"] .lucide-arrow-left,
+  html[dir="rtl"] .lucide-chevron-right,
+  html[dir="rtl"] .lucide-chevron-left {
+    transform: scaleX(-1);
+  }
+}
+
+@layer utilities {
+  .container-narrow {
+    @apply max-w-6xl mx-auto px-5 sm:px-6 lg:px-8;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  .bg-gradient-hero {
+    background-image: var(--gradient-hero);
+  }
+  .bg-gradient-navy {
+    background-image: var(--gradient-navy);
+  }
+  .bg-gradient-gold {
+    background-image: var(--gradient-gold);
+  }
+  .bg-gradient-soft {
+    background-image: var(--gradient-soft);
+  }
+  .shadow-elegant {
+    box-shadow: var(--shadow-elegant);
+  }
+  .shadow-soft {
+    box-shadow: var(--shadow-soft);
+  }
+  .shadow-card {
+    box-shadow: var(--shadow-card);
+  }
+  .shadow-gold {
+    box-shadow: var(--shadow-gold);
+  }
+  .transition-smooth {
+    transition: var(--transition-smooth);
+  }
+  .transition-base {
+    transition: var(--transition-base);
+  }
+}
