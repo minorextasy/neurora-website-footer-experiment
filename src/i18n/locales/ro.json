@@ -1445,7 +1445,11 @@
       "marketing": {
         "title": "Cookie-uri de marketing",
         "body": "Folosim cookie-uri necesare pentru funcționarea website-ului și cookie-uri opționale de analiză pentru a înțelege modul în care vizitatorii folosesc website-ul."
-      }
+      },
+      "policyBody": "Pentru mai multe informații despre modul în care utilizăm cookie-urile și tehnologii similare, consultați",
+      "policyLink": "Politica de confidențialitate",
+      "consentTitle": "Preferințele dumneavoastră privind consimțământul",
+      "consentBody": "Gestionați opțiunile pentru tehnologiile opționale utilizate pe acest site. Puteți activa sau dezactiva fiecare categorie în funcție de preferințele dumneavoastră."
     }
   },
   "floatingContact": {

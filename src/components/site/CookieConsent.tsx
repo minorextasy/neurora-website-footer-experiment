@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { useTranslation } from "react-i18next";
-import { X } from "lucide-react";
+import { KeyRound, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const GA_ID = "G-QLLL8TWL31";
@@ -105,6 +105,9 @@ const loadGoogleAnalytics = () => {
 };
 
 const applyCookiePreferences = (preferences: CookiePreferences) => {
+  // Analytics is the only optional technology currently active.
+  // Marketing remains a future-proof consent category, but no marketing
+  // technology is loaded by the website at present.
   if (preferences.analytics) {
     loadGoogleAnalytics();
   } else {
@@ -172,8 +175,10 @@ const PreferenceSwitch = ({
       >
         <span
           className={cn(
-            "absolute top-1/2 h-[1.125rem] w-[1.125rem] -translate-y-1/2 rounded-full bg-white shadow-sm transition-transform sm:h-5 sm:w-5",
-            checked ? "translate-x-[1.35rem] sm:translate-x-5" : "translate-x-1"
+            "absolute top-1/2 h-[1.125rem] w-[1.125rem] -translate-y-1/2 rounded-full bg-white shadow-sm transition-[left] duration-200 sm:h-5 sm:w-5",
+            checked
+              ? "left-[calc(100%-1.375rem)] sm:left-[calc(100%-1.25rem)]"
+              : "left-1"
           )}
         />
       </button>
@@ -251,9 +256,13 @@ const CookieConsent = () => {
       marketing: !current.marketing,
     }));
 
-  if (!showBanner && !manageOpen) {
-    return null;
-  }
+  const openPreferences = () => {
+    const latest = getStoredPreferences();
+    setPreferences(latest ?? defaultPreferences);
+    setManageOpen(true);
+    setShowBanner(false);
+  };
+
 
   return (
     <>
@@ -307,20 +316,63 @@ const CookieConsent = () => {
         </div>
       )}
 
+      {/* Persistent privacy-preferences button — always visible */}
+      {!manageOpen && (
+        <button
+          type="button"
+          onClick={openPreferences}
+          aria-label={t("cookieConsent.buttons.openPreferences")}
+          title={t("cookieConsent.buttons.openPreferences")}
+          className="fixed bottom-4 left-4 z-[95] flex h-10 w-10 items-center justify-center rounded-full border border-accent/50 bg-white text-accent shadow-[0_8px_30px_rgba(0,0,0,0.2)] transition-all duration-300 hover:scale-105 hover:bg-accent hover:text-accent-foreground focus:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 sm:bottom-5 sm:left-5"
+        >
+          <KeyRound className="h-[18px] w-[18px]" strokeWidth={2} />
+        </button>
+      )}
+
       {manageOpen && (
         <div className="fixed inset-0 z-[110] flex items-end justify-center bg-black/70 px-3 py-3 backdrop-blur-sm sm:items-center sm:px-4 sm:py-6">
-          <div className="w-full max-w-xl overflow-hidden rounded-[1.35rem] border border-border bg-white shadow-[0_24px_100px_rgba(0,0,0,0.28)] sm:rounded-[1.8rem]">
+          <div
+            role="dialog"
+            aria-modal="true"
+            aria-labelledby="neurora-cookie-preferences-title"
+            className="flex max-h-[90vh] w-full max-w-xl flex-col overflow-hidden rounded-[1.35rem] border border-border bg-white shadow-[0_24px_100px_rgba(0,0,0,0.28)] sm:max-h-[80vh] sm:rounded-[1.8rem]"
+          >
             <div className="flex items-start justify-between gap-3 border-b border-border/70 p-4 sm:gap-4 sm:p-6">
               <div>
                 <p className="text-[0.62rem] font-bold uppercase tracking-[0.2em] text-accent sm:text-[0.68rem] sm:tracking-[0.24em]">
                   {t("cookieConsent.banner.eyebrow")}
                 </p>
-                <h2 className="mt-1 text-xl font-bold tracking-[-0.04em] text-foreground sm:mt-2 sm:text-2xl">
-                  {t("cookieConsent.preferences.title")}
-                </h2>
-                <p className="mt-1 text-xs leading-5 text-muted-foreground sm:mt-2 sm:text-sm sm:leading-6">
-                  {t("cookieConsent.preferences.body")}
+                <p className="mt-2 text-xs leading-5 text-muted-foreground sm:text-sm sm:leading-6">
+                  {t("cookieConsent.preferences.policyBody", { defaultValue: "For more information about how we use cookies and similar technologies, please see our" })}{" "}
+                  <a
+                    href={privacyPath}
+                    className="font-semibold text-accent hover:underline"
+                  >
+                    {t("cookieConsent.preferences.policyLink", { defaultValue: "Privacy Policy" })}
+                  </a>
                 </p>
+
+                <div className="mt-5 border-t border-border/70 pt-5">
+                  <h2
+                    id="neurora-cookie-preferences-title"
+                    className="text-xl font-bold tracking-[-0.04em] text-foreground sm:text-2xl"
+                  >
+                    {t("cookieConsent.preferences.title")}
+                  </h2>
+
+                  <p className="mt-2 text-xs leading-5 text-muted-foreground sm:text-sm sm:leading-6">
+                    {t("cookieConsent.preferences.body")}
+                  </p>
+                </div>
+
+                <div className="mt-4 border-t border-border/70 pt-4 sm:mt-5 sm:pt-5">
+                  <h3 className="text-sm font-bold text-foreground sm:text-base">
+                    {t("cookieConsent.preferences.consentTitle", { defaultValue: "Your consent preferences" })}
+                  </h3>
+                  <p className="mt-1 text-xs leading-5 text-muted-foreground sm:text-sm sm:leading-6">
+                    {t("cookieConsent.preferences.consentBody", { defaultValue: "Manage your choices for optional technologies used on this website. You can enable or disable each category according to your preferences." })}
+                  </p>
+                </div>
               </div>
               <button
                 type="button"
@@ -332,7 +384,7 @@ const CookieConsent = () => {
               </button>
             </div>
 
-            <div className="max-h-[58vh] space-y-2 overflow-y-auto p-4 sm:max-h-[62vh] sm:space-y-3 sm:p-6">
+            <div className="min-h-0 flex-1 space-y-2 overflow-y-auto p-4 sm:space-y-3 sm:p-6">
               <PreferenceSwitch
                 checked
                 disabled

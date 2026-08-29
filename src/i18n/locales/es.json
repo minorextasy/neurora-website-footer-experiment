@@ -1445,7 +1445,11 @@
       "marketing": {
         "title": "Cookies de marketing",
         "body": "Usamos cookies necesarias para que el sitio funcione y cookies analíticas opcionales para entender cómo los visitantes usan el sitio."
-      }
+      },
+      "policyBody": "Para obtener más información sobre cómo utilizamos las cookies y tecnologías similares, consulte nuestra",
+      "policyLink": "Política de privacidad",
+      "consentTitle": "Tus preferencias de consentimiento",
+      "consentBody": "Gestiona tus opciones para las tecnologías opcionales utilizadas en este sitio web. Puedes activar o desactivar cada categoría según tus preferencias."
     }
   },
   "logo": {

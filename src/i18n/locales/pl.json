@@ -1445,7 +1445,11 @@
       "marketing": {
         "title": "Marketing pliki cookie",
         "body": "Reserved dla przyszłe marketing tools. My rób nie load marketing tools unless to preference jest zaakceptowane i takie tools są added."
-      }
+      },
+      "policyBody": "Więcej informacji o tym, jak wykorzystujemy pliki cookie i podobne technologie, można znaleźć w naszej",
+      "policyLink": "Polityce prywatności",
+      "consentTitle": "Twoje preferencje dotyczące zgody",
+      "consentBody": "Zarządzaj swoimi wyborami dotyczącymi opcjonalnych technologii używanych na tej stronie. Możesz włączyć lub wyłączyć każdą kategorię zgodnie ze swoimi preferencjami."
     }
   },
   "logo": {

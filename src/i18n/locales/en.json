@@ -664,8 +664,7 @@
       ],
       "submit": "Submit Request",
       "submitting": "Sending...",
-      "mapTitle": "Property location preview",
-      "recommendationName": "Name of the person or company that recommended us (optional)"
+      "mapTitle": "Property location preview"
     },
     "step6": {
       "title": "Request received.",
@@ -1436,16 +1435,20 @@
       "body": "Choose which optional cookies Neurora Property Management Ltd may use on this website.",
       "necessary": {
         "title": "Necessary cookies",
-        "body": "Required for the website to work properly. These cannot be switched off here."
+        "body": "These technologies support the essential operation, security and functionality of our website and the services we provide. They are required for certain features to work correctly and are not subject to consent."
       },
       "analytics": {
         "title": "Analytics cookies",
-        "body": "Help us understand website traffic and visitor behaviour through Google Analytics."
+        "body": "These technologies allow us to understand how our website is being used, such as which pages are visited and how visitors interact with our content. This information helps us evaluate and improve the performance of our website."
       },
       "marketing": {
         "title": "Marketing cookies",
-        "body": "Reserved for future marketing tools. We do not load marketing tools unless this preference is accepted and such tools are added."
-      }
+        "body": "These technologies can support marketing activities, including delivering relevant content and evaluating its effectiveness. No marketing technologies are currently active on this website."
+      },
+      "policyBody": "For more information about how we use cookies and similar technologies, please see our",
+      "policyLink": "Privacy Policy",
+      "consentTitle": "Your consent preferences",
+      "consentBody": "Manage your choices for optional technologies used on this website. You can enable or disable each category according to your preferences."
     }
   },
   "logo": {
