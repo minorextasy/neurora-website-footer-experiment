@@ -14,6 +14,7 @@ import PrivacyPolicyPage from "./pages/PrivacyPolicyPage.tsx";
 import PropertyManagementLocationPage from "./pages/PropertyManagementLocationPage.tsx";
 import NotFound from "./pages/NotFound.tsx";
 import CookieConsent from "./components/site/CookieConsent.tsx";
+import NoraChat from "./components/site/NoraChat.tsx";
 
 const queryClient = new QueryClient();
 
@@ -295,6 +296,7 @@ const App = () => (
         <ScrollToTop />
         <AppRoutes />
         <CookieConsent />
+        <NoraChat />
       </BrowserRouter>
     </TooltipProvider>
   </QueryClientProvider>
