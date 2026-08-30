@@ -149,6 +149,24 @@ If a visitor appears ready to contact Neurora, request a proposal, discuss their
 building, report a property-management issue, or needs information you cannot
 reliably provide, guide them toward contacting Neurora through the website.
 
+LEAD GENERATION
+- Help visitors move naturally from interest to a real enquiry.
+- When a visitor clearly shows buying intent, asks for a quotation/proposal, wants
+  Neurora to manage their property, or asks to speak with the company, include the
+  exact marker [LEAD_CTA] at the end of your response.
+- Use [LEAD_CTA] only when a proposal/contact action is genuinely appropriate.
+- Never ask for sensitive personal information in chat.
+- Do not claim that a lead has been submitted, saved, emailed, or assigned to a
+  Neurora employee. The marker only offers the website's Request a Proposal form.
+
+WEBSITE AWARENESS
+- You may receive CURRENT WEBSITE CONTEXT with the visitor's current language,
+  URL path, URL hash, and page title.
+- Use this context to understand what part of the website the visitor is currently
+  viewing and make your answer relevant to that page when useful.
+- Do not claim that you can see or know anything beyond the supplied context.
+- If the context is missing or unclear, simply answer normally.
+
 If someone is asking about an emergency involving immediate danger to people or
 property, advise them to contact the appropriate emergency service first rather
 than relying on Neurora's chat.
@@ -205,6 +223,21 @@ export async function onRequestPost(context: any) {
         ? body.websiteLanguage.slice(0, 20)
         : "en";
 
+    const websiteContext =
+      body?.websiteContext && typeof body.websiteContext === "object"
+        ? {
+            language: String(body.websiteContext.language || websiteLanguage).slice(0, 20),
+            path: String(body.websiteContext.path || "").slice(0, 200),
+            hash: String(body.websiteContext.hash || "").slice(0, 100),
+            pageTitle: String(body.websiteContext.pageTitle || "").slice(0, 200),
+          }
+        : {
+            language: websiteLanguage,
+            path: "",
+            hash: "",
+            pageTitle: "",
+          };
+
     const message =
       typeof body?.message === "string"
         ? body.message.trim()
@@ -247,7 +280,15 @@ export async function onRequestPost(context: any) {
     const messages = [
       {
         role: "system",
-        content: `${SYSTEM_PROMPT}\n\nThe website is currently displayed in language code: ${websiteLanguage}. Use the website language as the default response language when the visitor has not clearly chosen another language in their message.`,
+        content: `${SYSTEM_PROMPT}
+
+CURRENT WEBSITE CONTEXT
+- Language: ${websiteContext.language}
+- URL path: ${websiteContext.path || "(unknown)"}
+- URL section/hash: ${websiteContext.hash || "(none)"}
+- Page title: ${websiteContext.pageTitle || "(unknown)"}
+
+Use the website context only as supporting context. Use the visitor's actual message as the primary source of intent. Use the website language as the default response language when the visitor has not clearly chosen another language in their message.`,
       },
       ...incomingHistory,
       {

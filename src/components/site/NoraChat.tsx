@@ -134,6 +134,13 @@ const NoraChat = () => {
   const noraLanguage = normalizeNoraLanguage(i18n.language);
   const languageContent = NORA_LANGUAGE_CONTENT[noraLanguage] ?? NORA_LANGUAGE_CONTENT.en;
 
+  const getWebsiteContext = () => ({
+    language: noraLanguage,
+    path: window.location.pathname,
+    hash: window.location.hash || "",
+    pageTitle: document.title,
+  });
+
   const [messages, setMessages] = useState<Message[]>([
     {
       role: "assistant",
@@ -201,6 +208,7 @@ const NoraChat = () => {
           message,
           history,
           websiteLanguage: noraLanguage,
+          websiteContext: getWebsiteContext(),
         }),
       });
 
@@ -489,7 +497,29 @@ const NoraChat = () => {
                         : "0 2px 8px rgba(0,0,0,0.10)",
                     }}
                   >
-                    {message.content}
+                    {message.content.replace("[LEAD_CTA]", "").trim()}
+                    {message.role === "assistant" && message.content.includes("[LEAD_CTA]") && (
+                      <button
+                        type="button"
+                        onClick={() => {
+                          window.location.hash = "contact";
+                          document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" });
+                        }}
+                        style={{
+                          marginTop: 10,
+                          border: "none",
+                          borderRadius: 10,
+                          padding: "9px 12px",
+                          background: "#cda34f",
+                          color: "#ffffff",
+                          fontSize: 13,
+                          fontWeight: 700,
+                          cursor: "pointer",
+                        }}
+                      >
+                        {noraLanguage === "el" ? "Ζητήστε Πρόταση" : "Request a Proposal"}
+                      </button>
+                    )}
                   </div>
                 </div>
               );
