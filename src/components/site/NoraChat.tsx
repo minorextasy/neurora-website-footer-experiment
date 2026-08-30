@@ -244,16 +244,23 @@ const NoraChat = () => {
     <>
       {/* Proactive greeting bubble */}
       {!open && showGreetingBubble && (
-        <button
-          type="button"
+        <div
+          role="button"
+          tabIndex={0}
           onClick={openNora}
+          onKeyDown={(event) => {
+            if (event.key === "Enter" || event.key === " ") {
+              event.preventDefault();
+              openNora();
+            }
+          }}
           style={{
             position: "fixed",
             right: "96px",
             bottom: "24px",
             width: "min(280px, calc(100vw - 112px))",
             maxWidth: "280px",
-            padding: "12px 15px",
+            padding: "12px 40px 12px 15px",
             borderRadius: "16px",
             border: "1px solid rgba(20,35,48,0.10)",
             background: "#ffffff",
@@ -266,8 +273,38 @@ const NoraChat = () => {
             boxShadow: "0 10px 30px rgba(0,0,0,0.16)",
           }}
         >
+          <button
+            type="button"
+            aria-label="Dismiss Nora greeting"
+            title="Dismiss"
+            onClick={(event) => {
+              event.stopPropagation();
+              setShowGreetingBubble(false);
+            }}
+            style={{
+              position: "absolute",
+              top: 7,
+              right: 7,
+              width: 22,
+              height: 22,
+              border: "none",
+              borderRadius: "50%",
+              background: "transparent",
+              color: "#7b8794",
+              cursor: "pointer",
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              fontSize: 17,
+              lineHeight: 1,
+              padding: 0,
+            }}
+          >
+            <span aria-hidden="true">×</span>
+          </button>
+
           {languageContent.bubble}
-        </button>
+        </div>
       )}
 
       {/* Floating Nora button */}
