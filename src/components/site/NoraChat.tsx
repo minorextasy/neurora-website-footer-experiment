@@ -8,84 +8,97 @@ type Message = {
   content: string;
 };
 
-const NORA_LANGUAGE_CONTENT: Record<string, { greeting: string; bubble: string; thinking: string; placeholder: string }> = {
+const NORA_LANGUAGE_CONTENT: Record<string, { greeting: string; bubble: string; thinking: string; placeholder: string; redirecting: string }> = {
   en: {
     greeting: "Hello, I'm Nora, the Neurora AI Assistant. How can I help you today?",
     bubble: "Hi! I'm Nora 👋 Can I help you with anything today?",
     thinking: "Nora is thinking...",
     placeholder: "Ask Nora anything...",
+    redirecting: "One moment, I'm redirecting you!",
   },
   el: {
     greeting: "Γεια σας, είμαι η Nora, η ψηφιακή βοηθός της Neurora. Πώς μπορώ να σας βοηθήσω σήμερα;",
     bubble: "Γεια σας! Είμαι η Nora 👋 Μπορώ να σας βοηθήσω με κάτι;",
     thinking: "Η Nora σκέφτεται...",
     placeholder: "Ρωτήστε τη Nora οτιδήποτε...",
+    redirecting: "Μισό λεπτό, σας ανακατευθύνω!",
   },
   ru: {
     greeting: "Здравствуйте, я Nora, виртуальный ассистент Neurora. Чем я могу помочь вам сегодня?",
     bubble: "Здравствуйте! Я Nora 👋 Могу ли я чем-нибудь вам помочь?",
     thinking: "Nora думает...",
     placeholder: "Спросите Nora о чём угодно...",
+    redirecting: "Одну минуту, я перенаправлю вас!",
   },
   he: {
     greeting: "שלום, אני Nora, העוזרת הדיגיטלית של Neurora. איך אוכל לעזור לכם היום?",
     bubble: "שלום! אני Nora 👋 האם אוכל לעזור לכם במשהו?",
     thinking: "Nora חושבת...",
     placeholder: "שאלו את Nora כל דבר...",
+    redirecting: "רגע אחד, אני מעבירה אתכם!",
   },
   zh: {
     greeting: "您好，我是 Nora，Neurora 的数字助理。今天我可以为您提供什么帮助？",
     bubble: "您好！我是 Nora 👋 有什么可以帮您的吗？",
     thinking: "Nora 正在思考...",
     placeholder: "向 Nora 提问...",
+    redirecting: "请稍等，我现在为您跳转！",
   },
   "ar-LB": {
     greeting: "مرحباً، أنا Nora، المساعدة الرقمية لدى Neurora. كيف يمكنني مساعدتك اليوم؟",
     bubble: "مرحباً! أنا Nora 👋 فيّي ساعدك بشي اليوم؟",
     thinking: "Nora عم تفكّر...",
     placeholder: "اسأل Nora عن أي شيء...",
+    redirecting: "لحظة واحدة، رح حوّلكم!",
   },
   uk: {
     greeting: "Вітаю, я Nora, цифрова асистентка Neurora. Чим я можу допомогти вам сьогодні?",
     bubble: "Вітаю! Я Nora 👋 Чи можу я вам чимось допомогти?",
     thinking: "Nora думає...",
     placeholder: "Запитайте Nora про що завгодно...",
+    redirecting: "Одну мить, я перенаправлю вас!",
   },
   de: {
     greeting: "Hallo, ich bin Nora, die digitale Assistentin von Neurora. Wie kann ich Ihnen heute helfen?",
     bubble: "Hallo! Ich bin Nora 👋 Kann ich Ihnen heute behilflich sein?",
     thinking: "Nora denkt nach...",
     placeholder: "Fragen Sie Nora alles...",
+    redirecting: "Einen Moment, ich leite Sie weiter!",
   },
   fr: {
     greeting: "Bonjour, je suis Nora, l’assistante numérique de Neurora. Comment puis-je vous aider aujourd’hui ?",
     bubble: "Bonjour ! Je suis Nora 👋 Puis-je vous aider ?",
     thinking: "Nora réfléchit...",
     placeholder: "Posez une question à Nora...",
+    redirecting: "Un instant, je vous redirige !",
   },
   es: {
     greeting: "Hola, soy Nora, la asistente digital de Neurora. ¿Cómo puedo ayudarte hoy?",
     bubble: "¡Hola! Soy Nora 👋 ¿Puedo ayudarte en algo hoy?",
     thinking: "Nora está pensando...",
     placeholder: "Pregúntale cualquier cosa a Nora...",
+    redirecting: "Un momento, ¡voy a redirigirte!",
   },
   ro: {
     greeting: "Bună ziua, sunt Nora, asistenta digitală a Neurora. Cum vă pot ajuta astăzi?",
     bubble: "Bună! Sunt Nora 👋 Vă pot ajuta cu ceva astăzi?",
     thinking: "Nora se gândește...",
     placeholder: "Întrebați-o pe Nora orice...",
+    redirecting: "O clipă, vă redirecționez!",
   },
   pl: {
     greeting: "Dzień dobry, jestem Nora, cyfrowa asystentka Neurora. Jak mogę dziś pomóc?",
     bubble: "Cześć! Jestem Nora 👋 Czy mogę Ci w czymś pomóc?",
     thinking: "Nora myśli...",
     placeholder: "Zapytaj Norę o cokolwiek...",
+    redirecting: "Chwileczkę, przekieruję Cię!",
   },
   bg: {
     greeting: "Здравейте, аз съм Nora, дигиталният асистент на Neurora. С какво мога да ви помогна днес?",
     bubble: "Здравейте! Аз съм Nora 👋 Мога ли да ви помогна с нещо?",
     thinking: "Nora мисли...",
     placeholder: "Попитайте Nora за каквото пожелаете...",
+    redirecting: "Само момент, ще ви пренасоча!",
   },
 };
 
@@ -172,6 +185,23 @@ const NoraChat = () => {
   };
 
   const inputRef = useRef<HTMLInputElement>(null);
+
+  const redirectToProposal = () => {
+    try {
+      window.sessionStorage.setItem(
+        "neurora-nora-proposal-context",
+        JSON.stringify({ language: noraLanguage, websiteContext: getWebsiteContext(), messages })
+      );
+    } catch (error) {
+      console.warn("Unable to preserve Nora proposal context:", error);
+    }
+
+    setMessages((current) => [...current, { role: "assistant", content: languageContent.redirecting }]);
+
+    window.setTimeout(() => {
+      window.location.href = "/contact";
+    }, 900);
+  };
 
   const sendMessage = async (event?: FormEvent) => {
     event?.preventDefault();
@@ -501,10 +531,7 @@ const NoraChat = () => {
                     {message.role === "assistant" && message.content.includes("[LEAD_CTA]") && (
                       <button
                         type="button"
-                        onClick={() => {
-                          window.location.hash = "contact";
-                          document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" });
-                        }}
+                        onClick={redirectToProposal}
                         style={{
                           marginTop: 10,
                           border: "none",
