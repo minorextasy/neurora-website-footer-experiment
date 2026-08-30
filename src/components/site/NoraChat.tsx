@@ -279,7 +279,7 @@ const NoraChat = () => {
           title="Ask Nora"
           style={{
             position: "fixed",
-            right: "24px",
+            right: "8px",
             bottom: "24px",
             width: "64px",
             height: "64px",
