@@ -137,6 +137,7 @@ const NoraChat = () => {
           onClick={() => setOpen(true)}
           aria-label="Open Nora AI Assistant"
           title="Ask Nora"
+          className="nora-floating-button"
           style={{
             position: "fixed",
             right: "24px",
@@ -422,6 +423,10 @@ const NoraChat = () => {
           }
 
           @media (max-width: 640px) {
+            .nora-floating-button {
+              right: 6px !important;
+            }
+
             .nora-chat-window {
               right: 16px !important;
               bottom: 16px !important;
