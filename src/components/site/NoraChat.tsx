@@ -14,7 +14,7 @@ const NORA_LANGUAGE_CONTENT: Record<string, { greeting: string; bubble: string; 
     bubble: "Hi! I'm Nora 👋 Can I help you with anything today?",
     thinking: "Nora is thinking...",
     placeholder: "Ask Nora anything...",
-    redirecting: "One moment, I'm redirecting you!",
+    redirecting: "One moment, I\'m redirecting you!",
   },
   el: {
     greeting: "Γεια σας, είμαι η Nora, η ψηφιακή βοηθός της Neurora. Πώς μπορώ να σας βοηθήσω σήμερα;",
@@ -190,13 +190,23 @@ const NoraChat = () => {
     try {
       window.sessionStorage.setItem(
         "neurora-nora-proposal-context",
-        JSON.stringify({ language: noraLanguage, websiteContext: getWebsiteContext(), messages })
+        JSON.stringify({
+          language: noraLanguage,
+          websiteContext: getWebsiteContext(),
+          messages,
+        })
       );
     } catch (error) {
       console.warn("Unable to preserve Nora proposal context:", error);
     }
 
-    setMessages((current) => [...current, { role: "assistant", content: languageContent.redirecting }]);
+    setMessages((current) => [
+      ...current,
+      {
+        role: "assistant",
+        content: languageContent.redirecting,
+      },
+    ]);
 
     window.setTimeout(() => {
       window.location.href = "/contact";
@@ -528,25 +538,7 @@ const NoraChat = () => {
                     }}
                   >
                     {message.content.replace("[LEAD_CTA]", "").trim()}
-                    {message.role === "assistant" && message.content.includes("[LEAD_CTA]") && (
-                      <button
-                        type="button"
-                        onClick={redirectToProposal}
-                        style={{
-                          marginTop: 10,
-                          border: "none",
-                          borderRadius: 10,
-                          padding: "9px 12px",
-                          background: "#cda34f",
-                          color: "#ffffff",
-                          fontSize: 13,
-                          fontWeight: 700,
-                          cursor: "pointer",
-                        }}
-                      >
-                        {noraLanguage === "el" ? "Ζητήστε Πρόταση" : "Request a Proposal"}
-                      </button>
-                    )}
+
                   </div>
                 </div>
               );
@@ -585,6 +577,49 @@ const NoraChat = () => {
                 </div>
               </div>
             )}
+          </div>
+
+          {/* Permanent proposal action */}
+          <div
+            style={{
+              padding: "10px 12px",
+              background: "#ffffff",
+              borderTop: "1px solid rgba(20,35,48,0.08)",
+              borderBottom: "1px solid rgba(20,35,48,0.08)",
+            }}
+          >
+            <button
+              type="button"
+              onClick={redirectToProposal}
+              style={{
+                width: "100%",
+                minHeight: 40,
+                border: "none",
+                borderRadius: 11,
+                padding: "9px 12px",
+                background: "#cda34f",
+                color: "#ffffff",
+                fontSize: 13,
+                fontWeight: 700,
+                cursor: "pointer",
+              }}
+            >
+              {{
+  en: "Request a Proposal",
+  el: "Ζητήστε Πρόταση",
+  ru: "Запросить предложение",
+  he: "בקשת הצעה",
+  zh: "申请报价",
+  "ar-LB": "طلب عرض سعر",
+  uk: "Запросити пропозицію",
+  de: "Angebot anfordern",
+  fr: "Demander une proposition",
+  es: "Solicitar una propuesta",
+  ro: "Solicitați o ofertă",
+  pl: "Poproś o ofertę",
+  bg: "Поискайте оферта",
+}[noraLanguage] ?? "Request a Proposal"}
+            </button>
           </div>
 
           {/* Input */}
