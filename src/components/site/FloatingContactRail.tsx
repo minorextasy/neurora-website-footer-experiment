@@ -10,7 +10,7 @@ const FloatingContactRail = () => {
   return (
     <>
       {/* Mobile contact widget: closed chat head, opens vertically upward */}
-      <div className="fixed bottom-[106px] right-4 z-[70] sm:hidden">
+      <div className="fixed bottom-[106px] right-[6px] z-[70] sm:hidden">
         {!mobileOpen ? (
           <button
             type="button"
