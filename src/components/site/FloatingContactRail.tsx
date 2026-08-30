@@ -10,15 +10,15 @@ const FloatingContactRail = () => {
   return (
     <>
       {/* Mobile contact widget: closed chat head, opens vertically upward */}
-      <div className="fixed bottom-[134px] right-4 z-[70] sm:hidden">
+      <div className="fixed bottom-[106px] right-4 z-[70] sm:hidden">
         {!mobileOpen ? (
           <button
             type="button"
             onClick={() => setMobileOpen(true)}
             aria-label={t("floatingContact.aria.open")}
-            className="flex h-12 w-12 items-center justify-center rounded-full border border-white/20 bg-black/30 text-white shadow-[0_14px_42px_rgba(0,0,0,0.28)] backdrop-blur-xl transition-all duration-300 hover:border-accent/50 hover:bg-accent hover:text-accent-foreground active:scale-95"
+            className="flex h-16 w-16 items-center justify-center rounded-full border border-white/20 bg-black/30 text-white shadow-[0_14px_42px_rgba(0,0,0,0.28)] backdrop-blur-xl transition-all duration-300 hover:border-accent/50 hover:bg-accent hover:text-accent-foreground active:scale-95"
           >
-            <MessageCircle className="h-5 w-5" strokeWidth={1.9} />
+            <MessageCircle className="h-6 w-6" strokeWidth={1.9} />
           </button>
         ) : (
           <div className="flex flex-col items-center gap-1.5 rounded-full border border-white/20 bg-black/25 p-1.5 shadow-[0_14px_46px_rgba(0,0,0,0.30)] backdrop-blur-xl">
