@@ -200,6 +200,11 @@ export async function onRequestPost(context: any) {
 
     const body = await context.request.json();
 
+    const websiteLanguage =
+      typeof body?.websiteLanguage === "string"
+        ? body.websiteLanguage.slice(0, 20)
+        : "en";
+
     const message =
       typeof body?.message === "string"
         ? body.message.trim()
@@ -242,7 +247,7 @@ export async function onRequestPost(context: any) {
     const messages = [
       {
         role: "system",
-        content: SYSTEM_PROMPT,
+        content: `${SYSTEM_PROMPT}\n\nThe website is currently displayed in language code: ${websiteLanguage}. Use the website language as the default response language when the visitor has not clearly chosen another language in their message.`,
       },
       ...incomingHistory,
       {
@@ -253,14 +258,19 @@ export async function onRequestPost(context: any) {
 
     const result = await env.AI.run(MODEL, {
       messages,
-      max_completion_tokens: 700,
+      max_completion_tokens: 500,
       temperature: 0.4,
+      chat_template_kwargs: {
+        enable_thinking: false,
+      },
     });
 
     const answer =
-      typeof result?.response === "string"
-        ? result.response.trim()
-        : "";
+      typeof result?.choices?.[0]?.message?.content === "string"
+        ? result.choices[0].message.content.trim()
+        : typeof result?.response === "string"
+          ? result.response.trim()
+          : "";
 
     if (!answer) {
       console.error("Nora returned an empty response:", result);
@@ -275,10 +285,7 @@ export async function onRequestPost(context: any) {
 
     return jsonResponse({
       success: true,
-      assistant: {
-        role: "assistant",
-        content: answer,
-      },
+      answer,
     });
   } catch (error) {
     console.error("Nora chat request failed:", error);

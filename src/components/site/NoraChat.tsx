@@ -1,4 +1,5 @@
-import { FormEvent, useRef, useState } from "react";
+import { FormEvent, useEffect, useRef, useState } from "react";
+import { useTranslation } from "react-i18next";
 import { Send, X, Sparkles, Loader2 } from "lucide-react";
 import noraAvatar from "@/assets/Nora.png";
 
@@ -7,51 +8,161 @@ type Message = {
   content: string;
 };
 
+const NORA_LANGUAGE_CONTENT: Record<string, { greeting: string; bubble: string; thinking: string; placeholder: string }> = {
+  en: {
+    greeting: "Hello, I'm Nora, the Neurora AI Assistant. How can I help you today?",
+    bubble: "Hi! I'm Nora 👋 Can I help you with anything today?",
+    thinking: "Nora is thinking...",
+    placeholder: "Ask Nora anything...",
+  },
+  el: {
+    greeting: "Γεια σας, είμαι η Nora, η ψηφιακή βοηθός της Neurora. Πώς μπορώ να σας βοηθήσω σήμερα;",
+    bubble: "Γεια σας! Είμαι η Nora 👋 Μπορώ να σας βοηθήσω με κάτι;",
+    thinking: "Η Nora σκέφτεται...",
+    placeholder: "Ρωτήστε τη Nora οτιδήποτε...",
+  },
+  ru: {
+    greeting: "Здравствуйте, я Nora, виртуальный ассистент Neurora. Чем я могу помочь вам сегодня?",
+    bubble: "Здравствуйте! Я Nora 👋 Могу ли я чем-нибудь вам помочь?",
+    thinking: "Nora думает...",
+    placeholder: "Спросите Nora о чём угодно...",
+  },
+  he: {
+    greeting: "שלום, אני Nora, העוזרת הדיגיטלית של Neurora. איך אוכל לעזור לכם היום?",
+    bubble: "שלום! אני Nora 👋 האם אוכל לעזור לכם במשהו?",
+    thinking: "Nora חושבת...",
+    placeholder: "שאלו את Nora כל דבר...",
+  },
+  zh: {
+    greeting: "您好，我是 Nora，Neurora 的数字助理。今天我可以为您提供什么帮助？",
+    bubble: "您好！我是 Nora 👋 有什么可以帮您的吗？",
+    thinking: "Nora 正在思考...",
+    placeholder: "向 Nora 提问...",
+  },
+  "ar-LB": {
+    greeting: "مرحباً، أنا Nora، المساعدة الرقمية لدى Neurora. كيف يمكنني مساعدتك اليوم؟",
+    bubble: "مرحباً! أنا Nora 👋 فيّي ساعدك بشي اليوم؟",
+    thinking: "Nora عم تفكّر...",
+    placeholder: "اسأل Nora عن أي شيء...",
+  },
+  uk: {
+    greeting: "Вітаю, я Nora, цифрова асистентка Neurora. Чим я можу допомогти вам сьогодні?",
+    bubble: "Вітаю! Я Nora 👋 Чи можу я вам чимось допомогти?",
+    thinking: "Nora думає...",
+    placeholder: "Запитайте Nora про що завгодно...",
+  },
+  de: {
+    greeting: "Hallo, ich bin Nora, die digitale Assistentin von Neurora. Wie kann ich Ihnen heute helfen?",
+    bubble: "Hallo! Ich bin Nora 👋 Kann ich Ihnen heute behilflich sein?",
+    thinking: "Nora denkt nach...",
+    placeholder: "Fragen Sie Nora alles...",
+  },
+  fr: {
+    greeting: "Bonjour, je suis Nora, l’assistante numérique de Neurora. Comment puis-je vous aider aujourd’hui ?",
+    bubble: "Bonjour ! Je suis Nora 👋 Puis-je vous aider ?",
+    thinking: "Nora réfléchit...",
+    placeholder: "Posez une question à Nora...",
+  },
+  es: {
+    greeting: "Hola, soy Nora, la asistente digital de Neurora. ¿Cómo puedo ayudarte hoy?",
+    bubble: "¡Hola! Soy Nora 👋 ¿Puedo ayudarte en algo hoy?",
+    thinking: "Nora está pensando...",
+    placeholder: "Pregúntale cualquier cosa a Nora...",
+  },
+  ro: {
+    greeting: "Bună ziua, sunt Nora, asistenta digitală a Neurora. Cum vă pot ajuta astăzi?",
+    bubble: "Bună! Sunt Nora 👋 Vă pot ajuta cu ceva astăzi?",
+    thinking: "Nora se gândește...",
+    placeholder: "Întrebați-o pe Nora orice...",
+  },
+  pl: {
+    greeting: "Dzień dobry, jestem Nora, cyfrowa asystentka Neurora. Jak mogę dziś pomóc?",
+    bubble: "Cześć! Jestem Nora 👋 Czy mogę Ci w czymś pomóc?",
+    thinking: "Nora myśli...",
+    placeholder: "Zapytaj Norę o cokolwiek...",
+  },
+  bg: {
+    greeting: "Здравейте, аз съм Nora, дигиталният асистент на Neurora. С какво мога да ви помогна днес?",
+    bubble: "Здравейте! Аз съм Nora 👋 Мога ли да ви помогна с нещо?",
+    thinking: "Nora мисли...",
+    placeholder: "Попитайте Nora за каквото пожелаете...",
+  },
+};
+
+const normalizeNoraLanguage = (language: string) => {
+  const lower = (language || "en").toLowerCase();
+  if (lower === "ar-lb" || lower.startsWith("ar")) return "ar-LB";
+  if (lower.startsWith("zh")) return "zh";
+  if (lower.startsWith("uk")) return "uk";
+  if (lower.startsWith("de")) return "de";
+  if (lower.startsWith("fr")) return "fr";
+  if (lower.startsWith("es")) return "es";
+  if (lower.startsWith("ro")) return "ro";
+  if (lower.startsWith("pl")) return "pl";
+  if (lower.startsWith("bg")) return "bg";
+  if (lower.startsWith("el")) return "el";
+  if (lower.startsWith("ru")) return "ru";
+  if (lower.startsWith("he")) return "he";
+  return "en";
+};
+
 const NoraAvatar = ({ small = false }: { small?: boolean }) => {
-  const size = small ? 42 : 56;
+  const size = small ? 34 : 64;
 
   return (
-    <div
+    <img
+      src={noraAvatar}
+      alt="Nora"
       style={{
         width: size,
         height: size,
         minWidth: size,
-        minHeight: size,
+        display: "block",
+        objectFit: "cover",
         borderRadius: "50%",
-        overflow: "hidden",
-        position: "relative",
-        background: "#172331",
-        border: "2px solid #cda34f",
-        boxShadow: "0 3px 14px rgba(0,0,0,0.18)",
       }}
-    >
-      <img
-        src={noraAvatar}
-        alt="Nora"
-        style={{
-          width: "100%",
-          height: "100%",
-          objectFit: "cover",
-          objectPosition: "center center",
-          display: "block",
-        }}
-      />
-    </div>
+    />
   );
 };
-
 const NoraChat = () => {
+  const { i18n } = useTranslation();
   const [open, setOpen] = useState(false);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
+  const [showGreetingBubble, setShowGreetingBubble] = useState(false);
+
+  const noraLanguage = normalizeNoraLanguage(i18n.language);
+  const languageContent = NORA_LANGUAGE_CONTENT[noraLanguage] ?? NORA_LANGUAGE_CONTENT.en;
 
   const [messages, setMessages] = useState<Message[]>([
     {
       role: "assistant",
-      content:
-        "Hello, I'm Nora, the Neurora AI Assistant. How can I help you today?",
+      content: languageContent.greeting,
     },
   ]);
+
+  useEffect(() => {
+    const greetingSeen = window.sessionStorage.getItem("neurora-nora-greeting-seen");
+    if (!greetingSeen) {
+      const timer = window.setTimeout(() => setShowGreetingBubble(true), 3000);
+      return () => window.clearTimeout(timer);
+    }
+  }, []);
+
+  useEffect(() => {
+    setMessages((current) => {
+      if (current.length === 1 && current[0].role === "assistant") {
+        return [{ role: "assistant", content: languageContent.greeting }];
+      }
+      return current;
+    });
+  }, [languageContent.greeting]);
+
+  const openNora = () => {
+    setOpen(true);
+    setShowGreetingBubble(false);
+    window.sessionStorage.setItem("neurora-nora-greeting-seen", "true");
+  };
 
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -89,6 +200,7 @@ const NoraChat = () => {
         body: JSON.stringify({
           message,
           history,
+          websiteLanguage: noraLanguage,
         }),
       });
 
@@ -130,14 +242,41 @@ const NoraChat = () => {
 
   return (
     <>
+      {/* Proactive greeting bubble */}
+      {!open && showGreetingBubble && (
+        <button
+          type="button"
+          onClick={openNora}
+          style={{
+            position: "fixed",
+            right: "96px",
+            bottom: "24px",
+            width: "min(280px, calc(100vw - 112px))",
+            maxWidth: "280px",
+            padding: "12px 15px",
+            borderRadius: "16px",
+            border: "1px solid rgba(20,35,48,0.10)",
+            background: "#ffffff",
+            color: "#253545",
+            cursor: "pointer",
+            zIndex: 9997,
+            textAlign: "left",
+            fontSize: 13,
+            lineHeight: 1.45,
+            boxShadow: "0 10px 30px rgba(0,0,0,0.16)",
+          }}
+        >
+          {languageContent.bubble}
+        </button>
+      )}
+
       {/* Floating Nora button */}
       {!open && (
         <button
           type="button"
-          onClick={() => setOpen(true)}
+          onClick={openNora}
           aria-label="Open Nora AI Assistant"
           title="Ask Nora"
-          className="nora-floating-button"
           style={{
             position: "fixed",
             right: "24px",
@@ -145,13 +284,12 @@ const NoraChat = () => {
             width: "64px",
             height: "64px",
             borderRadius: "50%",
-            border: "2px solid rgba(255,255,255,0.9)",
+            border: "none",
             padding: 0,
-            background: "#ffffff",
+            background: "transparent",
             cursor: "pointer",
             zIndex: 9998,
-            boxShadow:
-              "0 8px 28px rgba(0,0,0,0.20), 0 0 0 1px rgba(197,153,69,0.25)",
+            boxShadow: "none",
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
@@ -370,7 +508,7 @@ const NoraChat = () => {
               ref={inputRef}
               value={input}
               onChange={(event) => setInput(event.target.value)}
-              placeholder="Ask Nora anything..."
+              placeholder={languageContent.placeholder}
               disabled={loading}
               style={{
                 flex: 1,
@@ -423,10 +561,6 @@ const NoraChat = () => {
           }
 
           @media (max-width: 640px) {
-            .nora-floating-button {
-              right: 6px !important;
-            }
-
             .nora-chat-window {
               right: 16px !important;
               bottom: 16px !important;
