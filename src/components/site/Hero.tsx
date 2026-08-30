@@ -128,7 +128,7 @@ const Hero = () => {
           )}
         </div>
 
-        <div className="absolute bottom-5 left-1/2 flex -translate-x-1/2 flex-col items-center gap-2 text-[9px] uppercase tracking-[0.32em] text-white/45 sm:bottom-8 sm:text-[10px]">
+        <div className="absolute bottom-5 left-1/2 flex -translate-x-1/2 flex-col items-center gap-2 text-[9px] uppercase tracking-[0.32em] text-white/45 sm:text-[10px] md:bottom-2">
           <span className="animate-pulse">
             {t("hero3d.scroll")}
           </span>
