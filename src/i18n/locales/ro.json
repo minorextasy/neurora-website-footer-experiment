@@ -665,7 +665,10 @@
       "submit": "Trimite solicitarea",
       "submitting": "Se trimite...",
       "mapTitle": "Previzualizare locație proprietate",
-      "recommendationName": "Numele persoanei sau al companiei care ne-a recomandat (opțional)"
+      "recommendationName": "Numele persoanei sau al companiei care ne-a recomandat (opțional)",
+      "extraInformation": "Informații suplimentare pe care doriți să ni le comunicați",
+      "extraInformationPlaceholder": "Împărtășiți orice informații suplimentare pe care ați dori să le cunoaștem.",
+      "unitsHelper": "Vă rugăm să includeți toate unitățile din clădire, inclusiv apartamente, magazine, birouri și orice alte unități individuale."
     },
     "step6": {
       "title": "Mulțumim. Am primit solicitarea dumneavoastră.",

@@ -665,7 +665,10 @@
       "submit": "Envoyer la demande",
       "submitting": "Envoi...",
       "mapTitle": "Aperçu de l’emplacement du bien",
-      "recommendationName": "Nom de la personne ou de l’entreprise qui nous a recommandés (facultatif)"
+      "recommendationName": "Nom de la personne ou de l’entreprise qui nous a recommandés (facultatif)",
+      "extraInformation": "Informations supplémentaires que vous souhaitez partager avec nous",
+      "extraInformationPlaceholder": "Partagez toute information supplémentaire que vous souhaitez nous communiquer.",
+      "unitsHelper": "Veuillez inclure toutes les unités du bâtiment, y compris les appartements, commerces, bureaux et toute autre unité individuelle."
     },
     "step6": {
       "title": "Apportez de la structure à votre bien.",

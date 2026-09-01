@@ -664,7 +664,10 @@
       ],
       "submit": "Submit Request",
       "submitting": "Sending...",
-      "mapTitle": "Property location preview"
+      "mapTitle": "Property location preview",
+      "extraInformation": "Extra information you’d like to share with us",
+      "extraInformationPlaceholder": "Share any additional information you'd like us to know.",
+      "unitsHelper": "Please include all units within the building, including apartments, shops, offices, and any other individual units."
     },
     "step6": {
       "title": "Request received.",

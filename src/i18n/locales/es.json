@@ -665,7 +665,10 @@
       "submit": "Enviar solicitud",
       "submitting": "Enviando...",
       "mapTitle": "Vista previa de la ubicación de la propiedad",
-      "recommendationName": "Nombre de la persona o empresa que nos recomendó (opcional)"
+      "recommendationName": "Nombre de la persona o empresa que nos recomendó (opcional)",
+      "extraInformation": "Información adicional que le gustaría compartir con nosotros",
+      "extraInformationPlaceholder": "Comparta cualquier información adicional que le gustaría que supiéramos.",
+      "unitsHelper": "Incluya todas las unidades del edificio, incluidos apartamentos, tiendas, oficinas y cualquier otra unidad individual."
     },
     "step6": {
       "title": "Aporte estructura a su propiedad.",

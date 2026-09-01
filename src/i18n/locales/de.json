@@ -665,7 +665,10 @@
       "submit": "Anfrage senden",
       "submitting": "Wird gesendet...",
       "mapTitle": "Vorschau des Immobilienstandorts",
-      "recommendationName": "Name der Person oder des Unternehmens, die uns empfohlen haben (optional)"
+      "recommendationName": "Name der Person oder des Unternehmens, die uns empfohlen haben (optional)",
+      "extraInformation": "Zusätzliche Informationen, die Sie mit uns teilen möchten",
+      "extraInformationPlaceholder": "Teilen Sie uns alle zusätzlichen Informationen mit, die wir wissen sollten.",
+      "unitsHelper": "Bitte geben Sie alle Einheiten im Gebäude an, einschließlich Wohnungen, Geschäften, Büros und allen anderen einzelnen Einheiten."
     },
     "step6": {
       "title": "Bringen Sie Struktur in Ihre Immobilie.",

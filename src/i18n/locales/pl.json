@@ -665,7 +665,10 @@
       "submit": "Wyślij zapytanie",
       "submitting": "Wysyłanie...",
       "mapTitle": "Nieruchomość lokalizacja podgląd",
-      "recommendationName": "Imię i nazwisko osoby lub nazwa firmy, która nas poleciła (opcjonalnie)"
+      "recommendationName": "Imię i nazwisko osoby lub nazwa firmy, która nas poleciła (opcjonalnie)",
+      "extraInformation": "Dodatkowe informacje, którymi chcieliby Państwo się z nami podzielić",
+      "extraInformationPlaceholder": "Proszę podać wszelkie dodatkowe informacje, o których powinniśmy wiedzieć.",
+      "unitsHelper": "Proszę uwzględnić wszystkie lokale w budynku, w tym mieszkania, sklepy, biura oraz wszelkie inne samodzielne lokale."
     },
     "step6": {
       "title": "Zapytanie otrzymano.",

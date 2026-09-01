@@ -665,7 +665,10 @@
       "submit": "提交请求",
       "submitting": "发送中...",
       "mapTitle": "物业位置预览",
-      "recommendationName": "推荐我们的个人或公司名称（可选）"
+      "recommendationName": "推荐我们的个人或公司名称（可选）",
+      "extraInformation": "您希望与我们分享的其他信息",
+      "extraInformationPlaceholder": "请分享您希望我们了解的任何其他信息。",
+      "unitsHelper": "请包括建筑物内的所有单元，包括公寓、商铺、办公室以及任何其他独立单元。"
     },
     "step6": {
       "title": "请求已收到。",
